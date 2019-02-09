@@ -1,3 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://atmanaut.me"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Atmanaut Base"
+theme = "Chakra"
+googleAnalytics = "UA-123-45"
