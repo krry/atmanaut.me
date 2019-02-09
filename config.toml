@@ -1,7 +1,7 @@
 baseURL = "http://atmanaut.me"
 languageCode = "en-us"
 title = "Atmanaut"
-theme = "Chakra"
+theme = "chakra"
 # googleAnalytics = "UA-123-45"
 [params]
   author = "krry"
