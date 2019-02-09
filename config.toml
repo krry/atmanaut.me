@@ -1,5 +1,9 @@
 baseURL = "http://atmanaut.me"
 languageCode = "en-us"
-title = "Atmanaut Base"
+title = "Atmanaut"
 theme = "Chakra"
-googleAnalytics = "UA-123-45"
+# googleAnalytics = "UA-123-45"
+[params]
+  author = "krry"
+  description = "a live atlas of the atman"
+
