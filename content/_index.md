@@ -1,12 +1,9 @@
 ---
-title: "Welcome to Base"
-subtitle: "All questions welcome"
-menu:
-  main:
-    name: "Base"
-    weight: -1
+title: Home
+subtitle: Spelunking the Self since 2015
+draft: true
+
 ---
+## Welcome, traveler,
 
-## We can has emoji?
-
-I sure would like emoji.
+to the which than which there is no whicher.
