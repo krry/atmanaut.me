@@ -1,6 +1,6 @@
 ---
 title: "Home"
-subtitle: "Hey Google, why come everything?"
+subtitle: "Hey Google, whycome everything?"
 menu:
   main:
     name: "Home"
