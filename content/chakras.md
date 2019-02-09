@@ -1,10 +1,10 @@
 ---
-title: "Chakras"
+title: "Chakra"
 date: 2019-02-09T01:56:40-06:00
 layout: "post"
 menu:
   main:
-    name: "Chaka"
+    name: "Chakra"
     weight: 10
 ---
 
