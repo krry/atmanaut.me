@@ -1,9 +1,12 @@
 ---
-title: "Questions"
+title: Questions
 date: 2019-02-09T16:23:54-06:00
-draft: true
-layout: "post"
+layout: post
+aliases:
+  - /questions/
 ---
+
+# Hard questions
 
 - Who are we?
 - How did we get here?

@@ -10,4 +10,4 @@ menu:
 
 # I can't help myself.
 
-I just have so many [questions](./reality/questions/).
+I just have so many [questions](./questions/).
