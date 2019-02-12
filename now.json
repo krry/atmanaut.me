@@ -2,7 +2,5 @@
   "name": "atmanaut",
   "alias": ["atmanaut.me", "atmanaut.us"],
   "version": 2,
-  "builds": [
-    { "src": "package.json", "use": "@now/static-build", "config": { "distDir": "public" } }
-  ]
+  "type": "static"
 }

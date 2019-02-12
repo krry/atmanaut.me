@@ -4,6 +4,5 @@ theme = "chakra"
 copyleft = "All lefts reversed."
 # googleAnalytics = "UA-123-45"
 [params]
-  author = "krry"
-  description = "a live atlas of the atman"
-
+  author = "krry a.k.a atmanaut"
+  description = "a live atlas of atman"
