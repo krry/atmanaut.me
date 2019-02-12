@@ -1,8 +1,16 @@
 {
   "dependencies": {
-    "hugo-cli": "^0.10.0"
+    "autoprefixer": "^9.4.7",
+    "hugo-cli": "^0.10.0",
+    "postcss": "^7.0.14",
+    "postcss-cli": "^6.1.1"
   },
   "scripts": {
     "now-build": "hugo -d public"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
   }
 }
