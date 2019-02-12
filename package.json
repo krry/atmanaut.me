@@ -6,6 +6,11 @@
     "postcss-cli": "^6.1.1"
   },
   "scripts": {
+    "start": "hugo server -w && open http://localhost:1313",
+    "dev": "rm -rf ./dev && hugo server -wDFd ./dev",
+    "build": "rm -rf ./public && hugo -vm",
+    "deploy": "npm run build && now",
+    "release": "npm run deploy && now alias",
     "now-build": "hugo -d public"
   },
   "postcss": {
