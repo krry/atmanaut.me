@@ -7,11 +7,9 @@
   },
   "scripts": {
     "start": "hugo server -w && open http://localhost:1313",
-    "dev": "rm -rf ./dev && hugo server -wDFd ./dev",
-    "build": "rm -rf ./public && hugo -vm",
-    "deploy": "npm run build && now",
-    "release": "npm run deploy && now alias",
-    "now-build": "hugo -d public"
+    "build": "rm -rf ./public && hugo",
+    "deploy": "npm run build && now public",
+    "release": "npm run deploy && now alias"
   },
   "postcss": {
     "plugins": {

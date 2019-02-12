@@ -1,6 +1,17 @@
 {
+  "version": 2,
   "name": "atmanaut",
   "alias": ["atmanaut.me", "atmanaut.us"],
-  "version": 2,
-  "type": "static"
+  "builds": [
+    {
+      "src": "./public/**",
+      "use": "@now/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "public/$1"
+    }
+  ]
 }
