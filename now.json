@@ -2,5 +2,14 @@
   "version": 2,
   "name": "atmanaut",
   "alias": ["atmanaut.me", "atmanaut.us"],
-  "builds": [{"src": "package.json", "use": "@now/static-build", "config": { "distDir": "public" }}]
+  "build": {
+    "env": {
+      "GIT_SUBMODULE_STRATEGY": "recursive"
+    }
+  },
+  "builds": [
+    { "src": "package.json",
+      "use": "@now/static-build",
+      "config": { "distDir": "public" }}
+  ]
 }
