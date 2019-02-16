@@ -1,6 +1,6 @@
 ---
-title: "Home"
-subtitle: "Hey Google, whycome everything?"
+title: "Atmanautica"
+subtitle: "Spelunking the Essential"
 date: 2019-02-09T02:22:22-06:00
 menu:
   main:
@@ -8,6 +8,6 @@ menu:
     weight: -1
 ---
 
-# I can't help myself.
+# We all play the game.
 
-I just have so many [questions](./questions/).
+This is a strategy guide.

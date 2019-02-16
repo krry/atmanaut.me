@@ -1,5 +1,6 @@
 {
   "version": 2,
   "name": "atmanaut",
-  "alias": ["atmanaut.me", "atmanaut.us"]
+  "alias": ["atmanaut.me", "atmanaut.us"],
+  "builds": [{"src": "public/**", "use": "@now/static"}]
 }

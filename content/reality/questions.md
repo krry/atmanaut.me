@@ -8,6 +8,11 @@ aliases:
 
 # Hard questions
 
+From Kant:
+What can I know?
+What should I do?
+What may I hope?
+
 - Who are we?
 - How did we get here?
 - Why are we here?
