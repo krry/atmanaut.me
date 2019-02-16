@@ -1,13 +1,13 @@
 ---
-title: "Atmanautica"
-subtitle: "Spelunking the Essential"
-date: 2019-02-09T02:22:22-06:00
+title: Atmanautica
+subtitle: Spelunking the Essential
+date: 2019-02-09 08:22:22 +0000
 menu:
   main:
-    name: "Home"
+    name: Home
     weight: -1
----
 
+---
 # We all play the game.
 
-This is a strategy guide.
+## This is a strategy guide.
