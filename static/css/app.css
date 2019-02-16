@@ -1,0 +1,39 @@
+aside.lane {
+  background-image: url("../img/hyperrealief.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+aside.lane:before {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0,0,0,0.7);
+  content: "";
+}
+
+aside.lane * { /* keep sidebar contents on top of shade */
+  position: relative;
+}
+
+.logo {
+  background-image: url('../img/atmanautica-logo-whale.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  height: 7em;
+  width: 100%;
+}
+
+.site-title {
+  margin: 0.5em auto;
+}
+
+.link-home {
+  color: white;
+  text-decoration: none;
+}
+.link-home:hover, .link-home:visited {
+  color: white;
+}
