@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Realities on Atmanaut</title>
+    <link>/reality/</link>
+    <description>Recent content in Realities on Atmanaut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Feb 2019 16:23:54 -0600</lastBuildDate>
+    
+	<atom:link href="/reality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Questions</title>
+      <link>/reality/questions/</link>
+      <pubDate>Sat, 09 Feb 2019 16:23:54 -0600</pubDate>
+      
+      <guid>/reality/questions/</guid>
+      <description>Hard questions From Kant: What can I know? What should I do? What may I hope?
+ Who are we? How did we get here? Why are we here? Who wants to know? Is this a game? How do we win? Can we win? What is there to fear? Who wants pizza? Is there anybody out there? Does the Earth know we&amp;rsquo;re here? Does she have feelings? Do electrons make choices?</description>
+    </item>
+    
+  </channel>
+</rss>

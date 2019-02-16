@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loves on Atmanaut</title>
+    <link>/love/</link>
+    <description>Recent content in Loves on Atmanaut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Feb 2019 16:24:42 -0600</lastBuildDate>
+    
+	<atom:link href="/love/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On Love, Day One</title>
+      <link>/love/day01/</link>
+      <pubDate>Sat, 09 Feb 2019 16:24:42 -0600</pubDate>
+      
+      <guid>/love/day01/</guid>
+      <description>On Love, Day One It&amp;rsquo;s February again, already.
+ Cupid, draw back your bow-ooh-whoa…
+ You know that thing where you find out your ex is seeing somebody new, somebody named Jamie, and suddenly there are &amp;ldquo;Jamies&amp;rdquo; all over the place. Practically all your Google Search results contain &amp;ldquo;Jamie&amp;rdquo;&amp;hellip; Wait a sec, did Facebook get hacked? More like Jamiebook&amp;hellip; Welp, gonna need another bottle of Jamieson. Has it always been spelled like that?</description>
+    </item>
+    
+  </channel>
+</rss>

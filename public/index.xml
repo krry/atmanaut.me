@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atmanautica on Atmanaut</title>
+    <link>/</link>
+    <description>Recent content in Atmanautica on Atmanaut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Feb 2019 02:22:22 -0600</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I Built This Site</title>
+      <link>/code/how-i-built-this/</link>
+      <pubDate>Sat, 09 Feb 2019 16:50:57 -0600</pubDate>
+      
+      <guid>/code/how-i-built-this/</guid>
+      <description>How I Built This Site Delightfully often, when I&amp;rsquo;ve combed the web for help designing, developing, and publishing sites, apps, I land on someone&amp;rsquo;s &amp;ldquo;How I Made This&amp;rdquo; post on their custom blog. That, or on StackOverflow, or on a Github issue, or increasingly these days on DEV. So this one goes out to all those paid it forward and lent me a hand.
+It still feels like nothing short of a miracle to publish a new site.</description>
+    </item>
+    
+    <item>
+      <title>On Love, Day One</title>
+      <link>/love/day01/</link>
+      <pubDate>Sat, 09 Feb 2019 16:24:42 -0600</pubDate>
+      
+      <guid>/love/day01/</guid>
+      <description>On Love, Day One It&amp;rsquo;s February again, already.
+ Cupid, draw back your bow-ooh-whoa…
+ You know that thing where you find out your ex is seeing somebody new, somebody named Jamie, and suddenly there are &amp;ldquo;Jamies&amp;rdquo; all over the place. Practically all your Google Search results contain &amp;ldquo;Jamie&amp;rdquo;&amp;hellip; Wait a sec, did Facebook get hacked? More like Jamiebook&amp;hellip; Welp, gonna need another bottle of Jamieson. Has it always been spelled like that?</description>
+    </item>
+    
+    <item>
+      <title>Questions</title>
+      <link>/reality/questions/</link>
+      <pubDate>Sat, 09 Feb 2019 16:23:54 -0600</pubDate>
+      
+      <guid>/reality/questions/</guid>
+      <description>Hard questions From Kant: What can I know? What should I do? What may I hope?
+ Who are we? How did we get here? Why are we here? Who wants to know? Is this a game? How do we win? Can we win? What is there to fear? Who wants pizza? Is there anybody out there? Does the Earth know we&amp;rsquo;re here? Does she have feelings? Do electrons make choices?</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 09 Feb 2019 01:52:31 -0600</pubDate>
+      
+      <guid>/about/</guid>
+      <description>What is this all about? And what the devil is an atmanaut?
+Well, that depends on what an atman is, doesn&amp;rsquo;t it, and if you ask your friendly neighborhood Buddhist, you might get a puzzling answer. &amp;ldquo;Atman? Oh, that&amp;rsquo;s nothing. It seems like it&amp;rsquo;s there, but it&amp;rsquo;s not. It&amp;rsquo;s just an illusion.&amp;rdquo;
+Who moves my hands? Who is asking all these questions? Who can tell the truth from a lie?</description>
+    </item>
+    
+  </channel>
+</rss>
