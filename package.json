@@ -3,10 +3,6 @@
     "start": "hugo server -w",
     "build": "rm -rf ./public && hugo",
     "deploy": "npm run build && now public",
-    "release": "npm run deploy && now alias",
-    "now-build": "hugo -d public"
-  },
-  "dependencies": {
-    "hugo-cli": "^0.10.0"
+    "release": "npm run deploy && now alias"
   }
 }
