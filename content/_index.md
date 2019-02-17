@@ -8,10 +8,9 @@ menu:
     weight: -1
 
 ---
-# We search for meaning.\\
+# We search for meaning.
 
-We wander wondering as we [wander](/walks-of-life).  
-We ask "[Why?](/questions)"  
-We seek the truth.  
+We [wander](/walks-of-life) wondering "[Why?](/questions)"  
+We seek truth.
 We are atmanauts.  
 **This is our atlas.**
