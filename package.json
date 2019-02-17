@@ -1,8 +1,9 @@
 {
   "scripts": {
     "start": "hugo server -w",
-    "build": "rm -rf ./public && hugo",
-    "deploy": "npm run build && now public",
+    "clean": "rm -rf ./public",
+    "build": "npm run clean && hugo",
+    "deploy": "npm run build && now",
     "release": "npm run deploy && now alias"
   }
 }

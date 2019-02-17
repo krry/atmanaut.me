@@ -8,7 +8,5 @@ HUGO_DL=https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HU
 
 wget ${HUGO_DL}
 tar -xvzf hugo*.tar.gz -C /usr/local/bin
-
-# Build with hugo-cli
+# ls -al themes/chakra
 hugo -d public
-
