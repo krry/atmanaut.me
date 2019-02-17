@@ -1,9 +1,14 @@
 # Atmanaut
 
+A hugo-powered static site using the chakra theme, ready to link up with a
+Forestry.io CMS, and auto-deployable on now.sh.
+
 ## TODO
--[x] add routes to `now.json` to enable Github master push deploy
+- [ ] flesh out tagging system for asidebar and posts
+- [ ] consider annotation lane for links and sidenotes (a la footnotes)
+- [ ] learn how to direct link to other posts
+- [x] style summaries: timestamps, titles, etc.
+- [x] add routes to `now.json` to enable Github master push deploy
   - move `now.json` back to root
   - change npm scripts to work with new build config
--[ ] flesh out tagging system for asidebar and posts
--[x] add logo
--[ ] consider annotation lane for links and sidenotes (a la footnotes)
+- [x] add logo

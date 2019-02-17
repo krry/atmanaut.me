@@ -1,8 +1,8 @@
 languageCode = "en-us"
-title = "Atmanaut"
+title = "Atmanautica"
 theme = "chakra"
-copyleft = "All lefts reversed."
 # googleAnalytics = "UA-123-45"
 [params]
-  author = "krry a.k.a atmanaut"
-  description = "a live atlas of atman"
+  author = "Kerry Snyder"
+  description = "an atlas for atmanauts"
+  summaryLength = 60

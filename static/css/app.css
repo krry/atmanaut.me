@@ -1,24 +1,21 @@
+html {
+  position: relative;
+}
+
+body {
+  background: transparent;
+}
+
+.lane {
+  position: relative;
+}
+
 aside.lane {
-  background-image: url("../img/hyperrealief.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
-aside.lane:before {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  background-color: rgba(0,0,0,0.7);
-  content: "";
-}
-
-aside.lane * { /* keep sidebar contents on top of shade */
-  position: relative;
+  padding: 2rem;
 }
 
 .logo {
-  background-image: url('../img/atmanautica-logo-whale.png');
+  background-image: url('../img/atmanautica-logo-white-fs8.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -30,10 +27,36 @@ aside.lane * { /* keep sidebar contents on top of shade */
   margin: 0.5em auto;
 }
 
-.link-home {
+.homepage {
+  padding: 2em;
+  text-align: center;
   color: white;
-  text-decoration: none;
+  margin-bottom: 2em;
 }
-.link-home:hover, .link-home:visited {
-  color: white;
+
+.bg-well {
+  background-position: center center;
+  background-size: 100%;
+  background-image: url("../img/hyperrealief.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
 }
+
+.bg-well:before {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: hsla(0, 0%, 20%, 0.8);
+  content: "";
+}
+
+.bg-well > * {
+  position: relative;
+}
+
+/* .homepage.bg-well:before { */
+/*   background-color: hsla(0, 0%, 50%, 0.8); */
+/* } */
