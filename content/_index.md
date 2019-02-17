@@ -10,7 +10,8 @@ menu:
 ---
 # We search for meaning.
 
-We [wander](/walks-of-life) wondering "[Why?](/questions)"  
+### We [wander](/walks-of-life) wondering "[Why?](/questions)"  
 We seek truth.
-We are atmanauts.  
-**This is our atlas.**
+We are atmanauts.
+
+## **This is our atlas.**
