@@ -16,6 +16,7 @@ Forestry.io CMS, and auto-deployable on now.sh.
 
 * \[ \] refresh color palette: chakras, soulstones
 * \[ \] refactor sass to css with postcss
+* \[ \] load fonts with app, not from Google Fonts
 * \[ \] make layout mobile friendly
 * \[ \] scour hugo docs and try out features
 * \[x\] debug auto-deploy with Forestry and now+github
