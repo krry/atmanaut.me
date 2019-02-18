@@ -1,10 +1,6 @@
 ---
 title: "About"
 date: 2019-02-09T01:52:31-06:00
-menu:
-  main:
-    name: "About"
-    weight: 1
 ---
 
 # What is this all about?

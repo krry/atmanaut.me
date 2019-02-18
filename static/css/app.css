@@ -1,21 +1,5 @@
-html {
-  position: relative;
-}
-
-body {
-  background: transparent;
-}
-
-.lane {
-  position: relative;
-}
-
-aside.lane {
-  padding: 2rem;
-}
-
 .logo {
-  background-image: url('../img/atmanautica-logo-white-fs8.png');
+  background-image: url('../img/atmanaut-logo-white.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -23,40 +7,3 @@ aside.lane {
   width: 100%;
 }
 
-.site-title {
-  margin: 0.5em auto;
-}
-
-.homepage {
-  padding: 2em;
-  text-align: center;
-  color: white;
-  margin-bottom: 2em;
-}
-
-.bg-well {
-  background-position: center center;
-  background-size: 100%;
-  background-image: url("../img/hyperrealief.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  position: relative;
-}
-
-.bg-well:before {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  top: 0;
-  left: 0;
-  background-color: hsla(0, 0%, 20%, 0.8);
-  content: "";
-}
-
-.bg-well > * {
-  position: relative;
-}
-
-/* .homepage.bg-well:before { */
-/*   background-color: hsla(0, 0%, 50%, 0.8); */
-/* } */

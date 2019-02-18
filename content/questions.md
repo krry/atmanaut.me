@@ -1,10 +1,11 @@
 ---
 title: Questions
+title_lead: A running litany of unanswerables
+title_main: Tough questions
 date: 2019-02-09 22:23:54 +0000
 layout: post
-aliases:
-- "/questions/"
-
+tags: [questions, lists, ontology]
+draft: true
 ---
 # Hard questions
 

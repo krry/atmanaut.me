@@ -1,0 +1,13 @@
+languageCode: en-us
+title: Atmanaut
+theme: chakra
+# googleAnalytics: UA-123-45
+params:
+  author: Kerry Snyder
+  description: an atlas for atmanauts
+  description: Spelunk the Essential
+  summaryLength: 50
+  preserveTaxonomyNames: true
+permalinks:
+  posts: /:year/:month/:title
+

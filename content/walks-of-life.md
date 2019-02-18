@@ -1,6 +1,9 @@
 ---
 title: Walks of Life
 date: 2019-02-16 16:22:22 -0600
+tags: [causality, faith, science, knowledge, understanding, mystics]
+categories: [intro]
+draft: true
 ---
 
 The paths of our journey all begin at one point: Ourself. Some call this common self the Atman. This is as suitable a name as any, seeing as we know so little about it. From this common origin our paths diverge in every direction imaginable, but our senses limit our perception, so there are only so many ways to travel, only so many walks of life.
