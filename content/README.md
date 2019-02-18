@@ -12,16 +12,23 @@ A hugo-powered static site using the chakra theme, ready to link up with a
 Forestry.io CMS, and auto-deployable on now.sh.
 
 ## TODO
-- [ ] flesh out tagging system for asidebar and posts
-- [ ] scour hugo docs and try out features
+- [ ] debug auto-deploy with Forestry and now
+- [ ] make layout mobile friendly
 - [ ] refresh color palette: chakras, soulstones
-- [ ] consider annotation lane for links and sidenotes (a la footnotes)
-- [ ] learn how to direct link to other posts
+- [ ] scour hugo docs and try out features
+- [ ] structure metadata for tags in archetypes
+- [x] flesh out tagging system for asidebar and posts
+- [x] learn how to direct link to other posts; document below
 - [x] style summaries: timestamps, titles, etc.
 - [x] add routes to `now.json` to enable Github master push deploy
   - move `now.json` back to root
   - change npm scripts to work with new build config
-- [x] add logo
+- [x] add logo and brand
+
+## Considering
+- [ ] es6 support, babel, webpack, etc.
+- [ ] annotation lane for links and sidenotes (a la footnotes)
+
 
 ## Tagging, Categories, and Taxonomies
 

@@ -1,6 +1,8 @@
 ---
 title: belief
 sources:
-- http://belief.com
-- http://wikiwand.com
+  - title: Spaghetti Monster
+    link: https://www.venganza.org/
+  - title: Wikiwand
+    link: http://wikiwand.com
 ---
