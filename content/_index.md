@@ -1,17 +1,19 @@
 ---
-title: Atmanautica
-subtitle: Spelunking the Essential
+title: Atmanaut
+subtitle: Spelunk the Essential
 date: 2019-02-09 14:22:22 +0000
-menu:
-  main:
-    name: Home
-    weight: -1
-
+tags: [poem, ontology]
+categories: [intro]
 ---
-# We search for meaning.
+## Gratitude for your presence.
 
-### We [wander](/walks-of-life) wondering "[Why?](/questions)"  
-We seek truth.
-We are atmanauts.
+We [wander](/walks-of-life) wondering "[Why?](/questions)"\
+collapsing possibilities,\
+embracing ignorance,\
+forgetting our selves,\
+being, knowing, enjoying,\
+holding space,\
+giving pause…
 
-## **This is our atlas.**
+We are atmanauts.\
+**This is our atlas.**

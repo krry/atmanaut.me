@@ -1,8 +1,0 @@
-languageCode = "en-us"
-title = "Atmanautica"
-theme = "chakra"
-# googleAnalytics = "UA-123-45"
-[params]
-  author = "Kerry Snyder"
-  description = "an atlas for atmanauts"
-  summaryLength = 60

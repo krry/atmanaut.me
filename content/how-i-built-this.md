@@ -1,7 +1,8 @@
 ---
-title: "How I Built This Site"
+title: How I Built This Site
 date: 2019-02-09T16:50:57-06:00
-layout: "code"
+layout: code
+tags: [code, hugo, dev, guide]
 ---
 
 Delightfully often, when I've combed the web for help designing, developing, and publishing sites, apps, I land on someone's "How I Made This" post on their custom blog. That, or on StackOverflow, or on a Github issue, or increasingly these days on [DEV](dev.to). So this one goes out to all those paid it forward and lent me a hand.
