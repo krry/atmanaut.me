@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "hugo server -w",
+    "start": "hugo server -wD",
     "clean": "rm -rf ./public",
     "build": "npm run clean && hugo",
     "deploy": "npm run build && now",
