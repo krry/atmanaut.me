@@ -15,7 +15,7 @@ We [wander](/walks-of-life) wondering "[Why?](/questions)"
 collapsing possibilities,  
 embracing ignorance,  
 forgetting our selves,  
-being, knowing, enjoying,  
+being, knowing, loving,  
 holding space,  
 giving pause…
 
