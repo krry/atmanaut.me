@@ -14,12 +14,12 @@ Forestry.io CMS, and auto-deployable on now.sh.
 
 ## TODO
 
-* \[x\] debug auto-deploy with Forestry and now+github
+* \[ \] refresh color palette: chakras, soulstones
 * \[ \] refactor sass to css with postcss
 * \[ \] make layout mobile friendly
-* \[ \] refresh color palette: chakras, soulstones
 * \[ \] scour hugo docs and try out features
-* \[ \] structure metadata for tags in archetypes
+* \[x\] debug auto-deploy with Forestry and now+github
+* \[x\] structure metadata for tags in archetypes
 * \[x\] flesh out tagging system for asidebar and posts
 * \[x\] learn how to direct link to other posts; document below
 * \[x\] style summaries: timestamps, titles, etc.
