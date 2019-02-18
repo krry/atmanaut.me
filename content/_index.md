@@ -16,7 +16,7 @@ collapsing possibilities,
 embracing ignorance,  
 forgetting our selves,  
 being, knowing, enjoying,  
-holding \[___\],  
+holding space,  
 giving pause…
 
 We are atmanauts.  
