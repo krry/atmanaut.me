@@ -1,0 +1,34 @@
+---
+label: Tag
+hide_body: true
+is_partial: false
+fields:
+- type: field_group_list
+  name: source
+  label: Source
+  description: a linkable resource for the tag at hand
+  config:
+    min: '2'
+    max: '2'
+  fields:
+  - type: text
+    name: title
+    label: title
+    description: title of the source
+    config:
+      required: true
+  - type: text
+    name: link
+    label: Link
+    description: link to the source
+    config:
+      required: true
+  - type: boolean
+    label: Is PDF
+    name: ispdf
+    description: Is it a PDF?
+  - type: file
+    name: pdf
+    label: PDF
+    description: the PDF file, if necessary
+  - type: include
