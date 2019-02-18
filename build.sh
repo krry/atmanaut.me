@@ -9,4 +9,7 @@ HUGO_DL=https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HU
 wget ${HUGO_DL}
 tar -xvzf hugo*.tar.gz -C /usr/local/bin
 git clone https://github.com/krry/chakra-hugo-theme.git themes/chakra
+cd themes/chakra
+npm install
+cd ../..
 hugo -d public
