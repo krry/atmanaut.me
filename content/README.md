@@ -28,10 +28,16 @@ Forestry.io CMS, and auto-deployable on now.sh.
   * change npm scripts to work with new build config
 * \[x\] add logo and brand
 
-## Considering
+### To Consider
 
 * \[ \] es6 support, babel, webpack, etc.
 * \[ \] annotation lane for links and sidenotes (a la footnotes)
+
+## Workflow
+
+This static site employs the chakra-hugo-theme as a submodule. So generally the layouts, styles, and functionality come from the theme and are to be maintained therein. Content rests in this repo, and is updatable via the [Forestry.io]() CMS. The CMS auto-deploys the site when new content is saved. By deploying with `now+github` we are able to automate a lot of steps in the composing/publishing process.`now` uses my custom build script to rebuild the site with any updates, then aliases the deployment (when successful) to [Atmanaut.us]() and [Atmanaut.me]().
+
+Tags are required front matter for posts. To catalog sources for a given tag topic, make a file at `/tags/tag_name/_index.md` with the titles and links to the sources in the front matter. There is an archetype called `tags.md` that will give you the syntax.
 
 ## Tagging, Categories, and Taxonomies
 
