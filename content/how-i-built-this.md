@@ -1,6 +1,6 @@
 ---
 title: 'Building Atmanaut: How to Ghostwrite the Web'
-date: 2019-02-09 22:50:57 +0000
+date: 2019-02-20 06:06:00 -0600
 layout: code
 tags: []
 
