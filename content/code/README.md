@@ -14,11 +14,11 @@ Forestry.io CMS, and auto-deployable on now.sh.
 
 ## TODO
 
-* \[ \] refresh color palette: chakras, soulstones
-* \[ \] refactor sass to css with postcss
-* \[ \] load fonts with app, not from Google Fonts
-* \[ \] make layout mobile friendly
 * \[ \] scour hugo docs and try out features
+* \[ \] load fonts with app, not from Google Fonts
+* \[x\] refresh color palette: chakras, soulstones
+* \[x\] refactor sass to css with postcss
+* \[x\] make layout mobile friendly
 * \[x\] debug auto-deploy with Forestry and now+github
 * \[x\] structure metadata for tags in archetypes
 * \[x\] flesh out tagging system for asidebar and posts
@@ -62,10 +62,23 @@ tags: punishment, acrobatics
 
 Each taxonomies type gets its own page (e.g. `/categories`, `/tags`) and each term in the taxonomy gets a page listing all its members (e.g., `/tags/horsenames`).
 
-## Linking to posts
+## Linking
 
 Hugo provides `relURL` and `absURL` for your linking needs. These power `.RelPermalink` and `.Permalink` respectively.
 
 Use .RelPermalink when you might alter the locations of the `publicDir` or `contentDir`, or restructure the dynamically generated `[permalinks]` in the site `config.toml`.
 
 Use .Permalink when the file won't move, or for external purposes, such as sharing and for post title links.
+
+External links are given target=_blank thanks to the `BlackFriday` markdown
+compiler. In the `config.yaml`, mark `hrefTargetBlank` and `plainIDAnchors`
+true.
+
+For internal links, use the standard markdown link syntax or a reference link.
+``` md
+[This is a standard link](/code/README/)
+[And this is a reference link][reflink]
+
+[reflink]: /code/README/
+```
+## 

@@ -9,4 +9,6 @@ params:
   preserveTaxonomyNames: true
 permalinks:
   posts: /:year/:month/:title
-
+blackfriday:
+  plainIDAnchors: true
+  hrefTargetBlank: true
