@@ -12,3 +12,6 @@ permalinks:
 blackfriday:
   plainIDAnchors: true
   hrefTargetBlank: true
+pygmentsCodeFences: true
+pygmentsCodefencesGuessSyntax: true
+pygmentsUseClasses: true

@@ -16,6 +16,8 @@ Forestry.io CMS, and auto-deployable on now.sh.
 
 * \[ \] scour hugo docs and try out features
 * \[ \] load fonts with app, not from Google Fonts
+* [ ] [retina](https://github.com/simonsmith/postcss-at2x) and responsive images with @media queries
+* [ ] do a layout with [yoga.layout](https://yogalayout.com/)
 * \[x\] refresh color palette: chakras, soulstones
 * \[x\] refactor sass to css with postcss
 * \[x\] make layout mobile friendly
@@ -33,12 +35,38 @@ Forestry.io CMS, and auto-deployable on now.sh.
 
 * \[ \] es6 support, babel, webpack, etc.
 * \[ \] annotation lane for links and sidenotes (a la footnotes)
+* [ ] make page styles respond to background image colors with [postcss-get-color](https://github.com/ismamz/postcss-get-color)
+* [ ] load page faster by separating image CSS with [postcss-bgimage](https://github.com/ahtohbi4/postcss-bgimage)
+* [ ] add smooth gradients with [easing-gradients](https://github.com/larsenwork/postcss-easing-gradients)
+* [ ] test colors? [colorguard](https://github.com/SlexAxton/css-colorguard)
+
+## Docs for dependencies
+* Static site: [Hugo](https://gohugo.io/documentation/)
+* CMS: [Forestry](https://forestry.io/docs/)
+* Host/Build/Deploy/DNS: [Now by Zeit](https://zeit.co/docs/v2/getting-started/introduction-to-now)
+* Browser support: [Browserslist](https://browserl.ist/)
+* [PostCSS](https://www.postcss.parts/)
+	* [postcss-preset-env](https://preset-env.cssdb.org/features)
+	* [postcss-color-mod](https://github.com/jonathantneal/postcss-color-mod-function/blob/master/README.md)
+	* [postcss-import](https://github.com/postcss/postcss-import/blob/master/README.md)
+	* [postcss-normalize](https://github.com/csstools/postcss-normalize/blob/master/README.md)
+
 
 ## Workflow
 
 This static site employs the chakra-hugo-theme as a submodule. So generally the layouts, styles, and functionality come from the theme and are to be maintained therein. Content rests in this repo, and is updatable via the [Forestry.io]() CMS. The CMS auto-deploys the site when new content is saved. By deploying with `now+github` we are able to automate a lot of steps in the composing/publishing process.`now` uses my custom build script to rebuild the site with any updates, then aliases the deployment (when successful) to [Atmanaut.us]() and [Atmanaut.me]().
 
+### Tags
 Tags are required front matter for posts. To catalog sources for a given tag topic, make a file at `/tags/tag_name/_index.md` with the titles and links to the sources in the front matter. There is an archetype called `tags.md` that will give you the syntax.
+
+### Images
+To serve a wide array of screens, especially the retina screens that have 2x resolution, it's a good idea to save small, medium, and large versions, and 72dpi (@1x) and 144dpi (@2x) versions of images. We can use `mogrify` or `convert` from Imagemagick on the command line for this.
+
+These 1x and 2x images can be optimized for size and quality with ImageOptim and ImageAlpha from the command line:
+``` sh
+cd dir_with_images
+imageoptim --imagealpha '**/*.png' '**/*.jpg'
+```
 
 ## Tagging, Categories, and Taxonomies
 
