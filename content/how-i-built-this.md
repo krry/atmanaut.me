@@ -1,50 +1,58 @@
 ---
 title: How I Built This Site
-date: 2019-02-09T16:50:57-06:00
+date: 2019-02-09 22:50:57 +0000
 layout: code
-tags: [code, hugo, dev, guide]
----
+tags: []
 
+---
 Delightfully often, when I've combed the web for help designing, developing, and publishing sites, apps, I land on someone's "How I Made This" post on their custom blog. That, or on StackOverflow, or on a Github issue, or increasingly these days on [DEV](dev.to). So this one goes out to all those paid it forward and lent me a hand.
 
-It still feels like nothing short of a miracle to publish a new site. After so many tees dotted (with coffee stains) and eyes crossed from long nights at the terminal, it's hard to describe the feeling when **It Just Works**™. In the present case, almost every step of the development and deployment process just works in such a Teflon-coated Slip 'n' Slide sorta way that I'm elated to pop the hood for you.
+It still feels like nothing short of a miracle to publish a new site. After so many tees dotted (with coffee stains) and eyes crossed through those long nights at the terminal, it's hard to describe the feeling when **It Just Works**™.
+
+In the present case, thanks to a hoard of wunderkinder that open sourced their brilliance, the design, development, and deployment experience on this new site are as good as it gets. **It Just Works™** in such a Teflon-coated Slip 'n' Slide sorta way that I'm elated to pop the hood for you.
 
 ![The ShipIt! squirrel gets it.](/img/ship-it-squirrel.jpg)
+
+The squirrel gets it when we ships it.
 
 ## TL;DR
 
 ### The Stack a.k.a. [BuiltWith](https://builtwith.com/atmanaut.us)
-- Hugo, generating a lightning-fast, theme-able static site with Go power
-- [`now`](zeit.com/now), for no-frills, full-auto deployment/hosting/DNS from the terminal
-- vim + tmux + oh-my-zsh, for memorizing shitloads of keybindings and then magic
-- IA Writer - for hipster purity XP, LVL 99, and 'cos vim is a harsh mistress
 
-## Some code, highlighted with PrismJS
+* [Hugo](https://gohugo.io/about/ "Hugo"), which generates a lightning-fast, theme-able static site with plenty of Go power, a thriving community, and a stellar dev team.
+* [Forestry.io]() for handling content. It's like Minecraft meets Wordpress with a woodsy musk.
+* [`now`](https://zeit.com/now), for no-frills, full-auto deployment/hosting/DNS from the terminal, or straight from the `master` branch to you
+* vim + tmux + oh-my-zsh, for memorizing shitloads of keybindings and then tortoise magic all the way down. I might spend more time tweaking my [dotfiles](https://github.com/krry/dot/ "dotfiles") than writing code for this site. Like the fella says, gimme a day to chop down a tree, and I'll grind an axe all morning.
+* iA Writer - for hipster purity XP, LVL 99. I've been trying out Typora too, but ol' faithful iA really knows how to make me love to write.
+
+Hugo comes with all kinds of built-in goodies. Like syntax highlighting, powered by chromastyles and pygments.
+
 {{< highlight js >}}
 // allow :active styles to work in CSS on mobile safari
 document.addEventListener("touchstart", function(){}, true);
 
 domready(function () {
-  console.info('DOM is in the browser.');
-  var menuTrigger = document.querySelector('#menu_trigger');
+console.info('DOM is in the browser.');
+var menuTrigger = document.querySelector('#menu_trigger');
 
-  menuTrigger.addEventListener('click', function(){
-    menuTrigger.classList.toggle('triggered');
-    document.querySelector('#menu').classList.toggle('shown');
+menuTrigger.addEventListener('click', function(){
+menuTrigger.classList.toggle('triggered');
+document.querySelector('#menu').classList.toggle('shown');
 });
 
-  window.addEventListener('keydown', handleFirstTab);
+window.addEventListener('keydown', handleFirstTab);
 });
 
 function handleFirstTab(e) {
-  if (e.keyCode === 9) { // the "I am a keyboard user" key
-    document.body.classList.add('user-is-tabbing');
-    window.removeEventListener('keydown', handleFirstTab);
-  }
+if (e.keyCode === 9) { // the "I am a keyboard user" key
+document.body.classList.add('user-is-tabbing');
+window.removeEventListener('keydown', handleFirstTab);
+}
 }
 {{< /highlight >}}
 
-## The moosen haveth cometh.
+## The moosen haven cometh.
+
 ``` sh
 
  _________________________________
@@ -59,9 +67,12 @@ function handleFirstTab(e) {
           (__)\       )\/\
                ||----w |
                ||     ||
+```
 
-```               
-### Here are the magic spells that make codes look nice
+If you pipe fortune into cowsay into lolcat and randomize the cows, you get a pretty amazing command line soothsayer I like to call Kamadhenu. Next version will be AI-powered.
+
+### Here are a few magic spells that make teh codez look nice
+
 ``` css
 highlight {
   margin: 1em -2em;
@@ -80,3 +91,4 @@ pre, code, samp {
 }
 ```
 
+Hugo also has a great set of pipes.
