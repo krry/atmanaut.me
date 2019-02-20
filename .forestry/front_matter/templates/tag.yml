@@ -32,5 +32,3 @@ fields:
     label: PDF
     description: the PDF file, if necessary
   - type: include
-pages:
-- content/tags/Devsign.md

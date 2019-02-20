@@ -9,15 +9,13 @@ categories:
 - intro
 
 ---
-## Gratitude for your presence.
+## We'll ask the old questions.
 
-We [wander](/walks-of-life) wondering "[Why?](/questions)"  
-collapsing possibilities,  
-embracing ignorance,  
-forgetting our selves,  
-being, knowing, loving,  
-holding space,  
-giving pause…
+### The ones they gave up on.  
+The only ones that matter.  
+Shed ego, own ignorance,  
+hold space, give pause…
 
-We are atmanauts.  
-**This is our atlas.**
+#### We are Atmanauts.  
+This is our atlas.**  
+**सच्चिदानन्द
