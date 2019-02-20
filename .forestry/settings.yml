@@ -14,17 +14,17 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: static/img
-public_path: "/img"
+upload_dir: static/uploads
+public_path: "/uploads"
 front_matter_path: ''
-use_front_matter_path: 
-file_template: ":year:/:filename:"
+use_front_matter_path: false
+file_template: ":year:/:month/:filename:"
 build:
   preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
   publish_command: hugo -d public
   preview_env:
   - HUGO_ENV=staging
-  - HUGO_VERSION=0.54
+  - HUGO_VERSION=0.53
   publish_env:
   - HUGO_ENV=production
   - HUGO_VERSION=0.53
