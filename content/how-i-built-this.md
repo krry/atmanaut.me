@@ -1,5 +1,5 @@
 ---
-title: How I Built This Site
+title: 'Building Atmanaut: How to Ghostwrite the Web'
 date: 2019-02-09 22:50:57 +0000
 layout: code
 tags: []
