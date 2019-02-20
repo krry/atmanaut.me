@@ -6,5 +6,8 @@
     "deploy": "npm run build && now",
     "release": "npm run deploy && now alias"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "postcss-cli": "^6.1.1"
+  }
 }
