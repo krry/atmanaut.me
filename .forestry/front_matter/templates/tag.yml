@@ -34,3 +34,4 @@ fields:
   - type: include
 pages:
 - content/tags/Devsign.md
+- content/tags/file.md
