@@ -4,7 +4,7 @@ theme: chakra
 # googleAnalytics: UA-123-45
 params:
   author: Kerry Snyder
-  description: Spelunk the Essential
+  description: "सच्चिदानन्द"
   summaryLength: 50
   preserveTaxonomyNames: true
 permalinks:
