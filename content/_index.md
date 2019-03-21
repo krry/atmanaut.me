@@ -11,6 +11,8 @@ categories:
 ---
 ## Immanent eschaton imminent
 
-Consciousness accelerates complexity toward incomprehensible density.
-
-If only we Atmanauts had an atlas to guide the exploration of ourself.
+#### Consciousness accelerates complexity  
+toward incomprehensible density.  
+We Atmanauts need an atlas  
+for exploring Ourself as we  
+spelunk the essential.
