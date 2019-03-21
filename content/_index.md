@@ -9,11 +9,8 @@ categories:
 - intro
 
 ---
-## We'll ask the old questions.
+## Immanent eschaton imminent
 
-The ones they gave up on.  
-The only ones that matter.  
-Shed ego, own ignorance,  
-hold space, give pause…
+Consciousness accelerates complexity toward incomprehensible density.
 
-### We are Atmanauts. This is our atlas.
+If only we Atmanauts had an atlas to guide the exploration of ourself.
