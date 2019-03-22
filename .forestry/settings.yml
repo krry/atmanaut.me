@@ -9,10 +9,12 @@ sections:
   label: Tags
   create: all
   match: "**/*"
+  templates:
+  - tag
 - type: directory
   path: content
   label: Pages
-  create: documents
+  create: all
   match: "*"
   templates:
   - post
