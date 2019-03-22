@@ -1,9 +1,10 @@
 ---
 title: The Pendulum Swings
 subtitle: Aggregate Well-Being and the Quality of Life
-date: 2019-03-03T21:06:11-0600
----
+date: 2019-03-04 03:06:11 +0000
+draft: true
 
+---
 Some linkbait caught me today: **"[Neuroscience reveals 4 rituals that will make you happy](https://www.theladders.com/career-advice/neuroscience-4-rituals-happy)"**.
 
 I'll save you the ten minutes of shameful scanning.
