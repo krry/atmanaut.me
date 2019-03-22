@@ -1,7 +1,14 @@
 ---
 label: Post
 hide_body: false
+display_field: title
 fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+  description: Can be split into main, lead, and subtitle
 - type: datetime
   label: Timestamp
   name: date
