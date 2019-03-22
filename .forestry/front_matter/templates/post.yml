@@ -1,0 +1,33 @@
+---
+label: Post
+hide_body: false
+display_field: tags
+fields:
+- type: datetime
+  label: Timestamp
+  name: date
+  description: when the post is started
+  config:
+    date_format: YYYY-MM-DD
+    required: true
+    time_format: Thh:mm:ssZZ
+  default: 2019-03-21 12:00:00 -0500
+- type: tag_list
+  name: tags
+  label: Tags
+  description: topical tags plz
+- type: text
+  label: Subtitle
+  name: subtitle
+- type: text
+  name: title_lead
+  label: Lead Line
+  description: The lead line (after the main title)
+- type: text
+  name: title_main
+  label: Main title
+  description: Necessary if lead line is used
+- type: tag_list
+  name: categories
+  label: Categories
+  description: optional, will develop if helpful
