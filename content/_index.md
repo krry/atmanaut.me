@@ -7,12 +7,12 @@ tags:
 - ontology
 categories:
 - intro
-
 ---
+
 ## Immanent eschaton imminent
 
-#### Consciousness accelerates complexity  
-toward incomprehensible density.  
-We Atmanauts need an atlas  
-for exploring Ourself as we  
+Consciousness accelerates complexity\
+toward incomprehensible density.\
+We Atmanauts need an atlas\
+for exploring Ourself as we\
 spelunk the essential.
