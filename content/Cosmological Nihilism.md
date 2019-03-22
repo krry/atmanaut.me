@@ -1,13 +1,19 @@
 ---
 title: 'Cosmology: Nihilism or Mysticism?'
-title_lead: 'Does the universe even care?'
+title_lead: Does the universe even care?
 title_main: 'Cosmology: Nihilism or Mysticism'
-subtitle: 'or Affinity as the Hand of God'
-date: 2019-02-16 18:22:22 -0600
-tags: [science, belief, cosmos, hologram]
-categories: [knowledge]
----
+subtitle: or Affinity as the Hand of God
+date: 2019-02-17 00:22:22 +0000
+tags:
+- science
+- belief
+- cosmos
+- hologram
+categories:
+- knowledge
+draft: true
 
+---
 Science doesn't insist that we discard our beliefs, only that we construct them falsifiably, subject them to empirical scrutiny, and serve them with a side of well-documented reproducibility. Still, many, if not all, scientists find—at some point before they give up the ghost—that science has not been enough to explain the wonder of existence, the splendor of the cosmos, the problem of life. Nevertheless some spend their careers mired in nihilistic illusionment, searching for meaning everywhere but at its source, inadvertently misinforming each other and the hoi polloi.
 
 > I want you to believe that the universe is a vast, random, uncaring place, in which our species has absolutely no significance. And I want you to believe that the only response is to make our own beauty and meaning, and to share it while we can. I want you to believe … that you are a way for the universe to be in awe of itself.
