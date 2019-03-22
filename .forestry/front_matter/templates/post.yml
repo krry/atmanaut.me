@@ -1,7 +1,6 @@
 ---
 label: Post
 hide_body: false
-display_field: title
 fields:
 - type: text
   name: title
@@ -16,15 +15,16 @@ fields:
   config:
     date_format: YYYY-MM-DD
     required: true
-    time_format: Thh:mm:ssZZ
-  default: 2019-03-21 12:00:00 -0500
+    time_format: hh:mm:ss ZZ
+  default: 2019-03-21 07:50:00 -0500
 - type: tag_list
   name: tags
   label: Tags
-  description: topical tags plz
+  description: can have spaces, separate with tab or comma
 - type: text
   label: Subtitle
   name: subtitle
+  description: optional, for wandering titles
 - type: text
   name: title_lead
   label: Lead Line
