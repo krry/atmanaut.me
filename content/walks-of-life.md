@@ -24,4 +24,6 @@ With only one worthy question—Why?—and yet countless unsatisfying answers, f
 
 The higher dimensional Angels acknowledge the Light in you, and will protect you from dangerous corruptive vibrations. Whose Angels? Just ask them.
 
-Physicists would need a particle accelerator the size of the Milky Way to find the superstrings they propose to underlie the structure of all that is. So I guess we'll punt on that theory for a while. As it stands we can kind of explain how 5ish percent of the known energy in the observable universe behaves. Better than 4ish percent...
+Physicists would need a particle accelerator the size of the Milky Way to find the superstrings they propose to underlie the structure of all that is. So I guess we'll punt on that theory for a while. [As it stands we can kind of explain how **nearly 5%** of the mass-energy in the observable universe behaves](https://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy).
+
+Or perhaps the truth lies in capitalism and can be described with econometrics. The algorithm that masters the stock market is the one true God in the minds of some.
