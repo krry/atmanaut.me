@@ -1,7 +1,6 @@
 ---
 label: Post
 hide_body: false
-display_field: tags
 fields:
 - type: datetime
   label: Timestamp
