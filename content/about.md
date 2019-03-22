@@ -1,8 +1,9 @@
 ---
-title: "About"
-date: 2019-02-09T01:52:31-06:00
----
+title: About
+date: 2019-02-09 07:52:31 +0000
+draft: true
 
+---
 # What is this all about?
 
 And what the devil is an **atmanaut**?
