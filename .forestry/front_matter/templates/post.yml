@@ -16,7 +16,7 @@ fields:
     date_format: YYYY-MM-DD
     required: true
     time_format: hh:mm:ss ZZ
-  default: 2019-03-21 07:50:00 -0500
+  default: 2019-03-21 12:50:00 +0000
 - type: tag_list
   name: tags
   label: Tags
@@ -37,5 +37,3 @@ fields:
   name: categories
   label: Categories
   description: optional, will develop if helpful
-pages:
-- "./content/content/automatons-4-life.md"
