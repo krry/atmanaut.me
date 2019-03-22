@@ -30,3 +30,5 @@ fields:
   name: categories
   label: Categories
   description: optional, will develop if helpful
+pages:
+- "./content/content/automatons-4-life.md"
