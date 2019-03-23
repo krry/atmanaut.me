@@ -1,19 +1,86 @@
 +++
 categories = []
 date = "2019-03-22T16:48:00-05:00"
-subtitle = "Do the elements of time lie in the Book of Changes?"
-tags = ["Non-Occidental", "spacetime", "buddy system", "cleromancy"]
+subtitle = "A first look at the Book of Changes"
+tags = ["Non-Occidental", "spacetime", "buddy system", "cleromancy", "i ching"]
 title = "I Ching and the Elements of Time"
-title_lead = "Only one way to divine the truth"
-title_main = "Diving into the I Ching"
+title_lead = "A headlong dive into the divine"
+title_main = "I Ching and the Elements of Time"
 
 +++
 This week was riddled with synchronicity. After some initial resistance which I now can't explain, I have finally opened my mind to Terence McKenna. He was and is a whirring dynamo of synchronicity and lateral induction. I wasn't ready, but I doubt anyone is ever truly ready to encounter Terence McKenna. Gratitude to those who record and publish the wanderings of his scrying mind that are available on YouTube and otherwise. The recordings of McKenna, Alan Watts, and Joseph Campbell lie waiting in a seemingly bottomless well of wisdom, insight, and wonderment freely available to all of us. It wasn't always this way. We used to have to learn Sanskrit and Mandarin, spend a decade in the Amazon, and decipher cuneiform and hieroglyphics to gain an understanding of such magnitude and profundity. It's no wonder few did.
 
-Anyway, one of the innumerable of avenues of wonder and inquiry I have skipped down briefly with Terence has been the I Ching. As one of the oldest written works, if not the oldest, the I Ching holds an ancient message which the western world has only just begun to decipher. The English translations vary greatly in approach, tone, and execution, some taking a succinct Taoist slant, others emphasizing Confucian politics, or even drawing on the Latin interpretations of the Jesuits. Indeed as texts have bobbed about in the waves of time, they have undergone both subtle and drastic transformations and recapitulations.
+Anyway, one of the innumerable of avenues of wonder and inquiry I have skipped down briefly with Terence has been the [I Ching](https://www.wikiwand.com/en/I_Ching). As one of the oldest written works, if not the oldest, the I Ching holds an ancient message which the western world has only just begun to decipher. The English translations vary greatly in approach, tone, and execution, some taking a succinct Taoist slant, others emphasizing Confucian politics, or even drawing on the Latin interpretations of the Jesuits. Indeed as texts have bobbed about in the waves of time, they have undergone both subtle and drastic transformations and recapitulations.
 
-Within moments of deciding to research the I Ching, I have dug myself underground. Let's take this slowly, start with the familiar, and use the Buddy System. [The Bard](https://www.youtube.com/playlist?list=PL2D0E32265BBFA843) is everyone's buddy when it comes to traipsing through the numinous and deciphering the arcane. His interest in the I Ching no doubt sprouted during his early study of Carl Jung, whose own interest in the I Ching and its 64 hexagrams had a profound impact on the system of 64 archetypes he would develop through his life. Here lies a rich vein: why did Jung mirror the hexagrams in his archetypes?
+Within moments of deciding to research the I Ching, I have dug myself underground. Let's take this slowly, start with the familiar, and use the Buddy System. [The Bard](https://www.youtube.com/playlist?list=PL2D0E32265BBFA843) is everyone's buddy when it comes to traipsing through the numinous and deciphering the arcane. His interest in the I Ching no doubt sprouted during his early study of Carl Jung, whose own interest in the I Ching and its 64 hexagrams had a profound impact on the system of 64 archetypes he would develop through his life, **and led him to coin the term and formulate the concept of synchronicity**. Here lies a rich vein.
 
-McKenna points out another: could the permutations of the I Ching represent a kind of periodic table of situations? He posits that while we in the West were decoding the mysteries of matter and energy, culminating in two World Wars, and ushering in the Nuclear Age, the Chinese were devising a taxonomy of happenings, or perhaps prototyping time itself in this Book of Changes.
+[McKenna points us to another](https://www.youtube.com/watch?v=sz10iqNNbnY): **could the permutations of the I Ching represent a kind of periodic table of situations?** He posits that while we in the West were decoding the mysteries of matter and energy, culminating in two World Wars, and ushering in the Nuclear Age, the Chinese were devising a taxonomy of happenings, or perhaps prototyping time itself in this Book of Changes. Another I Ching proponent/devotee, [author Will Buckingham, casts it as an uncertainty machine](https://aeon.co/essays/forget-prophecy-the-i-ching-is-an-uncertainty-machine), which immediately evokes Douglas Adams' [infinite improbability drive](https://www.youtube.com/watch?v=nCf53ses22w). Perhaps no answers lie within the Book of Changes, but rather it compels us to ask the questions and listen more intently.
 
-I for one will be looking for yarrow stalks as I jog the creek amidst the rising spring.
+## Cannonball into the Divine
+
+I love samples, especially at the grocery. If you want to sell me a beer, offer me a taste. If you want me to buy your book, let me read the first chapter. Freemium apps, somehow, have the opposite effect on me. Maybe it's the pestering. I hate pestering.
+
+All that aside, I am offering you a free sample of the I Ching. Or rather I am going to annotate a coin reading as I do it, and then link you to a tidy set of ways of access the I Ching in all its wisdom without the intimidating cognitive overhead. Feel free to blast down to the links at the bottom.
+
+I haven't tripped upon any yarrow yet, though ['tis nearly the season](https://www.wildflower.org/plants/result.php?id_plant=acmi2), so I'll be using the 3-coin method, then requesting the corresponding hexagram from [@Velfi's command-line-accessible I Ching library written in Rust](https://github.com/Velfi/i-ching).
+
+First I need a question. For two months I have been struggling to find the proper tone this new site, this supposed atlas for the Atman. Let's get that resolved so we can move forward!
+
+> How shall I approach writing for Atmanaut?
+
+Is this question open-ended? Pertinent to now? Worthy of fifteen minutes? Yes, yes, yes. Then it's ripe for the ancient cleromancy that is the I Ching.
+
+If you could ask [Fuxi](https://www.wikiwand.com/en/Fuxi) how this whole I Ching thing works, he might tell it something like this: 無極 (wuji, the Limitless) makes 太極 (taiji, the Absolute) and draws a ring around it, within which 太極 becomes a pair of opposites 陰陽 (yin and yang), which form eight trigrams 八卦 (bagua), which variously pair into 64 hexagrams, which are the permutations of being becoming itself.
+
+What I want to do is to divine which of these situations I find myself in and how it will develop with respect to the question I have raised. So I must open my mind to the realm of possibilities and manifest the answer, using some subtle medium to disguise the truth as random chance. Over the centuries a process of counting fifty yarrow stalks has been developed to divine the applicable hexagrams, which introduces a certain weighted probability to the array of possibilities. When fifty yarrow stalks are not available, [many practitioners flip coins](http://bhoffert.faculty.noctrl.edu/TEACHING/Castcoin.html), which yields different probabilities, while variations in the coin tossing process [weights the probabilities differently](http://the-iching.com/extra/divination_with_stalks). Here today, I'll follow a common coin process that yields values and probabilities close to the yarrow stalk process.
+
+Tossing three coins six times I will generate six lines of a hexagram, starting at the bottom. Each coin is a binary system consisting of two opposites: heads and tails, yang and yin. We'll assign yang to heads and give it a value of 3. Tails is yin and is worth 2.
+
+After tossing the three coins, we'll have a total of 6, 7, 8, or 9. Each of these values corresponds to a different line. Each line in a hexagram is either young or old, and either yang or yin (whole or broken). I notice the 汉字 (hànzì) for the broken and whole values are themselves broken and whole.
+
+| 汉字 | Value | Type | Image | Description |
+| :--: | :---: | :--- | :---: | :--- |
+| 六 | 6 | old yin | ---x--- | broken becoming whole |
+| 七 | 7 | young yang | ------- | whole |
+| 八 | 8 | young yin | --- --- | broken |
+| 九 | 9 | old yang | ---Θ--- | whole becoming broken |
+
+My coin tosses amount to 6 8 8 8 6 7. Drawing in lines from the bottom reveals:
+
+				  25  becomes  9
+	7 -------     ------- 	   -------
+    7 -------     ------- 	   -------
+    9 ---Θ---  =  -------  =>  --- ---
+    6 ---x---  =  --- ---  =>  -------
+    6 ---x---     --- --- 	   -------
+    7 -------     ------- 	   -------
+
+
+
+
+Many of the translations use the anonymous masculine subject.
+
+### Denoue
+
+I, for one, will keep my eyes peeled for yarrow stalks ([which have oodles of uses](https://www.mommypotamus.com/yarrow/)) as I jog the creek amidst the rising spring. With stalks or coins in hand, I will direct my glowing orb of awareness over to the control panel at the uncertainty machine within the realm of possibilities. A question will arise. I will either intend to focus upon it or let it pass. With the coins or the stalks I will manifest one of the 64 _guaxiang,_ a hexagram, six lines, one at a time. Each line is broken or solid, yin or yang, old or young, changing or steady. As the lines stack up, so do two trigrams of the 八卦 ([_bagua_](http://www.wikiwand.com/en/Bagua)_)_, eight glyphs which, to my untrained eye, form the backbone of esoteric symbolism in Chinese philosophy. The _bagua_ map to binary numbers, chakras, colors, planets, actions, body parts, qualities, images of nature, animals, artifacts, family members, and of course 汉字 (hànzì).
+
+***
+
+#### Links:
+
+[A lovely open source I Ching from @ablwr](https://bits.ashleyblewer.com/i-ching/)
+
+### Counting coins
+
+We assume a tossed coin has an equal chance of landing on either of its two sides. These US quarters have a head on one side, which we'll call yang, and assign a value of 1, while the other side will correspond to yin, with a value of 0. This way, each time I flip a coin, it will resolve to yin or yang, with a value of 0 or 1. Three two-sided coins flipped in succession can land 2 times 2 times 2 ways (which is to say 2 to the 3rd power or 8 ways).
+
+    000 - tail tail tail
+    001 - tail tail head
+    010 - tail head tail
+    011 - and so on...
+    100
+    101
+    110
+    111
+
+To select one of 64 permutations with equal probability, we could flip six coins in succession, as 2 to the 6th power is 64. But in casting lots for the I Ching, we are not only manifesting one of 64 hexagrams, but an interwoven relationship between two of the 64. For this we need more computing power.
