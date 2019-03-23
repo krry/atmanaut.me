@@ -12,7 +12,7 @@ This week was riddled with synchronicity. After some initial resistance which I 
 
 Anyway, one of the innumerable of avenues of wonder and inquiry I have skipped down briefly with Terence has been the [I Ching](https://www.wikiwand.com/en/I_Ching). As one of the oldest written works, if not the oldest, the I Ching holds an ancient message which the western world has only just begun to decipher. The English translations vary greatly in approach, tone, and execution, some taking a succinct Taoist slant, others emphasizing Confucian politics, or even drawing on the Latin interpretations of the Jesuits. Indeed as texts have bobbed about in the waves of time, they have undergone both subtle and drastic transformations and recapitulations.
 
-Within moments of deciding to research the I Ching, I have dug myself underground. Let's take this slowly, start with the familiar, and use the Buddy System. [The Bard](https://www.youtube.com/playlist?list=PL2D0E32265BBFA843) is everyone's buddy when it comes to traipsing through the numinous and deciphering the arcane. His interest in the I Ching no doubt sprouted during his early study of Carl Jung, whose own interest in the I Ching and its 64 hexagrams had a profound impact on the system of 64 archetypes he would develop through his life, **and led him to coin the term and formulate the concept of synchronicity**. Here lies a rich vein.
+Within moments of deciding to research the I Ching, I have dug myself underground. Let's take this slowly, start with the familiar, and use the Buddy System. [The Bard](https://www.youtube.com/playlist?list=PL2D0E32265BBFA843) is everyone's buddy when it comes to traipsing through the numinous and deciphering the arcane. His interest in the I Ching no doubt sprouted during his early study of [Carl Jung, whose own interest](http://the-iching.com/extra/iching_jung_foreword) in the I Ching and its 64 hexagrams had a profound impact on the system of 64 archetypes he would develop through his life, **and led him to coin the term and formulate the concept of synchronicity**. Here lies a rich vein.
 
 [McKenna points us to another](https://www.youtube.com/watch?v=sz10iqNNbnY): **could the permutations of the I Ching represent a kind of periodic table of situations?** He posits that while we in the West were decoding the mysteries of matter and energy, culminating in two World Wars, and ushering in the Nuclear Age, the Chinese were devising a taxonomy of happenings, or perhaps prototyping time itself in this Book of Changes. Another I Ching proponent/devotee, [author Will Buckingham, casts it as an uncertainty machine](https://aeon.co/essays/forget-prophecy-the-i-ching-is-an-uncertainty-machine), which immediately evokes Douglas Adams' [infinite improbability drive](https://www.youtube.com/watch?v=nCf53ses22w). Perhaps no answers lie within the Book of Changes, but rather it compels us to ask the questions and listen more intently.
 
@@ -20,11 +20,9 @@ Within moments of deciding to research the I Ching, I have dug myself undergroun
 
 I love samples, especially at the grocery. If you want to sell me a beer, offer me a taste. If you want me to buy your book, let me read the first chapter. Freemium apps, somehow, have the opposite effect on me. Maybe it's the pestering. I hate pestering.
 
-All that aside, I am offering you a free sample of the I Ching. Or rather I am going to annotate a coin reading as I do it, and then link you to a tidy set of ways of access the I Ching in all its wisdom without the intimidating cognitive overhead. Feel free to blast down to the links at the bottom.
+All that aside, I am offering you a free sample of the I Ching. Or rather I am going to annotate a coin reading as I do it, and link you to [this lovely open source online I Ching from @ablwr](https://bits.ashleyblewer.com/i-ching/). With apps like this, you can bask in the glorious precognition of the I Ching without the intimidating cognitive overhead, and without coins or yarrow stalks, which I haven't tripped upon  yet, though ['tis nearly the season](https://www.wildflower.org/plants/result.php?id_plant=acmi2).
 
-I haven't tripped upon any yarrow yet, though ['tis nearly the season](https://www.wildflower.org/plants/result.php?id_plant=acmi2), so I'll be using the 3-coin method, then requesting the corresponding hexagram from [@Velfi's command-line-accessible I Ching library written in Rust](https://github.com/Velfi/i-ching).
-
-First I need a question. For two months I have been struggling to find the proper tone this new site, this supposed atlas for the Atman. Let's get that resolved so we can move forward!
+Today I'll be using the 3-coin method, then requesting the corresponding hexagram from [@Velfi's command-line-accessible I Ching library written in Rust](https://github.com/Velfi/i-ching). But first I need a question. For two months I have been struggling to find the proper tone this new site, this supposed atlas for the Atman. Let's get that resolved so we can move forward!
 
 > How shall I approach writing for Atmanaut?
 
@@ -39,7 +37,7 @@ Tossing three coins six times I will generate six lines of a hexagram, starting 
 After tossing the three coins, we'll have a total of 6, 7, 8, or 9. Each of these values corresponds to a different line. Each line in a hexagram is either young or old, and either yang or yin (whole or broken). I notice the 汉字 (hànzì) for the broken and whole values are themselves broken and whole.
 
 | 汉字 | Value | Type | Image | Description |
-| :--: | :---: | :--- | :---: | :--- |
+| :---: | :---: | :--- | :---: | :--- |
 | 六 | 6 | old yin | ---x--- | broken becoming whole |
 | 七 | 7 | young yang | ------- | whole |
 | 八 | 8 | young yin | --- --- | broken |
@@ -47,28 +45,28 @@ After tossing the three coins, we'll have a total of 6, 7, 8, or 9. Each of thes
 
 My coin tosses amount to 6 8 8 8 6 7. Drawing in lines from the bottom reveals:
 
-				  25  becomes  9
-	7 -------     ------- 	   -------
     7 -------     ------- 	   -------
-    9 ---Θ---  =  -------  =>  --- ---
-    6 ---x---  =  --- ---  =>  -------
     6 ---x---     --- --- 	   -------
-    7 -------     ------- 	   -------
+    8 --- ---  =  --- ---  =>  --- ---
+    8 --- ---  =  --- ---  =>  --- ---
+    8 --- ---     --- --- 	   --- ---
+    6 ---x---     --- --- 	   -------
+    			   23 Po becomes 42 I
+                  Splitting	   Increase
 
+Relaying this to the Rust library via CLI yields:
 
+![](/uploads/i-ching-rust-23.png)
 
+Looks like it might be time to chill on this post and do something else for a bit. "The leg of the bed is split." That doesn't bode well.
 
-Many of the translations use the anonymous masculine subject.
+You'll probably note as I have that many of the translations use an anonymous masculine subject. So far as I have seen, we could substitute "one" for "man" without issue.
 
 ### Denoue
 
-I, for one, will keep my eyes peeled for yarrow stalks ([which have oodles of uses](https://www.mommypotamus.com/yarrow/)) as I jog the creek amidst the rising spring. With stalks or coins in hand, I will direct my glowing orb of awareness over to the control panel at the uncertainty machine within the realm of possibilities. A question will arise. I will either intend to focus upon it or let it pass. With the coins or the stalks I will manifest one of the 64 _guaxiang,_ a hexagram, six lines, one at a time. Each line is broken or solid, yin or yang, old or young, changing or steady. As the lines stack up, so do two trigrams of the 八卦 ([_bagua_](http://www.wikiwand.com/en/Bagua)_)_, eight glyphs which, to my untrained eye, form the backbone of esoteric symbolism in Chinese philosophy. The _bagua_ map to binary numbers, chakras, colors, planets, actions, body parts, qualities, images of nature, animals, artifacts, family members, and of course 汉字 (hànzì).
+I, for one, will keep my eyes peeled for yarrow stalks ([which have oodles of uses](https://www.mommypotamus.com/yarrow/)) as I jog the creek amidst the rising spring. With stalks or coins in hand, I will direct my glowing orb of awareness over to the control panel at the uncertainty machine within the realm of possibilities. A question will arise. I will either intend to focus upon it or let it pass. With the coins or the stalks I will manifest one of the 64 _guaxiang,_ a hexagram, six lines, one at a time. Each line is broken or solid, yin or yang, old or young, changing or steady. As the lines stack up, so do two trigrams of the 八卦 ([_bagua_](http://www.wikiwand.com/en/Bagua)_)_, eight glyphs which, to my untrained eye, form the backbone of esoteric symbolism in Chinese philosophy. The _bagua_ map neatly to binary numbers, chakras, colors, planets, actions, body parts, qualities, images of nature, animals, artifacts, family members, and of course 汉字 (hànzì).
 
 ***
-
-#### Links:
-
-[A lovely open source I Ching from @ablwr](https://bits.ashleyblewer.com/i-ching/)
 
 ### Counting coins
 
