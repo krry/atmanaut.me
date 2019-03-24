@@ -37,3 +37,6 @@ fields:
   name: categories
   label: Categories
   description: optional, will develop if helpful
+pages:
+- content/i-ching-and-the-elements-of-time.md
+- content/i-ching-and-the-elements-of-time.md
