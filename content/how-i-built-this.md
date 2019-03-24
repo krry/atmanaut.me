@@ -1,6 +1,6 @@
 ---
 title: 'Building Atmanaut: How to Ghostwrite the Web'
-date: 2019-02-20 06:06:00 -0600
+date: 2019-02-20 12:06:00 +0000
 layout: code
 tags: []
 
@@ -19,8 +19,7 @@ The squirrel gets it when we ships it.
 
 * [Hugo](https://gohugo.io/about/ "Hugo"), which generates a lightning-fast, theme-able static site with plenty of Go power, a thriving community, and a stellar dev team.
 * [Forestry.io](https://forestry.io) for handling content. It's like Minecraft meets Wordpress with a woodsy musk.
-* [`now`](https://zeit.co/now), for no-frills, full-auto deployment/hosting/DNS from the terminal, or straight from the `master` branch to you
-* vim + tmux + oh-my-zsh, for memorizing shitloads of keybindings and then tortoise magic all the way down. I might spend more time tweaking my [dotfiles](https://github.com/krry/dot/ "dotfiles") than writing code for this site. Like the fella says, gimme a day to chop down a tree, and I'll grind an axe all morning.
+* `[now](https://zeit.co/now)`, for no-frills, full-auto deployment/hosting/DNS from the terminal, or straight from the `master` branch to you
 * iA Writer - for hipster purity XP, LVL 99. I've been trying out Typora too, but ol' faithful iA really knows how to make me love to write.
 
 Hugo comes with all kinds of built-in goodies. Like syntax highlighting, powered by chromastyles and pygments.
