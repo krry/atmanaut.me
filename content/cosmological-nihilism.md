@@ -11,7 +11,6 @@ tags:
 - hologram
 categories:
 - knowledge
-draft: true
 
 ---
 Science doesn't insist that we discard our beliefs, only that we construct them falsifiably, subject them to empirical scrutiny, and serve them with a side of well-documented reproducibility. Still, many, if not all, scientists find—at some point before they give up the ghost—that science has not been enough to explain the wonder of existence, the splendor of the cosmos, the problem of life. Nevertheless some spend their careers mired in nihilistic illusionment, searching for meaning everywhere but at its source, inadvertently misinforming each other and the hoi polloi.
