@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2019-03-22T16:48:00-05:00"
-draft = true
 subtitle = "A first look at the Book of Changes"
 tags = ["Non-Occidental", "spacetime", "buddy system", "cleromancy", "i ching"]
 title = "I Ching and the Elements of Time"
