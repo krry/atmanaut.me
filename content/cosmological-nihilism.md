@@ -17,11 +17,11 @@ draft: true
 Science doesn't insist that we discard our beliefs, only that we construct them falsifiably, subject them to empirical scrutiny, and serve them with a side of well-documented reproducibility. Still, many, if not all, scientists find—at some point before they give up the ghost—that science has not been enough to explain the wonder of existence, the splendor of the cosmos, the problem of life. Nevertheless some spend their careers mired in nihilistic illusionment, searching for meaning everywhere but at its source, inadvertently misinforming each other and the hoi polloi.
 
 > I want you to believe that the universe is a vast, random, uncaring place, in which our species has absolutely no significance. And I want you to believe that the only response is to make our own beauty and meaning, and to share it while we can. I want you to believe … that you are a way for the universe to be in awe of itself.
-> <cite>— Dr. Katie Mack, [*Disorientation*](https://aeon.co/videos/i-want-you-to-live-forward-but-see-backward-a-theoretical-astrophysicists-manifesto)</cite>
+> <cite>— Dr. Katie Mack, [_Disorientation_](https://aeon.co/videos/i-want-you-to-live-forward-but-see-backward-a-theoretical-astrophysicists-manifesto)</cite>
 
 Which begs the question: why would a theoretical astrophysicist want us to believe we are insignificant specks in an uncaring vastness?
 
-Surely Dr. Mack has no professional motivation for airlocking the value of humanity. One might posit that she holds these beliefs, and that they trouble her, hence their insistent exposition in this video. The truth is not fragile; it needs no defense or assertion. But beliefs crumple unless we continue to inflate them and project them outward.
+Surely Dr. Mack has no professional motivation for seeming to airlock the value of humanity. One might posit that she holds these beliefs, and that they trouble her, hence their insistent exposition in this video. The truth is not fragile; it needs no defense or assertion. But beliefs crumple unless we continue to inflate them and project them outward.
 
 NIhilistic beliefs like these are the Aegis of the ego, the existential trump cards. When we imagine non-existence, we grow fearful and seek cover. Facing the ultimate imaginary threat, no cover will do, but still we struggle to clad ourselves in a protective shell of other imaginings, a shell with which we come to identify ourselves. So egos come in as many flavors and shapes (personalities) as there are self-awarenesses. But they all trace back to the shared nightmare of mortality.
 
