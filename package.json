@@ -4,7 +4,7 @@
     "clean": "rm -rf ./public",
     "build": "npm run clean && hugo",
     "deploy": "npm run build && now",
-    "preview": "cd themes/chakra && npm install postcss-cli -g && npm install && cd ../.. && hugo -EFDb $DEPLOY_URL -d public",
-    "release": "npm run deploy && now alias"
+    "release": "npm run build && now --target production",
+    "preview": "cd themes/chakra && npm install postcss-cli -g && npm install && cd ../.. && hugo -EFDb $DEPLOY_URL -d public"
   }
 }
