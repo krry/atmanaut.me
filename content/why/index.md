@@ -4,6 +4,7 @@ date: 2019-02-27 23:03:59 +0000
 tags:
 - core
 - questions
+draft: true
 
 ---
 [Somewhat apocryphally](https://books.google.com/books?id=L8RVOCHtWXQC&pg=PA37&lpg=PA37&dq=%22if+you+can%27t+find+it+anywhere+else%22+%22look+in+this%22&source=bl&ots=LY5Y7SU_Aj&sig=ACfU3U2NsTh51nideVAVsI-kXhqWLbHarA&hl=en&sa=X&ved=2ahUKEwjmjMHood3gAhXH7oMKHRhbB9gQ6AEwAHoECAAQAQ#v=onepage&q=%22if%20you%20can't%20find%20it%20anywhere%20else%22%20%22look%20in%20this%22&f=false), Abe Lincoln tamed the disorder of his Springfield law office with a pile of papers labeled "If you can't find it anywhere else, look here." Trying to find a common thread in the research that increasingly consumes me has left me wanting just such an envelope. But, hey, it's 2019, why not make it a website?
@@ -26,4 +27,4 @@ Take a quiet moment to breath and stop. Then try one these…
 
 1. Feel without thinking.
 2. Think without words.
-3. 
+3.
