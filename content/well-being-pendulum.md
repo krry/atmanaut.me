@@ -8,6 +8,7 @@ draft: true
 Some linkbait caught me today: **"[Neuroscience reveals 4 rituals that will make you happy](https://www.theladders.com/career-advice/neuroscience-4-rituals-happy)"**.
 
 I'll save you the ten minutes of shameful scanning.
+
 1. Gratitude
 2. Mindfulness (of negativity)
 3. Decisive action

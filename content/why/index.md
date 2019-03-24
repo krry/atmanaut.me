@@ -27,4 +27,4 @@ Take a quiet moment to breath and stop. Then try one these…
 
 1. Feel without thinking.
 2. Think without words.
-3.
+3. Breathe deeply until you can't think.
