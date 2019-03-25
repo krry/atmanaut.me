@@ -1,7 +1,6 @@
 languageCode: en-us
 title: Atmanaut
 theme: chakra
-# googleAnalytics: UA-123-45
 params:
   author: Kerry Snyder
   description: "सच्चिदानन्द"
@@ -15,3 +14,8 @@ blackfriday:
 pygmentsCodeFences: true
 pygmentsCodefencesGuessSyntax: true
 pygmentsUseClasses: true
+algolia:
+    index: atmanaut
+    appID: 9BZY989TO1
+    # key: env.ALGOLIA_WRITE_KEY
+# googleAnalytics: UA-123-45

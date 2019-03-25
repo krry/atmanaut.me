@@ -2,9 +2,14 @@
   "scripts": {
     "start": "hugo server -wD",
     "clean": "rm -rf ./public",
+    "index": "npm run build && hugo-algolia",
+    "sendex": "npm run build && hugo-algolia -s",
     "build": "npm run clean && hugo",
     "deploy": "npm run build && now",
     "release": "npm run build && now --target production",
     "preview": "cd themes/chakra && npm install postcss-cli -g && npm install && cd ../.. && hugo -EFDb $DEPLOY_URL -d public"
+  },
+  "dependencies": {
+    "hugo-algolia": "^1.2.14"
   }
 }
