@@ -1,7 +1,6 @@
 ---
 label: Post
 hide_body: false
-display_field: title
 fields:
 - type: text
   name: title
@@ -15,8 +14,9 @@ fields:
   description: a big inky rubber starter pistol
   config:
     date_format: YYYY-MM-DD
-    time_format: hh:mm:ss ZZ
+    time_format: HH:mm:ss ZZ
     required: true
+  default: now
 - type: tag_list
   name: tags
   label: Tags
