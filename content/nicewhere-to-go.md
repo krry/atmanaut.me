@@ -1,11 +1,11 @@
 +++
 categories = []
 date = "2019-03-24T10:46:00-05:00"
-subtitle = "Or where is it #nicenow?"
+subtitle = "Or where is it nice now?"
 tags = ["playwork", "vacay", "ideation"]
 title = "#NiceHere"
 title_lead = "With all these weatherpersons..."
-title_main = "When is it #nicehere?"
+title_main = "When is it nice here?"
 
 +++
 From the desk of the Secretary of Ain'tseenityet comes a pants-warming, boots-mudding memo:
