@@ -1,0 +1,25 @@
+---
+label: New Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: title_main
+  label: title_main
+- type: text
+  name: subtitle
+  label: subtitle
+- type: text
+  name: title_lead
+  label: title_lead
+- type: list
+  name: categories
+  label: categories
