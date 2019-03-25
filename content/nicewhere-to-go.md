@@ -8,7 +8,7 @@ title_lead = "With all these weatherpersons..."
 title_main = "When is it nice here?"
 
 +++
-From the desk of the Secretary of Ain'tseenityet comes a pants-warming, boots-mudding memo:
+From the desk of the Secretary of Ain't-Seen-Nothin-Yet comes a pants-warming, boots-mudding memo:
 
 ## **How to Where to Vacay**
 
@@ -18,7 +18,7 @@ Two things they teach you in Econ 101. It's okay to sleep through the lecture, y
 
 First off, anyone in the vacation business doesn't want it to be cheap. Vacation implies space. Discounting the value of a vacation experience would induce more vacationers, who take up space, to cankle in. For those providing hospitality, there is a middle path between too few and too many patrons where things are lively, but not messy or overwhelming; somewhere between a ghost town and a Vegas buffet. Somewhere over the rainbow lies an ideal flowstate for the vacation system where everyone involved is maxin' and/or relaxin'.
 
-Secondly, *it **is** extremely cheap*, depending on what you call vacation. If you heed the roar of the advertofascisyndicapitalist media monster, your senses are flooded with deals on flights, hotels, rental cars, cruises to third-world island getaways, public restrooms/waterparks, and tourist traps and roadside attractions within a day-trip radius.
+Secondly, _it **is** extremely cheap_, depending on what you call vacation. If you heed the roar of the advertofascisyndicapitalist media monster, your senses are flooded with deals on flights, hotels, rental cars, cruises to third-world island getaways, public restrooms/waterparks, and tourist traps and roadside attractions within a day-trip radius.
 
 And if those don't strike your fancy, there are gads of special interests, hobbies, and thrills to seek. Check the magazine rack at the airport for 10 ways to free-two-day-shipping yourself new gear you'll use twice. Just wait until Saturday! You can get a late start and end up in traffic trying to escape the city with the rest of us. And when you arrive at the trailhead you saw on Buzzfeed, there's nowhere to park, because, well it was on Buzzfeed.
 
