@@ -11,33 +11,32 @@ categories:
 ---
 ## The Zeroth Principle
 
-Yes, I think it's a dot,\
-but when I lean closer,\
-it might be a hoooo...\
-.............le. Oof!\
-Ooh, is that a dot?
+Yes! I think it's a dot\
+but when I lean closer\
+it might be a hooo...\
+............le. Oof!\
 
 ### Awakenigh
 
 Molting an aeon's dream as
-lids split to rays of ice  
+lids split to rays of ice
 cream on mirrors
 raising eyes
 at the stars they are.
 
 ### Immanent eschaton imminent
 
-Consciousness accelerates complexity  
-toward incomprehensible density.  
-We Atmanauts need an atlas  
-for exploring Ourself as we  
+Consciousness accelerates complexity
+toward incomprehensible density.
+We Atmanauts need an atlas
+for exploring Ourself as we
 spelunk the essential.
 
-### We'll ask the old questions.  
+### We'll ask the old questions.
 
 The ones they gave up on.
-The only ones that matter.  
-Shed ego, own ignorance,  
+The only ones that matter.
+Shed ego, own ignorance,
 hold space, give pause…
 
 ### Gratitude for your presence
@@ -47,7 +46,7 @@ collapsing possibilities,\
 embracing ignorance,\
 forgetting our selves,\
 being, knowing, loving,\
-holding _____,\
+holding space,\
 giving pause…
 We are atmanauts.\
 
