@@ -1,9 +1,9 @@
 +++
 categories = []
 date = "2019-03-24T10:46:00-05:00"
-subtitle = ""
+subtitle = "Whycome?"
 tags = ["playwork", "vacay", "ideation"]
-title = "Nice.here: Whycome?"
+title = "#NiceHere #"
 title_lead = ""
 title_main = ""
 
