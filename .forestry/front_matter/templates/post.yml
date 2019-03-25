@@ -7,32 +7,31 @@ fields:
   label: Title
   config:
     required: true
-  description: Can be split into main, lead, and subtitle
+  description: optionally split into main, sub, lead below
 - type: datetime
-  label: Timestamp
   name: date
-  description: when the post is started
+  label: Timestamp
+  description: when the post got started
   config:
     date_format: YYYY-MM-DD
-    required: true
     time_format: hh:mm:ss ZZ
-  default: 2019-03-21 12:50:00 +0000
+    required: true
 - type: tag_list
   name: tags
   label: Tags
   description: can have spaces, separate with tab or comma
 - type: text
+  name: title_main
+  label: Main title
+  description: moot unless sub and lead
+- type: text
   label: Subtitle
   name: subtitle
-  description: optional, for wandering titles
+  description: a slightly more indirect restating of the main title
 - type: text
   name: title_lead
   label: Lead Line
-  description: The lead line (after the main title)
-- type: text
-  name: title_main
-  label: Main title
-  description: Necessary if lead line is used
+  description: or how I learned to stop worrying and love the bomb
 - type: tag_list
   name: categories
   label: Categories
