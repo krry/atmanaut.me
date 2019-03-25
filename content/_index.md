@@ -11,10 +11,10 @@ categories:
 ---
 ## The Zeroth Principle
 
-Yes, I think it's a dot,
-but when I lean closer,
-it might be a hoooo...
-.............le. Oof!
+Yes, I think it's a dot,\
+but when I lean closer,\
+it might be a hoooo...\
+.............le. Oof!\
 Ooh, is that a dot?
 
 ### Awakenigh
