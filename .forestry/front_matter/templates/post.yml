@@ -8,11 +8,11 @@ fields:
   label: Title
   config:
     required: true
-  description: optionally split into main, sub, lead below
+  description: optionally furcate into main/sub/lead below
 - type: datetime
   name: date
   label: Timestamp
-  description: when the post got started
+  description: a big inky rubber starter pistol
   config:
     date_format: YYYY-MM-DD
     time_format: hh:mm:ss ZZ
