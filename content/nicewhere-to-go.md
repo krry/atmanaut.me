@@ -33,9 +33,9 @@ How do we fix this? Is there an app for that?
 A cursory survey of the area yields:
 
 * [HipCamp](https://www.hipcamp.com/ "HipCamp") and [a few others](https://www.fatherly.com/gear/airbnb-for-campers/ "AirBnB for campers")
-* [Hiking Project](), seemingly sponsored by REI
+* [Hiking Project](https://www.hikingproject.com/ "REI has a Hiking Project"), seemingly sponsored by REI
 * [Pleasant Places](https://kellegous.com/j/2014/02/03/pleasant-places/) by Kelly Norton
-* [A nice weather map from The Wash Po](https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/08/07/the-united-states-of-nice-days-heres-where-and-when-to-find-the-nations-most-frequent-ideal-weather/?noredirect=on&utm_term=.11029fac0d9e)
+* [A nice weather map from The Wash Po](https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/08/07/the-united-states-of-nice-days-heres-where-and-when-to-find-the-nations-most-frequent-ideal-weather/?noredirect=on&utm_term=.11029fac0d9e "WashPo NiceHere")
 
 ### Lt. Commander Data to the Bridge
 
