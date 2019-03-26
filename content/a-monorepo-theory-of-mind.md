@@ -31,10 +31,10 @@ It has only been a year since I became conscious of the agreements that define m
 5. "We hold these truths to be self-evident, that all \[humans\] are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness." (False, we weren't created. We grew. And no rights grew with us.)
 6. You Only Live Once (Unknown, but you never stop being.)
 7. Self-improvement is masturbation. (False, the self is not just me.)
-8. This too shall pass. (True, all is impermanent • अनिच्चा • anicca.)
+8. This too shall pass. (True, all is impermanent • अनिच्चा • anicca)
 9. Love is the answer. (True. Love is the new 42.)
 
-Platitudes and aphorisms mostly. Words to live by? Or words to leave (a room) by? You be the judge. I kept the last two and binned the rest. And I am the author of my truth, but no one's besides. Perhaps that is the purpose of the illusion of Otherhood, to give each drop of consciousness the thrill of divining the Truth from its precious, one-of-a-kind perspective, and then try to explain it. Pretty fun game, eh? How'm I doing?
+Platitudes and aphorisms mostly. Words to live by? Or words to leave (a room) by? You be the judge. I kept the last two and binned the rest. And I am the author of my truth, but no one's besides. Perhaps that is the purpose of the illusion of Otherhood, to give each drop of consciousness the thrill of divining the Truth from its precious, one-of-a-kind perspective, and then the thrill of trying to explain it. Pretty fun game, eh? How'm I doing?
 
 ## Enter the Monorepo
 
