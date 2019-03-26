@@ -1,0 +1,10 @@
+---
+label: Tags
+hide_body: false
+fields:
+- name: tag
+  type: text
+  config:
+    required: true
+  label: Tag
+  description: a topic/concept/notion that tends to come up
