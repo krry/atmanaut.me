@@ -9,11 +9,9 @@ tags:
 ---
 A year ago I received a message. "Love is the answer." An oft-repeated platitude, yes, but this time it stuck and took over, like an amorous prion.
 
-The next day this name came to me: Atmanaut! That's what I have become. I still don't know how to explain that to anyone, but at least I have a word for it. An explorer of the farthest reaches of the Atman. Surely there are many lovely drops devoting themselves to this search. Anyone that understands and appreciates this coinage will be mon ami, a compadre/comrade, and in my cadre.
+The next day this name came to me: Atmanaut! That's what I have become. I still don't know how to explain that to anyone, but at least I have a word for it. An explorer of the farthest reaches of the Atman. Surely there are many lovely drops devoting themselves to this search. Anyone that understands and appreciates this coinage will be compadre, comrade, y en mi cadre.
 
 So where Atmanauts are concerned the .me is for personal atmanaut matters like email and G Suite, the .us is for us, this site here, which should become the Atlas. And then there's atmanautica.com, which I may let go. Not sure we need a .com and it muddles the namespace to have two different domains.
-
-For now the content is a whole lot of words. I've got years of research and writings to start putting out there. And new ideas every day if I take the time write them down. I'll weave in from interactive data vis stuff as it comes up. The NiceHere project may be the first foray in that direction.
 
 ## What are you, nuts and bolts?
 
