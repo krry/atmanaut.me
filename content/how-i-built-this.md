@@ -1,5 +1,5 @@
 ---
-title: 'Building Atmanaut: How to Ghostwrite the Web'
+title: 'Building Atmanaut: How This Happened'
 date: 2019-02-20 12:06:00 +0000
 layout: code
 tags:
@@ -7,15 +7,21 @@ tags:
 - devsign
 
 ---
+A year ago I received a message. "Love is the answer." An oft-repeated platitude, yes, but this time it stuck and took over, like an amorous prion.
+
+The next day this name came to me: Atmanaut! That's what I have become. I still don't know how to explain that to anyone, but at least I have a word for it. An explorer of the farthest reaches of the Atman. Surely there are many lovely drops devoting themselves to this search. Anyone that understands and appreciates this coinage will be mon ami, a compadre/comrade, and in my cadre.
+
+So where Atmanauts are concerned the .me is for personal atmanaut matters like email and G Suite, the .us is for us, this site here, which should become the Atlas. And then there's atmanautica.com, which I may let go. Not sure we need a .com and it muddles the namespace to have two different domains.
+
+For now the content is a whole lot of words. I've got years of research and writings to start putting out there. And new ideas every day if I take the time write them down. I'll weave in from interactive data vis stuff as it comes up. The NiceHere project may be the first foray in that direction.
+
+## What are you, nuts and bolts?
+
 Delightfully often, when I've combed the web for help designing, developing, and publishing sites, apps, I land on someone's "How I Made This" post on their custom blog. That, or on StackOverflow, or on a Github issue, or increasingly these days on [DEV](dev.to). So this one goes out to all those paid it forward and lent me a hand.
 
 It still feels like nothing short of a miracle to publish a new site. After so many tees dotted (with coffee stains) and eyes crossed through those long nights at the terminal, it's hard to describe the feeling when **It Just Works**™.
 
 In the present case, thanks to a hoard of wunderkinder that open sourced their brilliance, the design, development, and deployment experience on this new site are as good as it gets. **It Just Works™** in such a Teflon-coated Slip 'n' Slide sorta way that I'm elated to pop the hood for you.
-
-![The ShipIt! squirrel gets it.](/img/ship-it-squirrel.jpg)
-
-The squirrel gets it when we ships it.
 
 ## TL;DR: The Stack
 
@@ -24,6 +30,9 @@ The squirrel gets it when we ships it.
 * [Forestry.io](https://forestry.io) for handling content. It's like Minecraft meets Wordpress with a woodsy musk.
 * [Now.sh](https://zeit.co/now), for no-frills, full-auto deployment/hosting/DNS from the terminal, or straight from the `master` branch to you
 * iA Writer - for hipster purity XP, LVL 99. I've been trying out Typora too, but ol' faithful iA really knows how to make me love to write.
+
+The squirrel gets it when we ships it.
+![The ShipIt! squirrel gets it.](/img/ship-it-squirrel.jpg)
 
 ### Something for the Code Blockheads
 Hugo comes with all kinds of built-in goodies. Like syntax highlighting, powered by chromastyles and pygments.
@@ -38,7 +47,7 @@ Hugo comes with all kinds of built-in goodies. Like syntax highlighting, powered
 }('domready', function () {});
 ```
 
-## The moosen haven cometh.
+## Thou moosen art cometh.
 
 ``` sh
 
