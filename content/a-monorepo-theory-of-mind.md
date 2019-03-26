@@ -2,8 +2,8 @@
 categories = []
 date = "2019-03-25T14:06:00-05:00"
 subtitle = "or How I Learned to Stop Worrying and Love the Hive Mind"
-tags = ["Kybalion", "Hermetica", "Self/Other"]
-title = "Rejecting Otherhood and the Monorepo"
+tags = ["Kybalion", "Hermetica", "Self/Other", "MonoRepo"]
+title = "Rejecting Otherhood and the MonoRepo"
 title_lead = "Well, he roped me into this..."
 title_main = "Rejecting Otherhood and the Monorepo"
 
