@@ -2,7 +2,7 @@
 categories = []
 date = "2019-03-24T10:46:00-05:00"
 subtitle = "Or where is it nice now?"
-tags = ["playwork", "vacay", "ideation"]
+tags = ["playwork", "vacay", "ideation", "prediction"]
 title = "#NiceHere"
 title_lead = "With all these weatherpersons..."
 title_main = "When is it nice here?"
