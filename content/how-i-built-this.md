@@ -5,6 +5,9 @@ layout: code
 tags:
 - code
 - devsign
+title_lead: Oh yeah, well now this is happening…
+title_main: Building Atmanaut
+subtitle: Howsits and Whatsits
 
 ---
 A year ago I received a message. "Love is the answer." An oft-repeated platitude, yes, but this time it stuck and took over, like an amorous prion.
