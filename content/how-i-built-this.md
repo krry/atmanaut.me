@@ -12,9 +12,9 @@ subtitle: Howsits and Whatsits
 ---
 A year ago I received a message. "Love is the answer." An oft-repeated platitude, yes, but this time it stuck and took over, like an amorous prion.
 
-The next day this name came to me: Atmanaut! That's what I have become. I still don't know how to explain that to anyone, but at least I have a word for it. An explorer of the farthest reaches of the Atman. Surely there are many lovely drops devoting themselves to this search. Anyone that understands and appreciates this coinage will be compadre, comrade, y en mi cadre.
+The next day this name came to me: "Atmanaut! What have I become?" I still don't know how to fully explain this transformation, but at least I have a word for it. Atmanaut: explorer of the farthest reaches of the soul we share. Anyone that understands and appreciates this occupation, this coinage, will be a compadre, comrade, y en mi cadre. There could be millions of practicing atmanauts and we wouldn't know unless they can self-identify.
 
-So where Atmanauts are concerned the .me is for personal atmanaut matters like email and G Suite, the .us is for us, this site here, which should become the Atlas. And then there's atmanautica.com, which I may let go. Not sure we need a .com and it muddles the namespace to have two different domains.
+So I reserved use some space. Atmanaut.me is for personal matters like email and G Suite.  Atmanaut.us is for all of us to collaborate: this site here, which will become the Atlas. The Atlas is built on Hugo at the moment.
 
 ## What are you, nuts and bolts?
 
@@ -36,6 +36,7 @@ The squirrel gets it when we ships it.
 ![The ShipIt! squirrel gets it.](/img/ship-it-squirrel.jpg)
 
 ### Something for the Code Blockheads
+
 Hugo comes with all kinds of built-in goodies. Like syntax highlighting, powered by chromastyles and pygments.
 
 ``` js
