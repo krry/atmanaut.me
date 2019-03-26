@@ -20,10 +20,12 @@ The squirrel gets it when we ships it.
 ## TL;DR: The Stack
 
 * [Hugo](https://gohugo.io/about/ "Hugo"), which generates a lightning-fast, theme-able static site with plenty of Go power, a thriving community, and a stellar dev team.
+* [Chakra](https://github.com/krry/chakra-hugo-theme/ "Chakra Hugo Theme"), my handrolled Hugo theme
 * [Forestry.io](https://forestry.io) for handling content. It's like Minecraft meets Wordpress with a woodsy musk.
-* `[now](https://zeit.co/now)`, for no-frills, full-auto deployment/hosting/DNS from the terminal, or straight from the `master` branch to you
+* [Now.sh](https://zeit.co/now), for no-frills, full-auto deployment/hosting/DNS from the terminal, or straight from the `master` branch to you
 * iA Writer - for hipster purity XP, LVL 99. I've been trying out Typora too, but ol' faithful iA really knows how to make me love to write.
 
+### Something for the Code Blockheads
 Hugo comes with all kinds of built-in goodies. Like syntax highlighting, powered by chromastyles and pygments.
 
 ``` js
@@ -33,27 +35,7 @@ Hugo comes with all kinds of built-in goodies. Like syntax highlighting, powered
   else if (typeof define == 'function' && typeof define.amd == 'object') define(definition)
   else this[name] = definition()
 
-}('domready', function () {
-
-  var fns = [], listener
-    , doc = typeof document === 'object' && document
-    , hack = doc && doc.documentElement.doScroll
-    , domContentLoaded = 'DOMContentLoaded'
-    , loaded = doc && (hack ? /^loaded|^c/ : /^loaded|^i|^c/).test(doc.readyState)
-
-
-  if (!loaded && doc)
-    doc.addEventListener(domContentLoaded, listener = function () {
-      doc.removeEventListener(domContentLoaded, listener)
-      loaded = 1
-      while (listener = fns.shift()) listener()
-    })
-
-  return function (fn) {
-    loaded ? setTimeout(fn, 0) : fns.push(fn)
-  }
-
-});
+}('domready', function () {});
 ```
 
 ## The moosen haven cometh.
@@ -74,26 +56,4 @@ Hugo comes with all kinds of built-in goodies. Like syntax highlighting, powered
                ||     ||
 ```
 
-If you pipe fortune into cowsay into lolcat and randomize the cows, you get a pretty amazing command line soothsayer I like to call Kamadhenu. Next version will be AI-powered.
-
-### Here are a few magic spells that make teh codez look nice
-
-``` css
-highlight {
-  margin: 1em -2em;
-  p, span, ul, ol, dl {
-    font-family: var(--font-code);
-  }
-  pre {
-    padding: 1rem;
-  font-size: 0.8125em;
-  }
-}
-
-pre, code, samp {
-  overflow-wrap: break-word;
-  white-space: pre-wrap;
-}
-```
-
-Hugo also has a great set of pipes.
+If you pipe fortune into cowsay into lolcat and randomize the cows, you get a pretty amazing command line soothsayer I call [Kamadhenu](https://github.com/krry/kamadhenu). Next version will be AI-powered.
