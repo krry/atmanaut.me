@@ -18,25 +18,25 @@ it might be a hooo...\
 
 ### Awakenigh
 
-Molting an aeon's dream as
-lids split to rays of ice
-cream on mirrors
-raising eyes
+Molting an aeon's dream as\
+lids split to rays of ice\
+cream on mirrors\
+raising eyes\
 at the stars they are.
 
 ### Immanent eschaton imminent
 
-Consciousness accelerates complexity
-toward incomprehensible density.
-We Atmanauts need an atlas
-for exploring Ourself as we
+Consciousness accelerates complexity\
+toward incomprehensible density.\
+We Atmanauts need an atlas\
+for exploring Ourself as we\
 spelunk the essential.
 
 ### We'll ask the old questions.
 
-The ones they gave up on.
-The only ones that matter.
-Shed ego, own ignorance,
+The ones they gave up on.\
+The only ones that matter.\
+Shed ego, own ignorance,\
 hold space, give pause…
 
 ### Gratitude for your presence
@@ -56,7 +56,7 @@ Ocean drop spot light search\
 Truth speaker seeking missiles\
 Wonder as we wander\
 We "Why?" open wide.\
-At last an atlas for atmanauts.\
+At last an atlas for atmanauts.
 
 #### We all play the game.
 Who's got the strategy guide?
