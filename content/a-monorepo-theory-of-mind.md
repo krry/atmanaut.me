@@ -22,17 +22,28 @@ But do not despair. This is only one way to play the game. It is probably not a 
 
 ## Culling the Herd
 
-It has only been a year since I became conscious of the agreements that define me. At first my inner eye refused to focus on them, like I was trying to watch a tear form, which is not quite as tricky as an eye trying to see itself. Eventually I managed to float the glowing orb of awareness into that shadowy nook of gullibility. The agreements I found may not shock you. They may just ring a bell. Here's a sample (and how they fared in the light of consciousness).
+It has only been a year since I became conscious of the agreements that define me. At first my inner eye refused to focus on them, like I was trying to watch a tear form, which is not quite as tricky as an eye trying to see itself. Eventually I managed to float the glowing orb of awareness into that shadowy nook of gullibility. The agreements I found may not shock you. They may just ring a bell. Here's a sample (and how they fare in the light of consciousness).
 
-1. May the best one win. (False, there's nothing to win.)
-2. The truth is out there. (False, it's in here.)
-3. All life is sacred. (False, life is born to die. Mind is sacred.)
-4. Everyone is entitled to their own opinion, but not to their own facts. (False, no authority exists to grant such entitlement.)
-5. "We hold these truths to be self-evident, that all \[humans\] are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness." (False, we weren't created. We grew. And no rights grew with us.)
-6. You Only Live Once (Unknown, but you never stop being.)
-7. Self-improvement is masturbation. (False, the self is not just me.)
-8. This too shall pass. (True, all is impermanent • अनिच्चा • anicca)
-9. Love is the answer. (True. Love is the new 42.)
+ 1. May the best one win.  
+    _Win what? Is there anything to win?_
+ 2. The truth is out there.  
+    _Looked for 30 years. It's not. It's in here._
+ 3. All life is sacred.  
+    _Life is born to die. Mind is sacred._
+ 4. Everyone is entitled to their own opinion, but not to their own facts.  
+    _On whose authority?_
+ 5. "We hold these truths to be self-evident, that all \[humans\] are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness."  
+    _We weren't created; we grew. And no rights grew with us. We made those up._
+ 6. All is ~~matter~~ ~~energy~~ ~~information~~ ~~quantum fields~~ ~~consciousness~~ **Mind**.  
+    _A very turbulent agreement. TBD._
+ 7. You Only Live Once  
+    _Unknown, but one never stops being._
+ 8. Self-improvement is masturbation.  
+    _The self is not just me._
+ 9. This too shall pass.  
+    अनिच्चा • anicca • _All is impermanent._
+10. Love is the answer.  
+    _Affinity runs the cosmos._
 
 Platitudes and aphorisms mostly. Words to live by? Or words to leave (a room) by? You be the judge. I kept the last two and binned the rest. And I am the author of my truth, but no one's besides. Perhaps that is the purpose of the illusion of Otherhood, to give each drop of consciousness the thrill of divining the Truth from its precious, one-of-a-kind perspective, and then the thrill of trying to explain it. Pretty fun game, eh? How'm I doing?
 
