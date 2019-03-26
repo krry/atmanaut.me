@@ -1,5 +1,5 @@
 ---
-title: belief
+title: Belief
 sources:
   - title: Spaghetti Monster
     link: https://www.venganza.org/

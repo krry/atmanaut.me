@@ -11,11 +11,12 @@ permalinks:
 blackfriday:
   plainIDAnchors: true
   hrefTargetBlank: true
+metaDataFormat: "yaml"
 pygmentsCodeFences: true
 pygmentsCodefencesGuessSyntax: true
 pygmentsUseClasses: true
 algolia:
     index: atmanaut
-    appID: 9BZY989TO1
-    # key: env.ALGOLIA_WRITE_KEY
+    appID: 8ACVSKKUVV
+    key: aa5b45b2a7ebf3d4133dee13429dccba
 # googleAnalytics: UA-123-45
