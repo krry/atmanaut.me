@@ -25,24 +25,24 @@ But do not despair. This is only one way to play the game. It is probably not a 
 It has only been a year since I became conscious of the agreements that define me. At first my inner eye refused to focus on them, like I was trying to watch a tear form, which is not quite as tricky as an eye trying to see itself. Eventually I managed to float the glowing orb of awareness into that shadowy nook of gullibility. The agreements I found may not shock you. They may just ring a bell. Here's a sample (and how they fare in the light of consciousness).
 
  1. **May the best one win.**  
-    _Win what? Is there anything to win?_
- 2. The truth is out there.  
-    _Looked for 30 years. It's not. It's in here._
- 3. All life is sacred.  
-    _Life is born to die. Mind is sacred._
- 4. Everyone is entitled to their own opinion, but not to their own facts.  
-    _On whose authority?_
- 5. "We hold these truths to be self-evident, that all \[humans\] are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness."  
+    _Win what? Trophies?_
+ 2. **The truth is out there.**  
+    _All signs point within for truth._
+ 3. **All life is sacred.**  
+    _Samsara: life is born to die. The mind, the mover, is sacred._
+ 4. **Everyone is entitled to their own opinion, but not to their own facts.**  
+    _On whose authority? Our feelings, on the other hand, those are ours for reals._
+ 5. > "We hold these truths to be self-evident, that all \[humans\] are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness."  
     _We weren't created; we grew. And no rights grew with us. We made those up._
- 6. All is ~~matter~~ ~~energy~~ ~~information~~ ~~quantum fields~~ ~~consciousness~~ **Mind**.  
+ 6. **All is** ~~matter~~ ~~energy~~ ~~information~~ ~~quantum fields~~ ~~consciousness~~ **Mind.**  
     _A very turbulent agreement. TBD._
- 7. You Only Live Once  
+ 7. **You Only Live Once.**  
     _Unknown, but one never stops being._
- 8. Self-improvement is masturbation.  
+ 8. **Self-improvement is masturbation.**  
     _The self is not just me._
- 9. This too shall pass.  
+ 9. **This too shall pass.**  
     अनिच्चा • anicca • _All is impermanent._
-10. Love is the answer.  
+10. **Love is the answer.**  
     _Affinity runs the cosmos._
 
 Platitudes and aphorisms mostly. Words to live by? Or words to leave (a room) by? You be the judge. I kept the last two and binned the rest. And I am the author of my truth, but no one's besides. Perhaps that is the purpose of the illusion of Otherhood, to give each drop of consciousness the thrill of divining the Truth from its precious, one-of-a-kind perspective, and then the thrill of trying to explain it. Pretty fun game, eh? How'm I doing?
