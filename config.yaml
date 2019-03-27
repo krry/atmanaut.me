@@ -1,11 +1,14 @@
 languageCode: en-us
-title: Atmanaut
-theme: chakra
+title: "Atmanaut"
+theme: "chakra"
 params:
-  author: Kerry Snyder
+  author: "Kerry Snyder"
   description: "सच्चिदानन्द"
   summaryLength: 50
   preserveTaxonomyNames: true
+  algolia:
+    vars: ["title", "date", "summary", "permalink", "title_lead", "subtitle", "title_main"]
+    params: ["tags", "categories"]
 permalinks:
   posts: /:year/:month/:title
 blackfriday:
@@ -15,6 +18,14 @@ metaDataFormat: "yaml"
 pygmentsCodeFences: true
 pygmentsCodefencesGuessSyntax: true
 pygmentsUseClasses: true
+outputs:
+  home: ["HTML", "RSS", "Algolia"]
+outputFormats:
+  Algolia:
+    basename: "algolia"
+    isPlainText: true
+    mediaType: "application/json"
+    notAlternative: true
 algolia:
     index: atmanaut
     appID: 8ACVSKKUVV
