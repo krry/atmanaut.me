@@ -24,7 +24,7 @@ But do not despair. This is only one way to play the game. It is probably not a 
 
 It has only been a year since I became conscious of the agreements that define me. At first my inner eye refused to focus on them, like I was trying to watch a tear form, which is not quite as tricky as an eye trying to see itself. Eventually I managed to float the glowing orb of awareness into that shadowy nook of gullibility. The agreements I found may not shock you. They may just ring a bell. Here's a sample (and how they fare in the light of consciousness).
 
- 1. May the best one win.  
+ 1. **May the best one win.**  
     _Win what? Is there anything to win?_
  2. The truth is out there.  
     _Looked for 30 years. It's not. It's in here._
