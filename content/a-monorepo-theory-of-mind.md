@@ -3,9 +3,9 @@ categories = []
 date = "2019-03-25T14:06:00-05:00"
 subtitle = "or How I Learned to Stop Worrying and Love the Hive Mind"
 tags = ["Kybalion", "Hermetica", "Self/Other", "monorepo", "belief"]
-title = "A Theory of ~~Mind~~ Otherhood"
+title = "A Theory of Otherhood and the Monorepo"
 title_lead = "Well, he roped me into this..."
-title_main = "Rejecting Otherhood and the Monorepo"
+title_main = "A Theory of Otherhood and the Monorepo"
 
 +++
 It is a landmark event in anyone's life: the sudden comprehension that there are **others**. For most of us, this lightning bolt strikes before we have developed the grammar or syntax we would need to construct a memory of such a concept. Consequently we don't remember it. But it strikes none the less and we bear the scar throughout our lives. The bolt misses some—perhaps they dodge it—who are no doubt baffled by the rest of us who once were of one mind and now perceive many, who call ourselves members of society, humanity, or civilization.
@@ -29,29 +29,29 @@ It has only been a year since I became conscious of the agreements that define m
  2. **The truth is out there.**  
     _All signs point within for truth._
  3. **All life is sacred.**  
-    _Samsara: life is born to die. The mind, the mover, is sacred._
+    _samsara_
  4. **Everyone is entitled to their own opinion, but not to their own facts.**  
-    _On whose authority? Our feelings, on the other hand, those are ours for reals._
+    _On whose authority?_
  5. > "We hold these truths to be self-evident, that all \[humans\] are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness."  
-    _We weren't created; we grew. And no rights grew with us. We made those up._
+    _We weren't created; we grew._
  6. **All is** ~~matter~~ ~~energy~~ ~~information~~ ~~quantum fields~~ ~~consciousness~~ **Mind.**  
-    _A very turbulent agreement. TBD._
- 7. **You Only Live Once.**  
-    _Unknown, but one never stops being._
- 8. **Self-improvement is masturbation.**  
-    _The self is not just me._
+    _We've hit a bit of turbulence. Seatbelt signs are on ;)_
+ 7. **Self-improvement is masturbation.**  
+    _The self is more than me._
+ 8. **You. Only. Live. Once.**  
+    _Unknown. I am the one who survives._
  9. **This too shall pass.**  
-    अनिच्चा • anicca • _All is impermanent._
+    अनिच्चा • _anicca • all is impermanent_
 10. **Love is the answer.**  
     _Affinity runs the cosmos._
 
-Platitudes and aphorisms mostly. Words to live by? Or words to leave (a room) by? You be the judge. I kept the last two and binned the rest. And I am the author of my truth, but no one's besides. Perhaps that is the purpose of the illusion of Otherhood, to give each drop of consciousness the thrill of divining the Truth from its precious, one-of-a-kind perspective, and then the thrill of trying to explain it. Pretty fun game, eh? How'm I doing?
+Platitudes and aphorisms mostly. Words to live by? Or words to leave (a room) by? You be the judge. I ended keeping the last few and binning the rest. And I am the author of my truth, but no one's besides. Perhaps that is the purpose of the illusion of Otherhood, to give each drop of consciousness the thrill of divining the Truth from its precious, one-of-a-kind perspective, and then the thrill of trying to explain it. Pretty fun game, eh? How'm I doing?
 
 ## Enter the Monorepo
 
-Listen, I don't know jack about monorepos. The last one I worked on left me cussing up a storm and mounting a campaign to modularize the codebase when it took half a week to get the dev environment running on a new machine. I could have been more patient, yes. But when the computer can make three billion decisions a second, patience on a scale of days is criminally ludicrous.
+Listen, I don't know jack about monorepos. The last one I worked on left me cussing up a storm and mounting a campaign to modularize the codebase when it took half a week to get the dev environment running on a new machine. I could have been more patient, yes. But when the computer can make three billion decisions a second, patience on a scale of days is criminally ludicrous. This was years ago. It was ahead of its time.
 
-Now, I don't know jack about monorepos. The last monorepo I worked on left me bitching up a storm when it took more than a day's work to get the dev environment spinning on a new machine. But I have a certain suspicion that they are on the right track. Not for tactical reasons or technical reasons or in the short term. But in the long run, as we awaken from this dream of otherhood, the monorepo will be the default M.O.
+Today, as then, we diffuse, distribute, decentralize. Individuation 
 
 At present (in 2019), all over the world individual minds are claiming distinct identities and adopting more reliable methods of establishing their relative value to each other. We are pursuing the individuation Jung exalts as our prime directive. Power, control, wealth are decentralizing, as knowledge, storage, services, functions are becoming more distributed. The blockchain and its dapps may not come to triumphant fruition as they do in the Adderall-induced fever dreams of the HODLbois, but the client-server model has already mutated and evolved. RESTful APIs and reactive, functional programming enable serverless data streams to flow like unseen ocean currents, whisking data plankton along for the whales to follow.
 
