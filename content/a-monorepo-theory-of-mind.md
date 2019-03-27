@@ -3,7 +3,7 @@ categories = []
 date = "2019-03-25T14:06:00-05:00"
 subtitle = "or How I Learned to Stop Worrying and Love the Hive Mind"
 tags = ["Kybalion", "Hermetica", "Self/Other", "monorepo", "belief"]
-title = "Rejecting Otherhood and the Monorepo"
+title = "A Theory of ~~Mind~~ Otherhood"
 title_lead = "Well, he roped me into this..."
 title_main = "Rejecting Otherhood and the Monorepo"
 
@@ -49,10 +49,12 @@ Platitudes and aphorisms mostly. Words to live by? Or words to leave (a room) by
 
 ## Enter the Monorepo
 
-Now, I haven't worked for an organization that stores its work product in a monorepo, at least not the implementations I've read about at Google, Facebook, and the like. But I have a certain suspicion that they are on the right track. Not for tactical or technical reasons, and in the short term. But in the long run, once we all have awoken from this deluded dream of Otherhood, the Monorepo will be the only sensical mode of version control.
+Listen, I don't know jack about monorepos. The last one I worked on left me cussing up a storm and mounting a campaign to modularize the codebase when it took half a week to get the dev environment running on a new machine. I could have been more patient, yes. But when the computer can make three billion decisions a second, patience on a scale of days is criminally ludicrous.
 
-I must apologize if I am not making sense. I'm skipping ahead quite a bit.
+Now, I don't know jack about monorepos. The last monorepo I worked on left me bitching up a storm when it took more than a day's work to get the dev environment spinning on a new machine. But I have a certain suspicion that they are on the right track. Not for tactical reasons or technical reasons or in the short term. But in the long run, as we awaken from this dream of otherhood, the monorepo will be the default M.O.
 
-At the current moment in 2019, all over the world individual minds are claiming distinct identities and adopting more reliable methods of establishing their relative value to each other. Power, control, wealth are decentralizing, storage, services, functions are becoming distributed. RESTful APIs and reactive, functional programming enable serverless data streams to flow ocean currents, carrying data plankton along for the whales to follow. Each granule is honed toward its ideal in the distributed, decentralized ecosystem, they tumble like semi-precious stones, knocking each others' sharp edges off, polishing with every issue, a unit test at a time. Eventually the granules will pulverize each other until only magic dust remains, so fine and dense that the heat of its affinity begins to fuse the powdery core.
+At present (in 2019), all over the world individual minds are claiming distinct identities and adopting more reliable methods of establishing their relative value to each other. We are pursuing the individuation Jung exalts as our prime directive. Power, control, wealth are decentralizing, as knowledge, storage, services, functions are becoming more distributed. The blockchain and its dapps may not come to triumphant fruition as they do in the Adderall-induced fever dreams of the HODLbois, but the client-server model has already mutated and evolved. RESTful APIs and reactive, functional programming enable serverless data streams to flow like unseen ocean currents, whisking data plankton along for the whales to follow.
+
+Each conscious node in the decentralized distributed information ecosystem  is being honed toward its ideal configuration. They tumble chaotic like semi-precious stones, knocking off sharp edges, always polishing one issue, one unit test at a time. Eventually the granules will pulverize each other until only magic dust remains, so fine and dense that the heat of its affinity begins to fuse the powdery core.
 
 And so the one true Monorepo takes hold. This is a ways off of course. But it's never too early to prepare for immortality.
