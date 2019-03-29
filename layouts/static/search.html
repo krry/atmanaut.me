@@ -1,0 +1,24 @@
+{{ define "nav" -}}
+{{ partial "tags/cloud.html" . }}
+{{- end -}}
+
+{{- define "main" -}}
+<div class="search">
+  <div id="searchbox" class=""><!-- where the search-box goes --></div>
+  <div id="hits" class="hits">
+    <!-- Hits widget will appear here -->
+  </div>
+  <img src="/img/search-by-algolia-dark-background.svg" />
+</div>
+{{- end -}}
+
+{{ define "pageStyles" -}}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.1.1/themes/reset-min.css" integrity="sha256-JQ2nnTmybhOWSjfV3sa8mG0ZVhTCcORER4cyXc5HL10=" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.1.1/themes/algolia-min.css" integrity="sha256-nkldBwBn2NQqRL1mod7BqHsJ6cEOn6u/ln6F/lI4CFo=" crossorigin="anonymous">
+{{- end -}}
+
+{{ define "pageScripts" -}}
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@3.32.1/dist/algoliasearchLite.js" integrity="sha256-pMaJf0I78weeXGkRMBDO6jSulxC/q3sb0aPdtV2N8n0=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@3.2.0" integrity="sha256-/8usMtTwZ01jujD7KAZctG0UMk2S2NDNirGFVBbBZCM=" crossorigin="anonymous"></script>
+<script src="/js/search.js"></script>
+{{- end }}

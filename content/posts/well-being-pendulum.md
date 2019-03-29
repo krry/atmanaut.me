@@ -7,7 +7,7 @@ draft: true
 ---
 Some linkbait caught me today: **"[Neuroscience reveals 4 rituals that will make you happy](https://www.theladders.com/career-advice/neuroscience-4-rituals-happy)"**.
 
-I'll save you the ten minutes of shameful scanning.
+I'll save you the ten minutes of shameful scanning. These are great.
 
 1. Gratitude
 2. Mindfulness (of negativity)
@@ -22,4 +22,4 @@ Is this more or less than before? It's hard to say. We are a lot better at count
 
 Objectively speaking, the quality of human life has improved drastically since we stopped with the global genocides in the 1940s. Infant mortality, disease, famine, drought, even minor discomfort are at all-time lows today, while per capita GDP, life expectancy, and disposable income are soaring. The numbers are in; we're better off. The quality of life on Earth more generally is another question entirely. Are the trees better off now? The birds? The fish? I'm hearing resounding negatories on all accounts.
 
-Environmental disaster aside, why aren't we ecstatic? Quite simply, we can't be, not in aggregate.
+Environmental disaster aside, why aren't we ecstatic? Quite simply, we can't be, not in aggregate. Ecstasy is a relative quality, defined by its opposite in polarity, which I would surmise to be misery. Without misery, ecstasy is meaningless and unreal. So some of us are ecstatic, and some are miserable. General relativity holds balanced much more than the path of photons through gravity-curved spacetime. We just haven't worked out all the maths yet.
