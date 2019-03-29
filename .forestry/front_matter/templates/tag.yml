@@ -30,5 +30,3 @@ fields:
     name: pdf
     label: PDF
     description: the PDF file, if necessary
-pages:
-- content/tags/i ching/_index.md.md
