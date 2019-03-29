@@ -1,11 +1,12 @@
 +++
-title = "A Theory of Otherhood and the Monorepo"
-date = "2019-03-25T14:06:00-05:00"
-tags = ["Kybalion", "Hermetica", "Self/Other", "monorepo", "belief"]
 categories = ["conjecture"]
+date = "2019-03-25T14:06:00-05:00"
+subtitle = "or How I Learned to Stop Worrying and Love the Hive Mind"
+tags = ["monorepo", "belief", "hermetica", "kybalion", "self/other"]
+title = "A Theory of Otherhood and the Monorepo"
 title_lead = "Well, he roped me into this..."
 title_main = "A Theory of Otherhood and the Monorepo"
-subtitle = "or How I Learned to Stop Worrying and Love the Hive Mind"
+
 +++
 It is a landmark event in anyone's life: the sudden comprehension that there are **others**. For most of us, this lightning bolt strikes before we have developed the grammar or syntax we would need to construct a memory of such a concept. Consequently we don't remember it. But it strikes none the less and we bear the scar throughout our lives. The bolt misses some—perhaps they dodge it—who are no doubt baffled by the rest of us who once were of one mind and now perceive many, who call ourselves members of society, humanity, or civilization.
 
