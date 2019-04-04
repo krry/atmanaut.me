@@ -2,7 +2,7 @@
 title: Belief
 sources:
   - title: Spaghetti Monster
-     link: https://www.venganza.org/
+    link: https://www.venganza.org/
   - title: Wikiwand
-     link: http://wikiwand.com
+    link: http://wikiwand.com
 ---
