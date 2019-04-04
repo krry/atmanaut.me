@@ -3,8 +3,8 @@ categories = []
 date = "2019-03-24T10:46:00-05:00"
 subtitle = "Or where is it nice now?"
 tags = ["playwork", "vacay", "ideation", "prediction"]
-title = "#NiceHere"
-title_lead = "With all these weatherpersons..."
+title = "How to Go Where It Is Nice"
+title_lead = "The All New Buenomadic 2020"
 title_main = "When is it nice here?"
 
 +++
