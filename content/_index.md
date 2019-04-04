@@ -9,12 +9,15 @@ categories:
 - intro
 
 ---
+
 ## The Zeroth Principle
 
 Yes! I think it's a dot\
 but when I lean closer\
 it might be a hooo...\
 ............le. Oof!\
+
+---
 
 ### Awakenigh
 
@@ -51,6 +54,7 @@ giving pause…
 We are atmanauts.\
 
 ### This is our atlas.
+
 
 Ocean drop spot light search\
 Truth speaker seeking missiles\
