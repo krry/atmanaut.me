@@ -1,13 +1,13 @@
-+++
-categories = []
-date = "2019-03-21T12:00:00-05:00"
-subtitle = "Eternally redeemable?"
-tags = ["free will", "determinism"]
-title = "It's never too early for immortality"
-title_lead = ""
-title_main = ""
+---
+categories: []
+date: "2019-03-21T12:00:00-05:00"
+subtitle: "Eternally redeemable?"
+tags: ["free will", "determinism"]
+title: "It's never too early for immortality"
+title_lead: ""
+title_main: ""
+---
 
-+++
 Today might be the day I redeem the suffering of my existence.  Today I might crest my wave, reach the cusp.  Today I might facetime with the singularity of my spacetime.  I won't know until later.  I may not know until I am far off this plane and have boarded the next one.  I may never, nor may anyone.  We don't notice everything.  To be conscious is a precious gift to receive.  To be mindful is to be grateful.
 
 When we map the fireworks sparking in our heads to the figments flashing through our minds, we see our choices being made before we make them.  Neuroscientists have observed that an unconscious cerebral initative precedes a conscious decision to move by about half a second.  This may come as a shock.  You may have been told to claim certain inalienable rights and freedoms.  You may believe as I once did that your choice is your own, and my choice is mine.  [Free will](https://www.wikiwand.com/en/Free_will) has seen some debate over the years, and that debate is far from over.

@@ -12,7 +12,7 @@ fields:
   fields:
   - type: text
     name: title
-    label: Title
+    label: title
     description: title of the source
     config:
       required: true
