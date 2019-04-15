@@ -1,1 +1,1 @@
-content/code/README.md
+content/README.md
