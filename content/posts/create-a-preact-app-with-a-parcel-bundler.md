@@ -5,7 +5,7 @@ tags:
 - front-end
 - devsign
 title_main: Create a Preact app with a Parcel Bundler
-subtitle: Lightning fast, featherweight, whipsmart
+subtitle: Lightning fast, featherweight, whip-smart front-end wapping
 title_lead: Alec, pour us a stout. It's record-breaking time.
 categories:
 - code
