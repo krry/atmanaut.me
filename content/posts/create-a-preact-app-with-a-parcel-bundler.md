@@ -12,22 +12,22 @@ categories:
 draft: true
 
 ---
-*Stardate 2019.04.15.21.41, Tax Day.*
+**_Earthdate 2019.04.15.21.41.32.745. Tax Day._**
 
-I don't have a lot of time before the IRS knocks down the door to take me away, so we'll make this quick. I've got to knock this last wapp out before I go-go.
+I don't have a lot of time before the IRS knocks down the door to take me away, so we'll make this quick. And I've got to knock this wapp out before I go-go.
 
-React would be the jam, but we don't have the time, or the inclination, to abide such bloat. Nor can I risk being caught hand-ankled and grunting my way thru a `webpack.config.js` No, no. I want the paper airplane of dev frameworks.
+React would be the jelly and/or jam, but I don't have the time, the money, or the inclination to abide the bloat. Nor can I risk being caught hand-ankled and grunting my way thru a `webpack.config.js` No, no, no. I want the paper airplane of dev frameworks. I want to sneeze and have a fully-featured web app to dev on.
 
 [Preact](https://preactjs.com) does much of what React can do with only 3kb of ugly gzip. [Parcel](https://parceljs.org) is a zero-config bundler/builder that smells like `webpack` but tastes (and works) like **Wonka**. After we get the engine running, we'll think about a turbo.
 
-First draw a blank...dir.
+First, draw a blank...dir.
 
 ``` shell
 mkdir -p preparcelact/src # the -p flag makes any parents necessary
 cd preparcelact
 ```
 
-Let `yarn` set it up.
+Let `yarn` initialize things.
 
 ``` shell
 yarn init -y # the -y flag says 'yes' to the init questions
@@ -49,7 +49,7 @@ Specify a command to start this skinny thang.
   },
 ```
 
-At this point, if you're following along, you may realize you could just be cloning [the Preact Parcel starter kit repo] and renaming it to be your own. If instead you're the defiant DIY type, type on.
+At this point, if you're following along, you may realize you could just be cloning \[the Preact Parcel starter kit repo\] and renaming it to be your own. If instead you're the defiant DIY type, type on.
 
 Next we make an entry point for `parcel`: `vim src/index.html`
 
@@ -120,9 +120,9 @@ SHAMWOW!
 
 Parcel can handle all manner of assets. It sits in wait, ready to automagically install dependencies when you start using them. There are a bunch of bundles and build features that Parcel can sniff out from a runcom or config file. Try adding some more, like:
 
-- `.postcssrc` / `postcss.config.js`
-- `.browserslistrc`
-- `.babelrc`
+* `.postcssrc` / `postcss.config.js`
+* `.browserslistrc`
+* `.babelrc`
 
 The cool part about these little runcoms is how portable they are. Just copy and drop them into a new project. For instance, [let's say you want to autoprefix your css](https://parceljs.org/css.html). Just add a runcom for PostCSS about autoprefixer.
 
