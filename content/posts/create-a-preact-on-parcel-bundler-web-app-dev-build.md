@@ -9,7 +9,6 @@ subtitle: Lightning fast, featherweight, whip-smart front-end wapping
 title_lead: Alec, pour us a stout. It's record-breaking time.
 categories:
 - code
-draft: true
 
 ---
 **_Earthdate 2019.04.15.21.41.32.745. Tax Day._**
