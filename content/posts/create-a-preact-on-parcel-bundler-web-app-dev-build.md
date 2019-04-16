@@ -25,21 +25,21 @@ React would be the jelly and/or jam, but I don't have the time, the money, or th
 #### 1. First, we draw a blank... dir.
 
 ``` shell
-mkdir -p preact-parcel-app/src	# -p flag makes necessary parents
+mkdir -p preact-parcel-app/src
 cd preact-parcel-app
 ```
 
 #### 2. I like to let `yarn` initialize the dir.
 
 ``` shell
-yarn init -y   					# -y flag says 'yes' to questions
+yarn init -y
 ```
 
 #### 3. Then have `yarn` install our slim dependencies.
 
 ``` shell
-yarn add -D parcel-bundler		# -D flag to --save-dev
-yarn add preact preact-compat   # as in compat with react
+yarn add -D parcel-bundler
+yarn add preact preact-compat
 ```
 
 #### 4. Now we add a `dev` command to the `package.json`.
