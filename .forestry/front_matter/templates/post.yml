@@ -38,4 +38,4 @@ fields:
   label: Categories
   description: optional, will develop if helpful
 pages:
-- content/posts/create-a-preact-app-with-a-parcel-bundler.md
+- content/posts/create-a-preact-on-parcel-bundler-web-app-dev-build.md
