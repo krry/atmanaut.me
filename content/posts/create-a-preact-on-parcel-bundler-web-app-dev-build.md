@@ -123,11 +123,7 @@ body {
 
 ### What dreams may come!
 
-Parcel can handle all manner of assets. It sits in wait, ready to automagically install dependencies when you start using them. There are a bunch of bundles and build features that Parcel can sniff out from a runcom or config file. Try adding some more, like:
-
-* `.postcssrc` / `postcss.config.js`
-* `.browserslistrc`
-* `.babelrc`
+Parcel can handle all manner of assets. It sits in wait, ready to automagically install dependencies when you start using them. There are a bunch of bundles and build features that Parcel can sniff out from a runcom or config file like: `.postcssrc, postcss.config.js, .browserslistrc, .babelrc`
 
 The cool part about these little runcoms is how portable they are. Just copy and drop them into a new project. For instance, [let's say you want to autoprefix your css](https://parceljs.org/css.html). Just add autoprefixer settings to a runcom for PostCSS: `.postcssrc` or `postcss.config.js` will work.
 
