@@ -21,6 +21,12 @@
   to {
     transform: rotate(0deg); } }
 
+@keyframes butts {
+  from {
+    /* butts */ }
+  to {
+    /* whats */ } }
+
 @import-normalize;
 html {
   box-sizing: border-box;
@@ -236,7 +242,7 @@ thead > tr {
   -webkit-font-smoothing: inherit;
   -moz-osx-font-smoothing: inherit;
   /* Corrects inability to style clickable `input` types in iOS */
-  -webkit-appearance: none;
+  appearance: none;
   /* Remove excess padding and border in Firefox 4+ */ }
   .button-reset::-moz-focus-inner {
     border: 0;

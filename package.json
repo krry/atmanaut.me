@@ -1,6 +1,7 @@
 {
   "scripts": {
     "start": "hugo server -wD",
+    "serve": "hugo server -D --bind $IP --baseUrl http://$IP",
     "clean": "rm -rf ./public",
     "index": "atomic-algolia",
     "build": "npm run clean && hugo",
