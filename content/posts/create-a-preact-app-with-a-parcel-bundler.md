@@ -6,7 +6,7 @@ tags:
 - devsign
 title_main: Create a Preact app with a Parcel Bundler
 subtitle: Lightning fast, featherweight, whipsmart
-title_lead: Pour me a stout 'cos we're breakin' records
+title_lead: Alec, pour us a stout. It's record-breaking time.
 categories:
 - code
 draft: true
