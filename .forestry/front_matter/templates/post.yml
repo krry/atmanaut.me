@@ -37,3 +37,5 @@ fields:
   name: categories
   label: Categories
   description: optional, will develop if helpful
+pages:
+- content/posts/create-a-preact-on-parcel-bundler-web-app-dev-build.md
