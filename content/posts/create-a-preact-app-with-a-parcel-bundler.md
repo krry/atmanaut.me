@@ -1,6 +1,6 @@
 ---
 date: 2019-04-15 21:41:47 -0500
-title: Create a Preact app with a Parcel Bundler
+title: Create a Preact-on-Parcel App
 tags:
 - front-end
 - devsign
@@ -23,8 +23,8 @@ React would be the jelly and/or jam, but I don't have the time, the money, or th
 First, draw a blank...dir.
 
 ``` shell
-mkdir -p preparcelact/src # the -p flag makes any parents necessary
-cd preparcelact
+mkdir -p preact-parcel-app/src # the -p flag makes any parents necessary
+cd preact-parcel-app
 ```
 
 Let `yarn` initialize things.
