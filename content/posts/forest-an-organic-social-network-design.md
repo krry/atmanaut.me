@@ -12,12 +12,6 @@ categories: []
 draft: true
 
 ---
-# Forest
-
-
-
-(See [Maria Konnikova's treatment in the New Yorker](https://www.newyorker.com/science/maria-konnikova/social-media-affect-math-dunbar-number-friendships) for some added color and context around the academic papers.)
-
 As the literal pillars of the most expansive, vibrant, land-based communities on the planet, trees know a thing or two about social networking. Thanks to the pioneering work of a few biologists, we are beginning to understand their methods for _thrival_ and the values behind them.
 
 ![📷🙏 Luis Del Río Camacho](/uploads/2019/:month/luis-del-rio-camacho-43059-unsplash.jpg)
@@ -29,6 +23,8 @@ Many of today's social networks impose new rules and offer new tools for social 
 How would we design a social network if we first deeply understand the natural dynamics of human social interactions? Today we collect exponentially more data about our behavior each day. And in the last 20 years, we've begun to analyze it, to understand our habits and proclivities much more deeply and broadly. We have generated decades of social science that seems to have gone unused as yet. Granted our habits and patterns change rather dramatically as uninformed, top-down designs like Facebook and Twitter are adopted. So, if we want to distill our natural social inclinations into intuitive, healthy social platforms, now is the time, before we've blindly corrupted ourselves beyond repair.
 
 In his groundbreaking research over the latest few decades, University of Oxford anthropologist and psychologist Robin Dunbar has arrived at a number of pertinent conclusions. Exploring the correlations between brains and social groups, he extrapolated that the typical human brain has evolved to handle about 150 friendships of varying closeness, then validated this estimate with a series of experiments and surveys. These studies led to the development of a model of human socialization which describes how we tend to group and associate. [We tend to form groups of discrete numbers of people](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2004.2970), which increase at a geometrical scale, tripling for each step up the hierarchy. Groups of 3 to 5, 9 to 15, and 30 to 45, are much more common than groups of other sizes.
+
+(See [Maria Konnikova's treatment in the New Yorker](https://www.newyorker.com/science/maria-konnikova/social-media-affect-math-dunbar-number-friendships) for some added color and context around the academic papers.)
 
 Closeness, of course, decreases with the size of the group. We tend to feel close enough to up to 50 people to invite them to a group dinner. When we want sympathy or to confide in someone, we tend to have up to fifteen people to call on. Only five of them form our close support group, often family members. Meanwhile we can have up to 500 acquaintances that we greet day-to-day, and might be able, at the top end, to put names to 1,500 faces.
 
