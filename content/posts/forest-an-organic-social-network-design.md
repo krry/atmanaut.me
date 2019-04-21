@@ -9,6 +9,7 @@ title_main: Forest
 subtitle: A social network for people, by trees
 title_lead: 100% organic sosh juice
 categories: []
+draft: true
 
 ---
 As the literal pillars of the most expansive, vibrant, land-based communities on the planet, trees know a thing or two about social networking. Thanks to the pioneering work of a few biologists, we are beginning to understand their methods for _thrival_ and the values behind them.
@@ -49,11 +50,9 @@ Ring 2 friends tend to number 9 to 15 for those in Dunbar's studies. These peopl
 
 ### But here's the thing about friend Rings.
 
-Just because Tiffany is in your 2nd Ring doesn't mean you're in hers. We can decide how much our friends mean to us, but we can't decide how much we mean to them. These asymmetries in relationships, whether they are co-dependent or co-committed, are a common source of confusion and distress, especially when they are hidden, and then suddenly exposed. With
+Just because Tiffany is in your 2nd Ring doesn't mean you're in hers. We can decide how much our friends mean to us, but we can't decide how much we mean to them. These asymmetries in relationships, whether they are co-dependent or co-committed, are a common source of confusion and distress, especially when the asymmetries lay dormant, hidden, and then are suddenly exposed.
 
-Respect for the autonomy of other trees is one of the fundamental values in the forest. Leave it to the rest of the world to try to make your choices for you. The Ad Empire has that covered.
-
-Ring 3, by the Rule of Three, in on a scale of 27 to 63. This ring of friends showed more variance than the
+Respect for the autonomy of other trees is one of the fundamental values in the Forest. Back in default human world, autonomy is nowhere to be found on the list of staunchly defended human rights. Unless obeying the Ads is somehow autonomous. We may think of autonomous cars as somehow mindless though they exhibit many signs of life and intelligence. But allowing that sense of autonomous to diffuse into our language is likely to leave us with an inverse definition of autonomy, in the way that "literally" came to primarily connote its original opposite in the last decade or so. But I literally digress…
 
 One of the parameters that varies with trust is transparency. Your closer friends have more insight as to how closely you hold them, without the need for explicit labels like Ring 1 and Ring 2. You know who is in your Rings. Their experience interacting with you changes based on how closely you hold them. But no one else needs to be able to rifle through your Rings. That's just for you.
 
