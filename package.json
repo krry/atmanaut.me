@@ -3,13 +3,9 @@
     "start": "hugo server -wD",
     "serve": "hugo server -wD --bind $IP --baseUrl http://$IP",
     "clean": "rm -rf ./public",
-    "index": "atomic-algolia",
     "build": "npm run clean && hugo",
     "deploy": "npm run build && now",
     "release": "npm run build && npm run index && now --target production",
     "preview": "hugo -EFDb $DEPLOY_URL -d public"
-  },
-  "dependencies": {
-    "atomic-algolia": "^0.3.17"
   }
 }

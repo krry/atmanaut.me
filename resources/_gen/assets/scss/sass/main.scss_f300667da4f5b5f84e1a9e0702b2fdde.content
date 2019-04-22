@@ -7,7 +7,6 @@
  * TODO: add page params from front matter
 */
 /* SIZES */
-/* COLOR CODES */
 /* COLOR PALETTE */
 /* FONTS
  * base: Lato, sans-serif
@@ -60,6 +59,9 @@ h2 {
   font-family: "Righteous", sans-serif;
   color: #0e2f49; }
 
+p {
+  line-height: 1.375; }
+
 img {
   max-width: 100%;
   max-height: 50vh; }
@@ -108,8 +110,13 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   position: relative; }
+  @media only screen and (max-width: 684px) {
+    .wallpaper {
+      background-image: url("../img/splatter-back-phone.jpg");
+      background-image: url("https://source.unsplash.com/collection/4311532"); } }
   @media only screen and (min-width: 684px) {
     .wallpaper {
+      background-image: url("../img/splatter-back.jpg");
       background-image: url("https://source.unsplash.com/collection/4311532"); } }
 
 .wallpaper::before {
@@ -397,14 +404,14 @@ footer a {
   margin: 2em 0;
   padding: 3em 2em;
   background-color: #cdd8e0;
-  border-radius: 24px; }
+  border-radius: 2em; }
   @media only screen and (min-width: 684px) {
     .post,
     .search,
     .tag {
       margin: 0;
       padding: 2em;
-      border-radius: 0 24px 24px 0; } }
+      border-radius: 0 2em 2em 0; } }
   @media only screen and (min-width: 900px) {
     .post,
     .search,
@@ -471,7 +478,7 @@ footer a {
   margin-bottom: 2em;
   padding: 2em;
   background-color: #cdd8e0;
-  border-radius: 24px;
+  border-radius: 2em;
   opacity: 0.9;
   transition: all 250ms ease-out; }
   .post-summary:hover {
@@ -580,7 +587,7 @@ pre.chroma {
 h4 > code,
 p > code {
   background-color: #ecf0f3;
-  padding: 0.125em 0.25em;
+  padding: 0 0.25em;
   margin: 0 0.125em;
   font-size: 1.25em; }
 
