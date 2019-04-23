@@ -25,21 +25,21 @@ React would be the jelly and/or jam, but I don't have the time, the money, or th
 #### 1. First, we draw a blank... dir.
 
 ``` shell
-mkdir -p preact-parcel-app/src	# -p flag makes parents
+mkdir -p preact-parcel-app/src    # -p flag makes parents
 cd preact-parcel-app
 ```
 
 #### 2. I like to let `yarn` initialize the dir.
 
 ``` shell
-yarn init -y 					# -y flag says 'yes'
+yarn init -y                      # -y flag says 'yes'
 ```
 
 #### 3. Then have `yarn` install our slim dependencies.
 
 ``` shell
-yarn add -D parcel-bundler 		# -D flag to --save-dev
-yarn add preact preact-compat 	# compat with react methods
+yarn add -D parcel-bundler        # -D flag to --save-dev
+yarn add preact preact-compat     # compat with react methods
 ```
 
 #### 4. Now we add a `dev` command to the `package.json`.
@@ -47,12 +47,12 @@ yarn add preact preact-compat 	# compat with react methods
 ``` json
 {
   "scripts": {
-    "dev": parcel src/index.html --open"
+    "dev": "parcel src/index.html --open"
   }
 }
 ```
 
-At this point, if you're following along, you may realize you could just be cloning \[the Preact Parcel starter kit repo\] and renaming it to be your own. If instead you're the defiant DIY type, type on.
+At this point, if you're following along, you may realize you could just be cloning [a Preact Parcel starter kit repo](https://github.com/krry/preact-on-parcel) and renaming it to be your own. If instead you're the defiant DIY type, type on.
 
 #### 5. Next we make an entry point for `parcel` in `src/index.html`
 
