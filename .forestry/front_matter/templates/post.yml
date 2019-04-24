@@ -38,6 +38,7 @@ fields:
   label: Categories
   description: optional, will develop if helpful
 pages:
-- content/posts/forest-an-organic-social-network-design.md
 - content/posts/create-a-preact-on-parcel-bundler-web-app-dev-build.md
+- content/posts/forest-an-organic-social-network-design.md
+- content/posts/forest-an-organic-social-network-design.md
 - content/posts/create-a-preact-on-parcel-bundler-web-app-dev-build.md
