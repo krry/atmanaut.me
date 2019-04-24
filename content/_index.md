@@ -11,9 +11,9 @@ categories:
 ---
 ## Utopiapocalypse
 
-"Thank you endlessly!"
-Famous last words.
-We are the only oneness left
+"Thank you endlessly!"\
+Famous last words.\
+We are the only oneness left\
 being, knowing, enjoying.
 
 ### The Zeroth Principle
