@@ -1,5 +1,5 @@
 ---
-date: 2019-04-20 17:26:44 -0500
+date: 2019-04-20 22:26:44 +0000
 title: 'Forest: An Organic Social Network Design'
 tags:
 - devsign
@@ -12,11 +12,20 @@ categories: []
 draft: true
 
 ---
-As the literal pillars of the most expansive, vibrant, land-based communities on the planet, trees know a thing or two about social networking. Thanks to the pioneering work of a few biologists, we are beginning to understand their methods for _thrival_ and the values behind them.
+As the literal pillars of the most expansive, vibrant, land-based communities on the planet, trees know a thing or two about social networking. Thanks to the pioneering work of a few biologists, we are beginning to understand their methods for _thrival_ and the values behind them. How can we learn from the trees as we consolidate our now-decentralized distributed identities under the canopy of one global forest of humanity?
 
 ![📷🙏 Luis Del Río Camacho](/uploads/2019/:month/luis-del-rio-camacho-43059-unsplash.jpg)
 
-Many of today's social networks impose new rules and offer new tools for social interaction. On Facebook you can have 5000 friends and check in on their latest musings and experiences without interacting with them. On Twitter you can talk ~~to~~ at just about anyone on the planet but only in quips. On Snapchat or Marco Polo, you can have disjointed but face-to-face conversations with any number of people, recording a video comic book one pane at a time. Reddit (_ethos link needed)_ allows you to be anonymous and group around interests, but enforces general courtesy and civility, while allowing ad hoc communities to define and post their own policies and self-moderate according to them. Path (R.I.P.) capped your network at 50, hoping to inspire more trust and encourage stronger connections or more personal interactions on their platform _(quote needed)_. On Google Plus, well, um, you had to use your real identity. These networks each have their own merits, pitfalls, vibes, and devotees. Some have generalized beyond human social patterns But none of them maps very well to how human beings tend to network and associate IRL. They don't mirror our natural inclinations. Rather, they manipulate and mutate our patterns of social interaction, leaving many of us thrilled and devastated at any given moment.
+### In a single thumb tap the game changes drastically.
+
+Depending on the social network, the rules of engagement, the social mores and etiquette change drastically.
+
+* On Facebook you may have 5000 friends and can check in on their latest musings and experiences without interacting with a single one. It's okay to stalk, everyone does. But you don't want to get too personal, because, well, stalkers. So you craft a persona, the version of you that looks on the bright side, loves to travel, has the cutest little doggie-woggie, runs half-marathons.
+* On Twitter you can talk ~~to~~ at just about anyone on the planet but only in quips. Here you are only skin deep, and your skin is made of whatever Avenger suits are made of. As the superhero version of you, it is safe to bitch and whine, exalt and praise, hate and love, and scream and snark whatever strikes your (ego's) fancy. You might tweet at your best friend and a complete stranger in the same minute.
+* Marco Polo, you can have episodic but face-to-face conversations with any number of people, recording a video comic book one pane at a time.
+* Reddit imposes a system of [Reddiquette](https://www.reddit.com/wiki/reddiquette/ "Reddiquette") which allows us to be anonymous and group around interests, but enforces general courtesy and civility, while allowing ad hoc communities to define and post their own policies and self-moderate according to them.
+* Path (R.I.P.) capped your network at 50, hoping to inspire more trust and encourage stronger connections or more personal interactions on their platform.
+* On Google Plus, well, um, you had to use your real identity. These networks each have their own merits, pitfalls, vibes, and devotees. Some have generalized beyond human social patterns But none of them maps very well to how human beings tend to network and associate IRL. They don't mirror our natural inclinations. Rather, they manipulate and mutate our patterns of social interaction, leaving many of us thrilled and devastated at any given moment.
 
 ### An organic approach to social network design
 
@@ -42,7 +51,7 @@ Everyone in the forest has relationships with the other "trees". These relations
 
 ### Think of yourself as a node in the center of six concentric Rings.
 
-Each Ring represents a level of trust, smaller Rings denoting higher trust. The scaling of the Rings loosely follows Dunbar's "Rule of Three" and our AI, [**Pando**](https://www.wikiwand.com/en/Pando_(tree)), calibrates the forest density and distribution its grow and evolves. There aren't any hard limits on the sizes of your Rings, but we offer firm, knowledge-based recommendations so you can make informed decisions about your life in the friendly forest.[^1][]
+Each Ring represents a level of trust, smaller Rings denoting higher trust. The scaling of the Rings loosely follows Dunbar's "Rule of Three" and our AI, [**Pando**](https://www.wikiwand.com/en/Pando_(tree)), calibrates the forest density and distribution its grow and evolves. There aren't any hard limits on the sizes of your Rings, but we offer firm, knowledge-based recommendations so you can make informed decisions about your life in the friendly forest.\[^1\]\[\]
 
 Your smallest group, Ring 1, are those you hold closest and trust most. Dunbar's research indicates that most of us count 3 to 5 in this group. These are your partners, your siblings, your parents, your best friends, your bullet takers, your shoulders to cry on, your hive mind, so there isn't much you don't want them to know about you. Trust, contact, and transparency are high for Ring 1. Of course, it's up to you whether you want to keep secrets in the forest. That's what your trunk is for.
 
@@ -50,7 +59,7 @@ Ring 2 friends tend to number 9 to 15 for those in Dunbar's studies. These peopl
 
 ### But here's the thing about friend Rings.
 
-Just because Tiffany is in your 2nd Ring doesn't mean you're in hers. We can decide how much our friends mean to us, but we can't decide how much we mean to them. These asymmetries in relationships, whether they are co-dependent or co-committed, are a common source of confusion and distress, especially when the asymmetries lay dormant, hidden, and then are suddenly exposed.
+Just because Tiffany is in your 2nd Ring doesn't mean you're in hers. We can decide how much our friends mean to us, but we can't decide how much we mean to them. These asymmetries in relationships, whether they are co-dependent or co-committed, are a common source of confusion and distress, especially when the asymmetries lay dormant or hidden, then are suddenly exposed.
 
 Respect for the autonomy of other trees is one of the fundamental values in the Forest. Back in default human world, autonomy is nowhere to be found on the list of staunchly defended human rights. Unless obeying the Ads is somehow autonomous. We may think of autonomous cars as somehow mindless though they exhibit many signs of life and intelligence. But allowing that sense of autonomous to diffuse into our language is likely to leave us with an inverse definition of autonomy, in the way that "literally" came to primarily connote its original opposite in the last decade or so. But I literally digress…
 
@@ -70,4 +79,4 @@ Which means there must be an Easy Way. Take hoverboards. Sure they started with 
 
 Bottom-up designs are much more common and prevalent.
 
-[^1]: Google Plus's ill-fated "Circles" were an unfortunate misnomer as they more accurately resembled "[separate spheres](https://www.wikiwand.com/en/Separate_spheres)" or cliques. We'll use "Rings" to avoid confusion. Also trees have rings.
+\[^1\]: Google Plus's ill-fated "Circles" were an unfortunate misnomer as they more accurately resembled "[separate spheres](https://www.wikiwand.com/en/Separate_spheres)" or cliques. We'll use "Rings" to avoid confusion. Also trees have rings.
