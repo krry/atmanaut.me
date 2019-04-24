@@ -9,7 +9,14 @@ categories:
 - intro
 
 ---
-## The Zeroth Principle
+## Utopiapocalypse
+
+"Thank you endlessly!"
+Famous last words.
+We are the only oneness left
+being, knowing, enjoying.
+
+### The Zeroth Principle
 
 Yes! I think it's a dot  
 but when I lean closer  
