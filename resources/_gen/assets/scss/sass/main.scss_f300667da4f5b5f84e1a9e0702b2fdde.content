@@ -296,7 +296,7 @@ header nav li {
   position: fixed;
   top: 0;
   right: 0;
-  background: url("../img/atmanaut-logo-white.png");
+  background: url("../img/atmanaut-mono-white.png");
   background-size: contain;
   background-repeat: no-repeat;
   width: 2.5em;
