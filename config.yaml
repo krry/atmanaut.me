@@ -6,6 +6,10 @@ params:
   description: "सच्चिदानन्द"
   summaryLength: 50
   preserveTaxonomyNames: true
+  colors:
+    base: "#280664"
+    purp: "#5d17d9"
+    blue: "#1695c5"
 permalinks:
   posts: /:year/:month/:title
 blackfriday:
