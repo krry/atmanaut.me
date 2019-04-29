@@ -8,6 +8,7 @@ tags:
 title_lead: Oh yeah, well now this is happening…
 title_main: Building Atmanaut
 subtitle: Howsits and Whatsits
+draft: true
 
 ---
 A year ago I received a message. "Love is the answer." An oft-repeated platitude, yes, but this time it stuck and took over, like an amorous prion.
@@ -46,25 +47,9 @@ Hugo comes with all kinds of built-in goodies. Like syntax highlighting, powered
   else if (typeof define == 'function' && typeof define.amd == 'object') define(definition)
   else this[name] = definition()
 
-}('domready', function () {});
+}('domready', function () {}
 ```
 
-## Thou moosen art cometh.
-
-``` sh
-
- _________________________________
-/ wolf, n.:                       \
-|                                 |
-\ A man who knows all the ankles. /
- ---------------------------------
- \
-  \   \_\_    _/_/
-   \      \__/
-          (oo)\_______
-          (__)\       )\/\
-               ||----w |
-               ||     ||
-```
+### 
 
 If you pipe fortune into cowsay into lolcat and randomize the cows, you get a pretty amazing command line soothsayer I call [Kamadhenu](https://github.com/krry/kamadhenu). Next version will be AI-powered.
