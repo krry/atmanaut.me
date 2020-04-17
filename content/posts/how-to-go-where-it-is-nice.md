@@ -1,19 +1,18 @@
 ---
 categories: []
-date: "2019-03-24T10:46:00-05:00"
-subtitle: "Or where is it nice now?"
-tags: ["playwork", "vacay", "ideation", "prediction"]
-title: "How to Go Where It Is Nice"
-title_lead: "The All New Buenomadic 2020"
-title_main: "When is it nice here?"
----
+date: 2019-03-24T10:46:00-05:00
+subtitle: Or where is it nice now?
+tags:
+- playwork
+- vacay
+- ideation
+- prediction
+title: How to Go Where It Is Nice
+title_lead: The All New Buenomadic 2020
+title_main: When is it nice here?
 
-Here's a fun one out of the notebook where I describe the products I will
-someday claim to have come up with years ago, once many others have spilt
-buckets of blood, sweat, and tears manifesting it. These are not fatuous
-claims, nor are they worthwhile. What does an elephant say about a Jeep?
-Anyway, I found myself sorely disappointed when I Googled for "Best time of
-year to go to New Zealand". 
+---
+Here's a fun one out of the notebook where I describe the products I will someday claim to have come up with years ago, once many others have spilt buckets of blood, sweat, and tears manifesting them. These are not fatuous claims, nor are they worthwhile. What does an elephant say about a Jeep? Anyway, I found myself sorely disappointed when I Googled for "Best time of year to go to New Zealand".
 
 ## **How to Where to Vacay**
 
@@ -25,11 +24,11 @@ First off, anyone in the vacation business doesn't want it to be cheap. Vacation
 
 Secondly, _it **is** extremely cheap_, depending on what you call vacation. If you heed the roar of the advertofascisyndicapitalist media monster, your senses are flooded with deals on flights, hotels, rental cars, cruises to third-world island getaways, public restrooms/waterparks, and tourist traps and roadside attractions within a day-trip radius.
 
-And if those don't strike your fancy, there are gads of special interests, hobbies, and thrills to seek. Check the magazine rack at the airport for 10 ways to free-two-day-shipping yourself new gear you'll use twice. Just wait until Saturday! You can get a late start and end up in traffic trying to escape the city with the rest of us. And when you arrive at the trailhead you saw on Buzzfeed, there's nowhere to park, because, well it was on Buzzfeed.
+And if those don't strike your fancy, there are gads of special interests, hobbies, and thrills to seek. Check the magazine rack at the airport for 10 ways to free-two-day-shipping yourself new gear you'll use twice. Just wait until Saturday! You can get a late start and end up in traffic trying to escape the city with the rest of us. And when you arrive at the trailhead you saw on Buzzfeed, there's nowhere to park, because, well, it was on Buzzfeed.
 
 Hold on, hold on. Let's look at a different scenario.
 
-The weather is perfect, Marklar levels just right. I didn't get lost on the way here, and it was easy to park (in fact we shared a ride so I didn't have to park). I found out yesterday that the Rainbow Hoosefarthings are in bloom this week and they're only 5 miles from my house. How come I never knew about this? It's so beautiful! Wish I'd had a $1500 SLR to capture this! But do I really need 25 bizzy-buzzy reasons and a $1500 SLR to enjoy a walk in the hills? No way Josie, I'm in the here and now, where I always am but sometimes I pretend not to be because I'm a time traveler stuck in an anal-cranial inversion loop. Ooh, are those dragonflies fighting...? No, nope. Not fighting...
+The weather is perfect, Marklar levels just right. I didn't get lost on the way here, and it was easy to park (in fact we shared a ride so I didn't have to park). I found out yesterday that the Rainbow Hoosefarthings are in bloom this week and they're only 5 miles from my house. How come I never knew about this? It's so beautiful! Wish I'd had a $1500 SLR to capture this! But do I really need 25 bizzy-buzzy reasons and a $1500 SLR to enjoy a walk in the hills? No way Josie, I'm in the here and now, where I always am but sometimes I pretend not to be because I'm a time traveler stuck in an anal-cranial inversion loop. Whoa, are those dragonflies fighting...? Oh my, nope. Not fighting...
 
 ## Vacation should be simple, cheap, frequent, and organic!
 
@@ -38,8 +37,8 @@ How do we fix this? Is there an app for that?
 A cursory survey of the area yields:
 
 * [The Best Time to Visit
-    Anywhere](https://decisiondata.org/the-best-time-to-visit-anywhere/) is the closest thing to a useful answer, and seems to be the
-    foundation of [Champion Traveler](https://championtraveler.com/travel-weather-map/).
+  Anywhere](https://decisiondata.org/the-best-time-to-visit-anywhere/) is the closest thing to a useful answer, and seems to be the
+  foundation of [Champion Traveler](https://championtraveler.com/travel-weather-map/).
 * [Audley provides some weather data by location](https://www.audleytravel.com/us/new-zealand/best-time-to-visit) on the way to peddling tailor-made journeys via SEO.
 * [HipCamp](https://www.hipcamp.com/ "HipCamp") and [a few others](https://www.fatherly.com/gear/airbnb-for-campers/ "AirBnB for campers")
 * [Hiking Project](https://www.hikingproject.com/ "REI has a Hiking Project"), seemingly sponsored by REI

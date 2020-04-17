@@ -1,5 +1,5 @@
 ---
-date: 2019-04-16 02:41:47 +0000
+date: 2019-04-16T02:41:47.000+00:00
 title: Create a Preact-on-Parcel SPA in a Jiffy
 tags:
 - front-end
@@ -10,15 +10,18 @@ subtitle: Lightning fast, featherweight, whip-smart front-end wapping
 title_lead: Alec, pour us a stout. It's record-breaking time.
 categories:
 - code
+draft: true
 
 ---
 _Earthdate 2019.04.15.21.41.32.745._
 
 **Tax Day.**
 
-I don't have a lot of time before the IRS knocks down the door to take me away, so we'll make this quick. And I've got to knock this wapp out before I go-go.
+This year I'm going ultra-minimal. Traveling with /r/onebag. No furniture, just yoga mats. All I need is one spork.
 
-React would be the jelly and/or jam, but I don't have the time, the money, or the inclination to abide the bloat. Nor can I risk being caught hand-ankled and grunting my way thru a `webpack.config.js` No, no, no. I want the paper airplane of dev frameworks. I want to sneeze and have a fully-featured web app to dev on.
+So when I want to prototype a lightweight interactive web experience, I struggle with the cruft and bloat of React on Webpack, as versatile and powerful as it might be. Wouldn't you just love a webpack build without the `webpack.config.js`? Could a zero config build system be performant? Can you imagine a React wapp without the React bloat? Components without the convoluted verbosity?
+
+If you want the paper airplane of dev frameworks, look no further. If you want to sneeze and have a fully-featured web app to dev on, and then sneeze again to add build features or components, here's your jelly and/or .
 
 [Preact](https://preactjs.com) does much of what React can do with only 3kb of ugly gzip. [Parcel](https://parceljs.org) is a zero-config bundler/builder that smells like `webpack` but tastes (and works) like **Wonka**. After we get the engine running, we'll think about a turbo.
 
@@ -57,12 +60,11 @@ At this point, if you're following along, you may realize you could just be clon
 #### 5. Next we make an entry point for `parcel` in `src/index.html`
 
 ``` html
-<!-- src/index.html -->
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Preparcelact</title>
+    <title>Preact-on-Parcel</title>
   </head>
   <body>
     <div id="app"></div>
@@ -85,7 +87,7 @@ render(<App/>, mountNode, mountNode.lastChild);
 #### 7. Then we'll need an App Component.
 
 ``` jsx
-/* src/App.jsx */
+// src/App.jsx
 import { h, Component } from "preact";
 import './App.css';
 
