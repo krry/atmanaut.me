@@ -1,19 +1,18 @@
 ---
 categories: []
-date: "2019-03-24T10:46:00-05:00"
-subtitle: "Or where is it nice now?"
-tags: ["playwork", "vacay", "ideation", "prediction"]
-title: "How to Go Where It Is Nice"
-title_lead: "The All New Buenomadic 2020"
-title_main: "When is it nice here?"
----
+date: 2019-03-24T10:46:00-05:00
+subtitle: Or where is it nice now?
+tags:
+- playwork
+- vacay
+- ideation
+- prediction
+title: How to Go Where It Is Nice
+title_lead: The All New Buenomadic 2020
+title_main: When is it nice here?
 
-Here's a fun one out of the notebook where I describe the products I will
-someday claim to have come up with years ago, once many others have spilt
-buckets of blood, sweat, and tears manifesting it. These are not fatuous
-claims, nor are they worthwhile. What does an elephant say about a Jeep?
-Anyway, I found myself sorely disappointed when I Googled for "Best time of
-year to go to New Zealand". 
+---
+Here's a fun one out of the notebook where I describe the products I will someday claim to have come up with years ago, once many others have spilt buckets of blood, sweat, and tears manifesting them. These are not fatuous claims, nor are they worthwhile. What does an elephant say about a Jeep? Anyway, I found myself sorely disappointed when I Googled for "Best time of year to go to New Zealand".
 
 ## **How to Where to Vacay**
 
@@ -38,8 +37,8 @@ How do we fix this? Is there an app for that?
 A cursory survey of the area yields:
 
 * [The Best Time to Visit
-    Anywhere](https://decisiondata.org/the-best-time-to-visit-anywhere/) is the closest thing to a useful answer, and seems to be the
-    foundation of [Champion Traveler](https://championtraveler.com/travel-weather-map/).
+  Anywhere](https://decisiondata.org/the-best-time-to-visit-anywhere/) is the closest thing to a useful answer, and seems to be the
+  foundation of [Champion Traveler](https://championtraveler.com/travel-weather-map/).
 * [Audley provides some weather data by location](https://www.audleytravel.com/us/new-zealand/best-time-to-visit) on the way to peddling tailor-made journeys via SEO.
 * [HipCamp](https://www.hipcamp.com/ "HipCamp") and [a few others](https://www.fatherly.com/gear/airbnb-for-campers/ "AirBnB for campers")
 * [Hiking Project](https://www.hikingproject.com/ "REI has a Hiking Project"), seemingly sponsored by REI
