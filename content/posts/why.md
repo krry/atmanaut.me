@@ -45,6 +45,6 @@ Once thinking became intentional and not unconscious and automatic, I began to n
 
 Rarely, but increasingly often now that I have realized the possibility, my thinking is abstract. This type of thinking is not composed of images or symbols, but draws on the unbounded void of all possibility. This is where creativity lives. I will continue to practice and report back once I have a deeper understanding to share.
 
-The third exercise ended up being the key to the first two. To paraphrase [@whichlight](http://whichlight.com/ "Whichlight") from his fantastic zine _Feeling Good About My Butt_, "I lost myself and found my breath." Focusing intently on the breath provides space for the observer to operate, to see what I am feeling, thinking, doing, and being.
+The third exercise ended up being the key to the first two. To paraphrase [@whichlight](http://whichlight.com/ "Whichlight") from his fantastic zine _Feeling Great About My Butt_, "I lost myself and found my breath." Focusing intently on the breath provides space for the observer to operate, to see what I am feeling, thinking, doing, and being.
 
 I am excited to introduce and expound upon these **Four Modes of Being** which map to the suits of the Tarot, the elements of nature, the ba gua of the I Ching, the constellations of the Zodiac, and the chakras of Tantra Yoga. But that will occur in a later post ::)
