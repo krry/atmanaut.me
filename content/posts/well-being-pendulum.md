@@ -1,7 +1,7 @@
 ---
 title: Swinging on the Pendulum
 subtitle: Aggregate Well-Being and the Quality of Life
-date: 2020-04-17T00:00:00-07:00
+date: 2020-04-17T00:12:24-07:00
 tags:
 - hermetica
 - tao te ching
