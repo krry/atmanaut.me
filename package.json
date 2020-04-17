@@ -1,11 +1,11 @@
 {
   "scripts": {
     "start": "hugo server -wD",
-    "serve": "hugo server -wD --bind $IP --baseUrl http://$IP",
+    "serve": "hugo server -wD --baseUrl http://${IP} --bind ${IP}",
     "clean": "rm -rf ./public",
     "build": "npm run clean && hugo",
     "deploy": "npm run build && now",
-    "release": "npm run build && npm run index && now --target production",
+    "release": "npm run build && now --target production",
     "preview": "hugo -EFDb $DEPLOY_URL -d public"
   }
 }
