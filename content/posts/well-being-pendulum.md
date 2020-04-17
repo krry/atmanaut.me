@@ -15,7 +15,7 @@ title_main: The Path of Acceptance of the Full Spectra
 ---
 Here in the Postmodern West mired in the totalitarian gridlock of coronavirus, we're experiencing a crashing tidal wave of techno-stress and agora-loneliness. We have built a flabbergasting array of tools to prevent and assuage suffering and to connect each of us to just about anyone else. And yet, by any account, we are no happier. [The Anxiety & Depression Association of America estimates](https://adaa.org/about-adaa/press-room/facts-statistics/ "ADAA Statistics") that 18.1% of adult Americans suffer from anxiety disorders, of which depression is one. No doubt these stats are outdated and vastly underestimate the current state of despair and mental illness.
 
-## Are we happier?
+## But aren't we happier now?
 
 Is this more or less than before? More than during the Great War? More than during the Black Death? More than during the Vietnam War and the concurrent Cultural Revolution? It's hard to say. We are a lot better at counting than we used to be, thanks to all these computers, AIs, and algorithms crunching our Big Data. And we'll certainly be able to monitor trends in our aggregate well-being from now on, but knowing whether we are subjectively better off in the Age of Information than we were in the Industrial Age is impossible.
 
