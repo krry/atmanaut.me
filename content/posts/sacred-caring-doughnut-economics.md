@@ -14,7 +14,9 @@ tags:
 title_main: ''
 subtitle: ''
 title_lead: ''
-categories: []
+categories:
+- economics
+- ecology
 draft: true
 
 ---
