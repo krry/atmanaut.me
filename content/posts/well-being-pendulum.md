@@ -1,6 +1,6 @@
 ---
-title: Swinging on the Pendulum
-subtitle: Aggregate Well-Being and the Quality of Life
+title: Swinging on the Well-Being Pendulum
+subtitle: or How to Enjoy Suffering and Suffer Joy
 date: 2020-04-17T00:12:24-07:00
 tags:
 - hermetica
@@ -8,7 +8,8 @@ tags:
 - ananda
 - suffering
 - four noble truths
-title_lead: How to Enjoy Suffering and Suffer Joy
+title_lead: Rainbows aren't as beautiful without red, orange and yellow.
+title_main: The Path of Acceptance of the Full Spectra
 
 ---
 Here in the Postmodern West mired in the totalitarian gridlock of coronavirus, we're experiencing a crashing tidal wave of techno-stress and agora-loneliness. We have built a flabbergasting array of tools to prevent and assuage suffering and to connect each of us to just about anyone else. And yet, by any account, we are no happier. [The Anxiety & Depression Association of America estimates](https://adaa.org/about-adaa/press-room/facts-statistics/ "ADAA Statistics") that 18.1% of adult Americans suffer from anxiety disorders, of which depression is one. No doubt these stats are outdated and vastly underestimate the current state of despair and mental illness.
