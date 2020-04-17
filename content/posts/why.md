@@ -1,6 +1,6 @@
 ---
 title: An Atlas for Those Who Ask "Why?"
-date: 2019-02-27T23:03:59.000+00:00
+date: 2020-04-17T16:52:00-07:00
 tags:
 - observer
 - mindlessness
