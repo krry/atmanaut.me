@@ -158,11 +158,12 @@ aside.lane {
   text-align: center;
   background-color: rgba(27, 31, 34, 0.5);
   justify-content: space-between;
-  padding: 2rem; }
+  padding: 0 2rem; }
 
 .waterwing {
   position: sticky;
   top: 0;
+  padding: 2rem 0;
   overflow-y: scroll; }
 
 @media only screen and (max-width: 684px) {
@@ -349,7 +350,7 @@ footer a {
   position: sticky;
   top: 0;
   width: 100%;
-  max-height: 240px;
+  max-height: 13.5rem;
   padding: 3em 1em 2em;
   text-align: center;
   color: #cdd8e0; }
