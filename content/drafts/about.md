@@ -1,7 +1,6 @@
 ---
 title: About
 date: 2019-02-09T07:52:31.000+00:00
-draft: true
 
 ---
 # What is this all about?
