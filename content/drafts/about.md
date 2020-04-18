@@ -1,12 +1,12 @@
 ---
 title: About
-date: 2019-02-09 07:52:31 +0000
+date: 2019-02-09T07:52:31.000+00:00
 draft: true
 
 ---
 # What is this all about?
 
-And what the devil is an **atmanaut**?
+And what the devil/good heavens is an **atmanaut**?
 
 Well, that depends on what an atman is, doesn't it, and if you ask your friendly neighborhood Buddhist, you might get a puzzling answer. "Atman? Oh, that's nothing. It seems like it's there, but it's not. It's just an illusion."
 
