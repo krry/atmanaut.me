@@ -1,6 +1,7 @@
 ---
 date: 2020-04-17T17:27:41-07:00
 title: Write it Once, Publish it Everywhere
+author: Kerrbear
 tags:
 - web publishing
 - api
