@@ -1,9 +1,9 @@
 ---
 name: Kerrbear
-photo: "https://pbs.twimg.com/profile_images/1052452447661289475/Txk-d0XB_400x400.jpg"
-twitter: "anatmanaut"
-instagram: "atmanaut"
-facebook: "atmanaut"
+photo: https://pbs.twimg.com/profile_images/1052452447661289475/Txk-d0XB_400x400.jpg
+twitter: @anatmanaut
+instagram: @atmanaut
+facebook: @atmanaut
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 name: Atmanaut
 photo: /img/atmanaut-mono-white.png
-twitter: anatmanaut
-instagram: atmanaut
-facebook: atmanaut
+twitter: @anatmanaut
+instagram: @atmanaut
+facebook: @atmanaut
 
 ---
 

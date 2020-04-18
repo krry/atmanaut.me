@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "alias": ["atmanaut.me", "atmanaut.us"],
   "builds": [
     { "src": "./build.sh",
       "use": "@now/static-build",
