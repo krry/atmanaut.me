@@ -373,7 +373,7 @@ footer a {
     order: 1;
     color: #434b51;
     padding: 0.25rem 0; }
-  .post-date + .list-tags {
+  .post-date + .list-taxonomies {
     flex: 4;
     order: 2;
     text-align: right; } }
@@ -403,8 +403,7 @@ footer a {
     transition: none; }
 
 .post,
-.search,
-.tag {
+.taxonomy {
   position: relative;
   min-height: 100vh;
   margin: 2em 0;
@@ -413,71 +412,53 @@ footer a {
   border-radius: 2em; }
   @media only screen and (min-width: 684px) {
     .post,
-    .search,
-    .tag {
+    .taxonomy {
       margin: 0;
       padding: 2em;
       border-radius: 0 2em 2em 0; } }
   @media only screen and (min-width: 900px) {
     .post,
-    .search,
-    .tag {
+    .taxonomy {
       padding: 3em; } }
   .post h2,
-  .search h2,
-  .tag h2 {
+  .taxonomy h2 {
     font-family: "Righteous", sans-serif; }
   .post p,
-  .search p,
-  .tag p {
+  .taxonomy p {
     line-height: 1.375;
     max-width: 80ch; }
   .post ul li,
   .post ol li,
-  .search ul li,
-  .search ol li,
-  .tag ul li,
-  .tag ol li {
+  .taxonomy ul li,
+  .taxonomy ol li {
     line-height: 1.5; }
   .post .post-title,
-  .post .tag-title,
-  .post .tag-subtitle,
+  .post .taxonomy-title,
+  .post .taxonomy-subtitle,
   .post .post-lead,
   .post .post-subtitle,
-  .search .post-title,
-  .search .tag-title,
-  .search .tag-subtitle,
-  .search .post-lead,
-  .search .post-subtitle,
-  .tag .post-title,
-  .tag .tag-title,
-  .tag .tag-subtitle,
-  .tag .post-lead,
-  .tag .post-subtitle {
+  .taxonomy .post-title,
+  .taxonomy .taxonomy-title,
+  .taxonomy .taxonomy-subtitle,
+  .taxonomy .post-lead,
+  .taxonomy .post-subtitle {
     line-height: 1.15;
     margin: 0.5rem 0; }
   .post h4.post-lead,
   .post h3.post-subtitle,
-  .search h4.post-lead,
-  .search h3.post-subtitle,
-  .tag h4.post-lead,
-  .tag h3.post-subtitle {
+  .taxonomy h4.post-lead,
+  .taxonomy h3.post-subtitle {
     color: #434b51; }
   .post h4.post-lead,
-  .search h4.post-lead,
-  .tag h4.post-lead {
+  .taxonomy h4.post-lead {
     font-family: "Lato", system-ui;
     font-style: italic;
     font-weight: lighter; }
   .post .post-date,
-  .search .post-date,
-  .tag .post-date {
+  .taxonomy .post-date {
     display: block;
     color: #434b51;
     font-size: 0.75em; }
-
-.search {
-  background: none; }
 
 .post-summary {
   position: relative;
@@ -500,79 +481,20 @@ footer a {
   .post.comments h2 {
     color: white; }
 
-li.ais-Hits-item,
-div.ais-InfiniteHits--empty,
-.ais-InfiniteHits-item,
-.ais-InfiniteResults-item,
-.ais-Results-item {
-  margin-top: 1rem;
-  margin-left: 1rem;
-  padding: 0 1rem !important;
-  width: 100% !important;
-  max-height: 8rem;
-  box-shadow: none !important;
-  border-color: #6a7d8a !important;
-  background: #cdd8e0;
-  color: #191d1f;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  border-radius: 1em; }
-
-input.ais-SearchBox-input {
-  background: transparent;
-  border-radius: 1em;
-  border-width: 2px;
-  padding: 0.5rem 2rem;
-  border-color: #cdd8e0;
-  font-family: "Lato", system-ui;
-  color: #cdd8e0; }
-  input.ais-SearchBox-input::placeholder {
-    color: #6a7d8a; }
-
-button.ais-InfiniteHits-loadMore,
-button.ais-InfiniteResults-loadMore {
-  margin: 1rem auto;
-  display: flex;
-  background-color: #7e4483; }
-  button.ais-InfiniteHits-loadMore:hover,
-  button.ais-InfiniteResults-loadMore:hover {
-    background-color: #9b53a2; }
-
-.muted {
-  color: #6a7d8a; }
-
-button.ais-SearchBox-submit {
-  left: 0.5rem; }
-
-button.ais-SearchBox-reset {
-  right: 0.5rem; }
-
-svg.ais-SearchBox-resetIcon path,
-svg.ais-SearchBox-submitIcon path {
-  fill: #cdd8e0; }
-
-.hits {
-  padding: 1em 0; }
-
-.search img {
-  display: flex;
-  margin: 1em auto;
-  height: 1.5em; }
-
-.tag-term a::before {
+.taxonomy-term a::before {
   content: "#";
   font-size: 87.5%; }
 
-.tag-term a {
+.taxonomy-term a {
   color: #434b51;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: lighter;
   font-size: 75%; }
 
-aside .list-inline .tag-term {
+aside .list-inline .taxonomy-term {
   margin-right: 0; }
-  aside .list-inline .tag-term a {
+  aside .list-inline .taxonomy-term a {
     color: #cdd8e0;
     padding: 0.25em 0.5em;
     border-radius: 0.25em; }

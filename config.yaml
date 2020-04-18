@@ -10,6 +10,10 @@ params:
     base: "#280664"
     purp: "#5d17d9"
     blue: "#1695c5"
+taxonomies:
+  author: "authors"
+  tag: "tags"
+  category: "categories"
 permalinks:
   posts: /:year/:month/:title
 blackfriday:
