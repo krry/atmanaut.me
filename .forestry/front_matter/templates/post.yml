@@ -8,6 +8,10 @@ fields:
   config:
     required: true
   description: optionally furcate into main/sub/lead below
+- type: text
+  name: author
+  label: Author
+  description: who wrote this
 - type: datetime
   name: date
   label: Timestamp

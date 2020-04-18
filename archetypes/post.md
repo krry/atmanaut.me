@@ -4,6 +4,7 @@ date: {{ .Date }}
 title_main: "{{ title }}"
 title_lead: "{{ title }}"
 subtitle: "{{ title }}"
+author: "{{ author }}"
 tags:
   - first_tag
   - second_tag
