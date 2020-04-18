@@ -486,7 +486,7 @@ footer a {
   text-transform: uppercase;
   font-weight: lighter; }
 
-.tag-cloud .taxonomy-term a {
+.taxonomy-term {
   font-size: 75%; }
 
 .profile-pic {
