@@ -1,4 +1,5 @@
 ---
+author: Atmanaut
 title: Questions
 title_lead: A running litany of unanswerables
 title_main: Tough questions

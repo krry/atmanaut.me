@@ -1,4 +1,5 @@
 ---
+author: "Kerrbear"
 categories: ["conjecture"]
 date: "2019-03-25T14:06:00-05:00"
 subtitle: "or How I Learned to Stop Worrying and Love the Hive Mind"

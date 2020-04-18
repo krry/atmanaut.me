@@ -1,4 +1,5 @@
 ---
+author: "Kerrbear"
 title: 'Cosmology: Nihilism or Mysticism?'
 title_lead: Does the universe even care?
 title_main: 'Cosmology: Nihilism or Mysticism'

@@ -1,4 +1,5 @@
 ---
+author: "Kerrbear"
 title: An Atlas for Those Who Ask "Why?"
 date: 2020-04-17T17:02:00-07:00
 tags:

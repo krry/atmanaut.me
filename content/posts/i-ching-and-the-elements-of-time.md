@@ -1,4 +1,5 @@
 ---
+author: "Kerrbear"
 categories: []
 date: 2019-03-22T16:48:00-05:00
 subtitle: A first look at the Book of Changes

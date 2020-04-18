@@ -1,4 +1,5 @@
 ---
+author: "Kerrbear"
 title: Swinging on the Well-Being Pendulum
 subtitle: or How to Enjoy Suffering and Suffer Joy
 date: 2020-04-17T00:12:24-07:00

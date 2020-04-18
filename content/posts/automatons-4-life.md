@@ -1,4 +1,5 @@
 ---
+author: "Kerrbear"
 categories: []
 date: "2019-03-21T12:00:00-05:00"
 subtitle: "Eternally redeemable?"

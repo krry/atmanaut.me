@@ -1,4 +1,5 @@
 ---
+author: "Kerrbear"
 date: 2019-04-20 22:26:44 +0000
 title: 'Forest: An Organic Social Network Design'
 tags:
