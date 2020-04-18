@@ -5,7 +5,7 @@
     "clean": "rm -rf ./public",
     "build": "npm run clean && hugo",
     "deploy": "npm run build && now",
-    "release": "npm run build && now --target production",
+    "release": "npm run build && now --prod",
     "preview": "hugo -EFDb $DEPLOY_URL -d public"
   }
 }
