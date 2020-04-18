@@ -10,5 +10,3 @@ fields:
   default: []
   label: tags
   description: tags that fall within this category (non-exclusively)
-pages:
-- content/categories/economics.md
