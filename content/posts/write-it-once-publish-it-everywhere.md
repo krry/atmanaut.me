@@ -11,7 +11,6 @@ subtitle: or How to Post on Forestry and have Github, Zeit, IFTTT, and Medium Do
   Thangs
 title_lead: Could've built a better mousetrap, but hey…
 categories: []
-draft: true
 
 ---
 Writing has become effortless. Now I would love to simplify my publishing process. With any luck, I might be able to reach readers eventually.
