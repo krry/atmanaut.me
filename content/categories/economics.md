@@ -7,6 +7,5 @@ tags:
 - doughnut economics
 - money maturity
 title: Economics
-draft: true
 
 ---
