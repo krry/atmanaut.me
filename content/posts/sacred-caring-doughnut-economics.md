@@ -1,6 +1,6 @@
 ---
-author: "Kerrbear"
-date: 2020-04-17T12:31:12-05:00
+author: Atmanaut
+date: 2020-04-17T17:31:12.000+00:00
 title: Sacred Caring Doughnut Economics
 tags:
 - sacred economics
@@ -22,6 +22,20 @@ categories:
 draft: true
 
 ---
+# Welcome to the Crossroads, Human
+
+As Paul Selig has received from his guides, we as humanity now stand at a crossroads. Each of us may choose to continue to attach to a human being, or to release that attachment and ascend to the perspective of the divine oneness who sits in the Well of Being at our center.
+
+Seeing this moment from the vantage of the cosmic crown, we know what to do (nothing), how to feel (content), and what to think ("I am"). From that vantage we know who we are. To seeing this moment from below the crown, we can still peer inward, into the Well of Being that sits at center, know who we are, and let that solitary truth carry us to the crown.
+
+To remain as humans being will be less pleasant, will engender discontentment as it always has, and will leave us mired in illusion. Today we would like to offer an array of pathways from the human to the divine, a drawer full of lenses to affix to our third eye as we reconsider our identity and our purpose.
+
+The collective transcendence from ego to spirit which we are witnessing and experiencing offers a myriad of signifiers. We are showered in this psychic sneeze as we convulse to deliver it. First we will glide over the drawer and then pick up each lens.
+
+Today we will examine our coronation as a shift
+
+in strategy from growth to harmony, as a shift from trying to control nature to embracing nature, as a shift from a free market economy to a whole earth garden, as a shift from world trade to global generosity, as a shift from brain power to heart center, as a shift from desire as value to care as value, as a shift from 
+
 ## Perspectives
 
 from [a critique of Doughnut Economics as too Western](https://views-voices.oxfam.org.uk/2012/02/is-doughnut-economics-too-western/ "Is doughnut economics too Western? Critique from Latin American environmentalist, Eduardo Gudynas")
