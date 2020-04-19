@@ -32,9 +32,27 @@ To remain as humans being will be less pleasant, will engender discontentment as
 
 The collective transcendence from ego to spirit which we are witnessing and experiencing offers a myriad of signifiers. We are showered in this psychic sneeze as we convulse to deliver it. First we will glide over the drawer and then pick up each lens.
 
-Today we will examine our coronation as a shift
+Today we will examine our coronation as a shift:
 
-in strategy from growth to harmony, as a shift from trying to control nature to embracing nature, as a shift from a free market economy to a whole earth garden, as a shift from world trade to global generosity, as a shift from brain power to heart center, as a shift from desire as value to care as value, as a shift from 
+| from | to | as |
+| :---: | :---: | :---: |
+| growth | harmony | strategy |
+| profit | balance | goal |
+| control | embrace | of nature |
+| free market | earth garden | economy |
+| world trade | global generosity | activity |
+| brain-powered | heart-centered | energy |
+| desire | care | value |
+| wealth | well-being | aim |
+| labor force | leisure space | occupation |
+| fear stick | love carrot | motivator |
+| artifact | art | mode |
+| material | spiritual | essence |
+| linear | cyclic | path |
+| I | We | Subject |
+| ego | atman | self |
+
+
 
 ## Perspectives
 
