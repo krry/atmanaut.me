@@ -34,8 +34,8 @@ The collective transcendence from ego to spirit which we are witnessing and expe
 
 Today we will examine our coronation as a shift:
 
-| from | to | as |
-| :---: | :---: | :---: |
+| from | to | as our |
+| :--- | :--- | :--- |
 | growth | harmony | strategy |
 | profit | balance | goal |
 | control | embrace | of nature |
