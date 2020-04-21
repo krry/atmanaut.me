@@ -32,26 +32,25 @@ To remain as humans being will be less pleasant, will engender discontentment as
 
 The collective transcendence from ego to spirit which we are witnessing and experiencing offers a myriad of signifiers. We are showered in this psychic sneeze as we convulse to deliver it. First we will glide over the drawer and then pick up each lens.
 
-Today we will examine our coronation as a shift:
+In this piece we will examine our coronation as a shift:
 
 | from | to | as our |
 | :--- | :--- | :--- |
+| I | We | subject |
+| ego | atman | self |
+| linear | cyclic | path |
+| material | spiritual | essence |
+| artifact | art | creative focus |
+| brain power | heart center | energy source |
+| control | embrace | approach to nature |
 | growth | harmony | strategy |
 | profit | balance | goal |
-| control | embrace | of nature |
-| free market | earth garden | economy |
-| world trade | global generosity | activity |
-| brain-powered | heart-centered | energy |
-| desire | care | value |
-| wealth | well-being | aim |
+| desire | care | value determinant |
+| fear | love | motivation |
 | labor force | leisure space | occupation |
-| fear stick | love carrot | motivator |
-| artifact | art | mode |
-| material | spiritual | essence |
-| linear | cyclic | path |
-| I | We | Subject |
-| ego | atman | self |
-
+| trade | generosity | economic activity |
+| free market | earth garden | ecosystem |
+| wealth | well-being | accumulant |
 
 
 ## Perspectives
@@ -71,3 +70,11 @@ When designing a model, we must first define its foundational assumptions. When 
 Can development coincide with sustainability and/or vice versa?
 
 Can we pursue sustainable refinement without focusing on progress or development?
+
+## the outdated neoliberal script
+- free market is efficient
+- incompetent state
+- trade is win-win
+- commons are tragic
+- household is domestic
+- finance is infallible
