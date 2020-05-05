@@ -1,6 +1,7 @@
 ---
 author: Kerrbear
-categories: []
+categories:
+- determinism
 date: 2020-05-05T07:59:59-07:00
 subtitle: or How Would I Know If I Really Wrote This?
 tags:
@@ -10,7 +11,7 @@ tags:
 - immortality
 title: It's never too early for immortality
 title_lead: And Does It Matter That I Don't Mind?
-title_main: ''
+title_main: Never Too Late To Choose
 
 ---
 Today might be the day we redeem the suffering of our existence.  Today we might crest my wave, reach the cusp. Today we might facetime with the singularity of spacetime.
