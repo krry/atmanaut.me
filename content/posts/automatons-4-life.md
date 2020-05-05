@@ -20,7 +20,7 @@ We won't know until later. We may not know until we are far off this plane. Have
 
 But to be conscious is a precious gift. And to be mindful is to find gratitude in being beyond the grief and suffering of living and dying.
 
-## You've got ereitschaftpotential
+## You've got bereitschaftpotential
 
 When we map the fireworks sparking in our heads to the figments flashing through our minds, we see our choices being made before we make them. Neuroscientists have observed that an unconscious cerebral initative precedes a conscious decision to move by about half a second. This may come as a shock.
 
