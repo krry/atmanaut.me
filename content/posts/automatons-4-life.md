@@ -9,7 +9,7 @@ tags:
 - determinism
 - consciousness
 - immortality
-title: It's never too early for immortality
+title: It's Never Too Early For Immortality
 title_lead: And Does It Matter That I Don't Mind?
 title_main: Never Too Late To Choose
 
