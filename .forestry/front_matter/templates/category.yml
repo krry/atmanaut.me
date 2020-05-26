@@ -1,0 +1,12 @@
+---
+label: Category
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+  description: tags that fall within this category (non-exclusively)

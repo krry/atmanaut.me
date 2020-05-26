@@ -38,7 +38,6 @@ public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year:/:month/:filename:"
-instant_preview: true
 build:
   preview_env:
   - HUGO_ENV=staging
@@ -48,6 +47,4 @@ build:
   mount_path: "/opt/buildhome/repo"
   instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
-  preview_command: cd themes/chakra && npm install postcss-cli -g  && ls -al && npm
-    install && cd ../.. && hugo -E -F -D -b $DEPLOY_URL -d public
 version: 0.54.0

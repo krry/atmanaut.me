@@ -1,5 +1,5 @@
 ---
-date: 2020-04-17T17:27:41-07:00
+date: 2020-04-18T00:27:41.000+00:00
 title: Write it Once, Publish it Everywhere
 author: Kerrbear
 tags:
@@ -12,6 +12,7 @@ subtitle: or How to Post on Forestry and have Github, Zeit, IFTTT, and Medium Do
   Thangs
 title_lead: Could've built a better mousetrap, but hey…
 categories: []
+draft: true
 
 ---
 Writing has become effortless. Now I would love to simplify my publishing process. With any luck, I might be able to reach readers eventually.

@@ -1,24 +1,41 @@
 ---
-author: "Kerrbear"
-categories: []
-date: "2019-03-21T12:00:00-05:00"
-subtitle: "Eternally redeemable?"
-tags: ["free will", "determinism"]
-title: "It's never too early for immortality"
-title_lead: ""
-title_main: ""
+author: Kerrbear
+categories:
+- determinism
+date: 2020-05-05T07:59:59-07:00
+subtitle: or How Would I Know If I Really Wrote This?
+tags:
+- free will
+- determinism
+- consciousness
+- immortality
+title: It's Never Too Early For Immortality
+title_lead: And Does It Matter That I Don't Mind?
+title_main: Never Too Late To Choose
+
 ---
+Today might be the day we redeem the suffering of our existence.  Today we might crest this wave, reach the cusp. Today we might facetime with the singularity of spacetime.
 
-Today might be the day I redeem the suffering of my existence.  Today I might crest my wave, reach the cusp.  Today I might facetime with the singularity of my spacetime.  I won't know until later.  I may not know until I am far off this plane and have boarded the next one.  I may never, nor may anyone.  We don't notice everything.  To be conscious is a precious gift to receive.  To be mindful is to be grateful.
+We won't know until later. We may not know until we are far off this plane. Have we already boarded the next one? I don't know. I don't notice everything I could.
 
-When we map the fireworks sparking in our heads to the figments flashing through our minds, we see our choices being made before we make them.  Neuroscientists have observed that an unconscious cerebral initative precedes a conscious decision to move by about half a second.  This may come as a shock.  You may have been told to claim certain inalienable rights and freedoms.  You may believe as I once did that your choice is your own, and my choice is mine.  [Free will](https://www.wikiwand.com/en/Free_will) has seen some debate over the years, and that debate is far from over.
+But to be conscious is a precious gift. And to be mindful is to find gratitude in being beyond the grief and suffering of living and dying.
 
-Whether or not I align with neuroscience's latest findings, I need not stop believing free will.  My beliefs are no more voluntary than my decisions.  Their recipes are quite similar.
+## You've got **Bereitschaftspotential**
 
-Let's start with what matters, with stardust.  Take each infinitesimal particle I could call my own and peer back into the eons of travel and near collisions it has endured since the Big Bang to end up under my illusion of control.  Do the same for every particle that has a possibility of colliding with one of mine in the next moment.  Interpolate their trajectories, velocities, atrocities, bombasticities in the here and how.  Squint to see their quantum uncertainty.  Examine the chromosomes they comprise where the algorithms lie encoded that dictate my form and function, genes shaped by ancient evolutionary pressures coupled with chance mutations, that in turn shape me and determine my drives and abilities and opportunities to react.  Then sit back and observe the way things go on, always as they would have been.  No choice has been made another way.
+When we map the fireworks sparking in our heads to the figments flashing through our minds, we see our choices being made before we make them. Neuroscientists have observed that an unconscious cerebral initative precedes a conscious decision to move by about half a second. This may come as a shock.
 
-But I want to believe I can change for the better.  I want to believe I can choose happy, so I try.
+We have been dogmatized to claim certain inalienable rights and freedoms. We have been led to believe that our choices are our own, that my choice is mine, and yours is yours. [Free will](https://www.wikiwand.com/en/Free_will) has seen some debate over the years, and that debate is far from over. And whether or not we align with neuroscience's latest findings, we need not stop believing in free will. You see, it may be that our beliefs are no more voluntary than our decisions. Indeed their recipes are quite similar. Believing may not make a lick of difference to what is or is not.
 
-Then I blink or I sigh, I stand or I sit.  I leap or I swerve, or scroll tap, or type.  But that was going to happen, wasn't it?  I only think I chose that.  I could tweet in defense of my, like, stable genius.  I could speak up with dignity about the endemic injustice I have endured under a flag, as a gender, or as a race.  I could cut my finger chopping an onion or cut the perfect take of the final scene of my finest film yet.  This has happened, yes.  I am a witness, yes.  I am indeed the one to applaud, to thank, to blame, avenge, or bandage.
+## Dusterminism or Dustermination?
 
-Before my tries, behind my eyes, my decision was made, and now comes to pass in disguise as a freely willed choice.  How can I put this most simply?  Would it help you to know that your will is not free?  You still would be as you are and do as you will do.  Your impact will be eternal.  Your timing will be perfect.  It's never too late for immortality.
+Let's examine what matters, or what's matter: take stardust, for example. Take each infinitesimal particle you could call your own and peer back into the eons of travel and near collisions it has endured since the Big Bang to end up under my illusion of control. Do the same for every particle that has a possibility of colliding with one of thine in the next moment. Interpolate their trajectories, velocities, atrocities, bombasticities in the here and how. Squint to see their quantum uncertainty. Examine the chromosomes they comprise where the algorithms lie encoded that dictate my form and function, genes shaped by ancient evolutionary pressures coupled with chance mutations, that in turn shape you and determine your drives and abilities and opportunities to react. Then sit back and observe the way things go on, always as they would have been. No choice has been made another way.
+
+## Can I Be a Witness?
+
+But we want to believe we can change for the better. We want to believe we can choose happy, so we try. Then we blink or we sigh, stand or sit. We leap or we swerve, or scroll, tap, or type. But that was going to happen, wasn't it? We only think we chose to act.
+
+I might tweet in defense of my, like, stable genius. I might spout in dignity about pandemic injustice we endure under flags, as genders, as races. I might cut a finger chopping an onion, cut you off on the freeway, cut the final take of the day, or cut the cheese, and then nod. This has happened, yes. I am witness, yes. I am. But who is the one to applaud, to thank, to blame, avenge, or bandage?
+
+Before these tries, behind the eyes, decisions were made, and now come to pass in disguise as freely willed choices. How can I put this most simply? Would it help us to know that our will is not free? We still would be as we are and do as we will do. Helplessly hoping, our impact will be eternal, our timing will be perfect.
+
+### It's never too late for immortality.
