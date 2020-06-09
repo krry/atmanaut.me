@@ -56,4 +56,6 @@ To paraphrase Donny Epstein, we awaken into awareness, acknowledgment, acceptanc
 We entreat you to join us, to molt your self-identity, to refuse the other identity you were imagining for yourself, and to return to the well of being deep in the core of your heart center. There you will find, as we have, an endless source of joy and peace, a supernova of loving kindness and compassion, a cascading waterfall of forgiveness. This is where everything meets nothing and becomes one thing loving itself. This is where you start. And you are endless. Drop your bags, shed that skin, it's time to don your sovereign crown and fly.
 
 Ours truly,
-Kerry
+Kerrbear
+
+P.S. We acknowledge the presence of [these lovely beings who claim to tend the official home of Unism](https://theunists.wordpress.com/category/what-is-unism/). We do not espouse the beliefs they profess, but we agree with their unifying aim and respect their offerings.
