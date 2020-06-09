@@ -17,6 +17,8 @@ This is an open letter to those who envision themselves as identified as a membe
 
 Dear Persons,
 
+This rising crisis is the shock we require to reach the next octave. Have courage. Keep calm and listen with your heart.
+
 I wholly support the sovereignty of every conscious being, and I fervently call for the end of violence toward and oppression of anyone based on how they appear. I stand with everyone who has been mistreated or disrespected based on an attribute of their body or mind. I vow to be a pillar of compassion and equanimity, to listen to all perspectives with an open heart, to accept only what I need, and to give everything I can. I reject any preferential treatment based on how I appear. I commit to distributing privilege evenly to all until it is no more. I devote myself to guiding us toward the awareness, acknowledgment, and acceptance of our sovereignty.
 
 Please do not refer to me as white. And do not refer me as a man. For decades I have selected the Other bubbles. When required to say more, I have opted to be labeled North American, sometimes Terran, sometimes merely Human. Truth told, even these are unwanted and inaccurate.
