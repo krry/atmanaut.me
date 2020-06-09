@@ -13,6 +13,8 @@ categories: []
 
 This is an open letter to those who envision themselves as identified as a member of a race, a gender, an ethnicity, a nation, an orientation, a corporation, a faith, a culture, a religion, a body, a family, a profession, and even moreso to those who attempt to identify and classify others into categories.
 
+***
+
 Dear Persons,
 
 I wholly support the sovereignty of every conscious being, and I fervently call for the end of violence toward and oppression of anyone based on how they appear. I stand with everyone who has been mistreated or disrespected based on an attribute of their body or mind. I vow to be a pillar of compassion and equanimity, to listen to all perspectives with an open heart, to accept only what I need, and to give everything I can. I reject any preferential treatment based on how I appear. I commit to distributing privilege evenly to all until it is no more. I devote myself to guiding us toward the awareness, acknowledgment, and acceptance of our sovereignty.
@@ -45,7 +47,7 @@ With all this Unism now swimming in our cerebral cortices, let's briefly revisit
 
 The other side of identity is what the other sees. What we imagine ourselves to be perceived as. This is often a multi-faceted crystallized turd of stereotypes and generalizations. "You can't polish a turd, Beavis." If we separate ourselves from the world, we give power to this other side of identity.
 
-To paraphrase Donnie Epstein, we awaken into awareness, acknowledgment, acceptance to apply our energy to a world of information in order to live an extraordinary life of great impact. If we are aware of, acknowledge, and accept our place at the center of everything, we give power to our self-identity. Seeing the extent and entirety of the intricately interwoven tapestry of life can be difficult when we are bound up in it. Our minds arise to protect our body in that bound state. But our spirit is free and unbound. Soaring up to the crown of sovereignty, we can see the tapestry in all its uncountable dimensions.
+To paraphrase Donny Epstein, we awaken into awareness, acknowledgment, acceptance to apply our energy to a world of information in order to live an extraordinary life of great impact. If we are aware of, acknowledge, and accept our place at the center of everything, we give power to our self-identity. Seeing the extent and entirety of the intricately interwoven tapestry of life can be difficult when we are bound up in it. Our minds arise to protect our body in that bound state. But our spirit is free and unbound. Soaring up to the crown of sovereignty, we can see the tapestry in all its uncountable dimensions.
 
 We entreat you to join us, to molt your self-identity, to refuse the other identity you were imagining for yourself, and to return to the well of being deep in the core of your heart center. There you will find, as we have, an endless source of joy and peace, a supernova of loving kindness and compassion, a cascading waterfall of forgiveness. This is where everything meets nothing and becomes one thing loving itself. This is where you start. And you are endless. Drop your bags, shed that skin, it's time to don your sovereign crown and fly.
 
