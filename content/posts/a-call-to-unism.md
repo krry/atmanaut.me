@@ -11,9 +11,11 @@ categories: []
 ---
 # Un-ism
 
-This is an open letter to those who envision themselves as identified as a member of a race, a gender, an ethnicity, a nation, an orientation, a corporation, a faith, a culture, a religion, a body, a family, a profession, and even moreso to those who attempt to identify and classify others i categories. I wholly support the sovereignty of every conscious being, and I fervently call for the end of violence toward and oppression of anyone based on how they appear. I stand with everyone who has been mistreated or disrespected based on an attribute of their body or mind. I vow to be a pillar of compassion and equanimity, to listen to all perspectives with an open heart, to accept only what I need, and to give everything I can. I reject any preferential treatment based on how I appear. I commit to distributing privilege evenly to all living beings. I devote myself to guiding us toward the recognition of our sovereignty.
+This is an open letter to those who envision themselves as identified as a member of a race, a gender, an ethnicity, a nation, an orientation, a corporation, a faith, a culture, a religion, a body, a family, a profession, and even moreso to those who attempt to identify and classify others into categories.
 
-Dear Sovereigns,
+Dear Persons,
+
+I wholly support the sovereignty of every conscious being, and I fervently call for the end of violence toward and oppression of anyone based on how they appear. I stand with everyone who has been mistreated or disrespected based on an attribute of their body or mind. I vow to be a pillar of compassion and equanimity, to listen to all perspectives with an open heart, to accept only what I need, and to give everything I can. I reject any preferential treatment based on how I appear. I commit to distributing privilege evenly to all until it is no more. I devote myself to guiding us toward the awareness, acknowledgment, and acceptance of our sovereignty.
 
 Please do not refer to me as white. And do not refer me as a man. For decades I have selected the Other bubbles. When required to say more, I have opted to be labeled North American, sometimes Terran, sometimes merely Human. Truth told, even these are unwanted and inaccurate.
 
