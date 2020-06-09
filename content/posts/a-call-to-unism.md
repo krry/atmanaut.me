@@ -7,7 +7,6 @@ title_main: Know Thyself as an Unist
 subtitle: and Let the Struggle of Isolation Fall Away
 title_lead: Let's remember together who we are
 categories: []
-draft: true
 
 ---
 # Un-ism
