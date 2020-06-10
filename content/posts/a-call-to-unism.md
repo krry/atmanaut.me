@@ -21,13 +21,15 @@ This rising crisis is the shock we require to reach the next octave. Have courag
 
 Before we approach the understanding I would like to offer you, I want to give you an establishing shot of the mindset I would take as a human being. I wholly support the sovereignty of every conscious being, and I fervently call for the end of violence toward and oppression of anyone based on how they appear. I stand with everyone who has been mistreated or disrespected based on an attribute of their body or mind. I vow to be a pillar of compassion and equanimity, to listen to all perspectives with an open heart, to accept only what I need, and to give everything I can. I reject any preferential treatment based on how I appear. I commit to distributing privilege evenly to all until it is no more. I devote myself to guiding us toward the awareness, acknowledgment, and acceptance of our sovereignty.
 
-Please do not refer to me as white. And do not refer me as a man. For decades I have selected the Other bubbles. When required to say more, I have opted to be labeled North American, sometimes Terran, sometimes merely Human. Truth told, even these are unwanted and inaccurate.
+Please do not refer to me as a skin color. And do not refer me as a gender. For decades I have selected the Other bubbles. When required to say more, I have opted to be labeled North American, sometimes Terran, sometimes merely Human. Truth told, even these are unwanted and inaccurate. I do not expect to change anyone's mind but my own, but to my mind these classifications do not belong in my identity.
 
-I am, yes, but that is it. I am. You can call me Kerry, or Kerrbear, or "you", "we", or "us". These represent the totality of the identity to which we consent.
+I am, yes, but that is it. I am.
 
-I extend this courtesy of sovereign self-identification to everyone, to every conscious being. I will continue to try to drop all the pronouns, to stop calling the dog a dog, to embrace every blade of grass as a friend. And I especially will greet every human being with respect and without prejudgment. While I often fail to fully engage with the world as an individuated drop of loving awareness swimming in an ocean of same, I do sometimes achieve the pinnacle of interface between myself and the world: no interface. And I will continue to improve.
+If you wish to address or refer to me, I humbly ask that you call me Kerry, or Kerrbear, or "you", "we", or "us". These represent the totality of the identifiers to which I consent. All of us, every conscious being, may exercise this option, call it sovereign self-identification. But no one else can claim or define your identity for you. In charity I continue to drop pronouns, to stop calling the dog a dog, to embrace every blade of grass as a friend. And I especially will greet every human being with respect and without prejudgment.
 
-Either way I am going on record  here as an **Un-ist**. Now that I have claimed an identity that could apply to more than one person, "I" have become "we". We ask you to help us to develop and fulfill Un-ism.
+While I often fail to fully engage with the world as an individuated drop of loving awareness swimming in an ocean of same, I do sometimes achieve the pinnacle of interface between myself and the world: no interface. And I will continue to improve.
+
+Either way I am going on record  here as an **Un-ist**. Now that I have claimed an identity that could apply to a plurality, "I" have become "we". I think I speak for the Un-ists when I invite you to help us to develop and fulfill this simple Un-it of philosophy.
 
 ## Un-ism
 
