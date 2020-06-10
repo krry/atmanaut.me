@@ -21,33 +21,33 @@ Dear Persons,
 
 This rising crisis is the shock we require to reach the next octave. Have courage. Keep calm and listen with your heart.
 
-I wholly support the sovereignty of every conscious being, and I fervently call for the end of violence toward and oppression of anyone based on how they appear. I stand with everyone who has been mistreated or disrespected based on an attribute of their body or mind. I vow to be a pillar of compassion and equanimity, to listen to all perspectives with an open heart, to accept only what I need, and to give everything I can. I reject any preferential treatment based on how I appear. I commit to distributing privilege evenly to all until it is no more. I devote myself to guiding us toward the awareness, acknowledgment, and acceptance of our sovereignty.
+Before we approach the understanding I would like to offer you, I want to give you an establishing shot of the mindset I would take as a human being. I wholly support the sovereignty of every conscious being, and I fervently call for the end of violence toward and oppression of anyone based on how they appear. I stand with everyone who has been mistreated or disrespected based on an attribute of their body or mind. I vow to be a pillar of compassion and equanimity, to listen to all perspectives with an open heart, to accept only what I need, and to give everything I can. I reject any preferential treatment based on how I appear. I commit to distributing privilege evenly to all until it is no more. I devote myself to guiding us toward the awareness, acknowledgment, and acceptance of our sovereignty.
 
 Please do not refer to me as white. And do not refer me as a man. For decades I have selected the Other bubbles. When required to say more, I have opted to be labeled North American, sometimes Terran, sometimes merely Human. Truth told, even these are unwanted and inaccurate.
 
 I am, yes, but that is it. I am. You can call me Kerry, or Kerrbear, or "you", "we", or "us". These represent the totality of the identity to which we consent.
 
-Today, I extend this courtesy of sovereign self-identification to everyone, to every conscious being. It will take me some time to adjust, to drop all the pronouns, to stop calling the dog a dog, to embrace every blade of grass as a friend. I often fail to fully engage with the world as an individuated drop of loving awareness swimming in an ocean of same. And I sometimes achieve the pinnacle of interface between myself and the world: no interface.
+I extend this courtesy of sovereign self-identification to everyone, to every conscious being. I will continue to try to drop all the pronouns, to stop calling the dog a dog, to embrace every blade of grass as a friend. And I especially will greet every human being with respect and without prejudgment. While I often fail to fully engage with the world as an individuated drop of loving awareness swimming in an ocean of same, I do sometimes achieve the pinnacle of interface between myself and the world: no interface. And I will continue to improve.
 
-Either way I am going on record  here as an **Un-ist**. Now that I have claimed an identity that can apply to more than one person, "I" have become "we". We ask you to help us to develop and fulfill Unism.
+Either way I am going on record  here as an **Un-ist**. Now that I have claimed an identity that could apply to more than one person, "I" have become "we". We ask you to help us to develop and fulfill Un-ism.
 
-## Unism
+## Un-ism
 
-An Unist holds no ideologies, no '-isms' aside from Un-ism, and no identities aside from Un-ity. We cannot be delineated or identified as meatbags who stop where our skin ends. We extend from a single point, from the well of being at heart center, out into the world and the cosmos infinitely and eternally.
+An Un-ist holds no ideologies, no '-isms' aside from Un-ism, and no identities aside from Un-ity. We cannot be delineated or identified as meatbags who stop where our skin ends. We extend from a single point, from the well of being at heart center, out into the world and the cosmos infinitely and eternally.
 
-An Unist rejects all isms, and accepts all beings, all one and each one.
+An Un-ist rejects all isms, and accepts all beings, all one and each one.
 
-An Unist has only one belief: no belief is true. An Unist is a true  Unbeliever. Truth is witnessed by the inner eye. Truth is spoken by the silent voice.
+An Un-ist has only one belief: no belief is true. An Un-ist is a true  Unbeliever. Truth is witnessed by the inner eye. Truth is spoken by the silent voice.
 
-An Unist upholds only one principle: every point is the center. This means that no one is more valuable than any other. There can be no accounting for taste, no price placed on essence, no weight in authority. All perspectives are to be respected with equanimity, isopneumatically, since they share the same unified spirit. As Alan Watts puts it, "Through our eyes, the universe is perceiving itself. Through our ears, the universe is listening to its harmonies. We are the witnesses through which the universe becomes conscious of its glory, of its magnificence."
+An Un-ist upholds only one principle: every point is the center. This means that no one is more valuable than any other. There can be no accounting for taste, no price placed on essence, no weight in authority. All perspectives are to be respected with equanimity, isopneumatically, since they share the same unified spirit. As Alan Watts puts it, "Through our eyes, the universe is perceiving itself. Through our ears, the universe is listening to its harmonies. We are the witnesses through which the universe becomes conscious of its glory, of its magnificence."
 
-An Unist has one ability: we tend. When we tend to, this is attention. When we tend in, this is intention. We harness our abilities to attend and intend to evolve as conscious conduits of love. We direct our attention to what matters; we pay attention to obtain value. We set intentions to love and be loved, then observe thoughts, motion, and emotion emerging from the enactment of our intentions.
+An Un-ist has one ability: we tend. When we tend to, this is attention. When we tend in, this is intention. We harness our abilities to attend and intend to evolve as conscious conduits of love. We direct our attention to what matters; we pay attention to obtain value. We set intentions to love and be loved, then observe thoughts, motion, and emotion emerging from the enactment of our intentions.
 
 (You may wonder whether we say Unist like "universe" or like "understanding". It's both and either. The Tao is both the one thing and no thing at all.)
 
-## Identity as Unity
+## Identity as Un-ity
 
-With all this Unism now swimming in our cerebral cortices, let's briefly revisit identity. Identity like any manifest quality, has two sides. The side you see is self-identity. It's what comes after "I am" when you speak. I am. With what do you follow this acknowledgment of entity?
+With all this Un-ism now swimming in our cerebral cortices, let's briefly revisit identity. Identity like any manifest quality, has two sides. The side you see is self-identity. It's what comes after "I am" when you speak. I am. With what do you follow this acknowledgment of entity?
 
 The other side of identity is what the other sees. What we imagine ourselves to be perceived as. This is often a multi-faceted crystallized turd of stereotypes and generalizations. "You can't polish a turd, Beavis." If we separate ourselves from the world, we give power to this other side of identity.
 
@@ -58,4 +58,4 @@ We entreat you to join us, to molt your self-identity, to refuse the other ident
 Ours truly,
 Kerrbear
 
-P.S. We acknowledge the presence of [these lovely beings who claim to tend the official home of Unism](https://theunists.wordpress.com/category/what-is-unism/). We do not espouse the beliefs they profess, but we agree with their unifying aim and respect their offerings.
+P.S. We acknowledge the presence of [these lovely beings who claim to tend the official home of Unism](https://theunists.wordpress.com/category/what-is-unism/). As Un-ists, we do not necessespouse the beliefs they profess, but we agree with their unifying aim and respect their offerings.
