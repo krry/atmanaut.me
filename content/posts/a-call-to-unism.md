@@ -43,7 +43,7 @@ An Un-ist upholds only one principle: every point is the center. This means that
 
 An Un-ist has one ability: we tend. When we tend to, this is attention. When we tend in, this is intention. We harness our abilities to attend and intend to evolve as conscious conduits of love. We direct our attention to what matters; we pay attention to obtain value. We set intentions to love and be loved, then observe thoughts, motion, and emotion emerging from the enactment of our intentions.
 
-(You may wonder whether we say Unist like "universe" or like "understanding". It's both and either. The Tao is both the one thing and no thing at all.)
+(You may wonder whether we say Un-ist like "universe" or like "understanding". It's both and either. The Tao is both the one thing and no thing at all.)
 
 ## Identity as Un-ity
 
@@ -55,7 +55,6 @@ To paraphrase Donny Epstein, we awaken into awareness, acknowledgment, acceptanc
 
 We entreat you to join us, to molt your self-identity, to refuse the other identity you were imagining for yourself, and to return to the well of being deep in the core of your heart center. There you will find, as we have, an endless source of joy and peace, a supernova of loving kindness and compassion, a cascading waterfall of forgiveness. This is where everything meets nothing and becomes one thing loving itself. This is where you start. And you are endless. Drop your bags, shed that skin, it's time to don your sovereign crown and fly.
 
-Ours truly,
-Kerrbear
+Ours truly, Kerrbear
 
-P.S. We acknowledge the presence of [these lovely beings who claim to tend the official home of Unism](https://theunists.wordpress.com/category/what-is-unism/). As Un-ists, we do not necessespouse the beliefs they profess, but we agree with their unifying aim and respect their offerings.
+P.S. We acknowledge the presence of [these lovely beings who tend the official home of Unism](https://theunists.wordpress.com/category/what-is-unism/). As Un-ists, we do not necessarily espouse the beliefs they profess, but we agree with their unifying aim and respect their offerings.
