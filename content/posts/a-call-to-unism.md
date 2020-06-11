@@ -29,7 +29,7 @@ If you wish to address or refer to me, I humbly ask that you call me Kerry, or K
 
 While I often fail to fully engage with the world as an individuated drop of loving awareness swimming in an ocean of same, I do sometimes achieve the pinnacle of interface between myself and the world: no interface. And I will continue to improve.
 
-Either way I am going on record  here as an **Un-ist**. Now that I have claimed an identity that could apply to a plurality, "I" have become "we". I think I speak for the Un-ists when I invite you to help us to develop and fulfill this simple Un-it of philosophy.
+Either way I am going on record  here as an **Un-ist**. Now that I have claimed an identity that could apply to a plurality, "I" have become "we". We Un-ists invite you to help us to develop and fulfill this simple Un-it of philosophy.
 
 ## Un-ism
 
@@ -55,6 +55,7 @@ To paraphrase Donny Epstein, we awaken into awareness, acknowledgment, acceptanc
 
 We entreat you to join us, to molt your self-identity, to refuse the other identity you were imagining for yourself, and to return to the well of being deep in the core of your heart center. There you will find, as we have, an endless source of joy and peace, a supernova of loving kindness and compassion, a cascading waterfall of forgiveness. This is where everything meets nothing and becomes one thing loving itself. This is where you start. And you are endless. Drop your bags, shed that skin, it's time to don your sovereign crown and fly.
 
-Ours truly, Kerrbear
+Ours truly,  
+Kerrbear et al.
 
 P.S. We acknowledge the presence of [these lovely beings who tend the official home of Unism](https://theunists.wordpress.com/category/what-is-unism/). As Un-ists, we do not necessarily espouse the beliefs they profess, but we agree with their unifying aim and respect their offerings.
