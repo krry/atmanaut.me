@@ -40,20 +40,20 @@ We are space for foam.
 
 The only comfort I can find in a world of constant change is this deep, profound ignorance that precedes and follows my mind. Before I know, I don't. And once I think I know, there is more I don't know than I ever did.
 
-Can this bring us solace? Only if we can detach or  from the claw machine that grasps for success, for knowing. If we can be at once the knowing, the knower, and the known, but none of the trinity alone, then we are at peace in the wholeness of what is, bobbing in the bottomless well of being from which emanates the foam in silent stillness.
+Can this bring us solace? Only if we can detach or disidentify from the claw machine that grasps for success, for knowing. If we can be at once the knowing, the knower, and the known, but none of the trinity alone, then we are at peace in the wholeness of what is, bobbing in the bottomless well of being from which emanates the foam in silent stillness.
 
 ### Some Foamy Resources
 
 More practically, I very much enjoy [José F. Mata's Quarantine Care Package](https://medium.com/@josefmata/quarantine-care-package-5a898ae0179a), which highlights practices that:
 
-* Center with kind touch
-* Stretch within your bubble
-* Hone your point of awareness
-* Do your abilities
-  * play/dance/sing
-  * eat/s(h)it/die
-  * think/see/know
-  * understand/listen/feel
-* Give what you have. Ask for what you need.
+- Center with kind touch
+- Stretch within your bubble
+- Hone your point of awareness
+- Do your abilities
+  - play/dance/sing
+  - eat/s(h)it/die
+  - think/see/know
+  - understand/listen/feel
+- Give what you have; ask for what you need.
 
-\#foamwell
+Foam well, yall.
