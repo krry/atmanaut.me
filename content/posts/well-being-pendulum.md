@@ -1,8 +1,8 @@
 ---
-author: "Kerrbear"
+author: Kerrbear
 title: Swinging on the Well-Being Pendulum
 subtitle: or How to Enjoy Suffering and Suffer Joy
-date: 2020-04-17T00:12:24-07:00
+date: 2020-04-17T07:12:24.000+00:00
 tags:
 - hermetica
 - tao te ching
@@ -49,6 +49,10 @@ The 42nd verse of the Tao Te Ching (sagely rendered in English by Ursula K. Le G
 What is the other side of depression? I call it joy. The one bears two. And the other side of anxiety, I call peace. I wonder what percentage of Americans would report experiencing joy and peace. Along the same track, perhaps we can give the other side of suffering a name: enjoyment.
 
 For each of these dualities we can picture a pendulum swinging between extremes, oscillating sinusoidally. Despair lies buried at the bottom of the pit of suffering, while bliss (आनन्द, _ānanda_) perches atop the peak of enjoyment. We can begin to glimpse the intricate dance of being as we overlay and interlace the oscillations of all these pendulums. An experience can be hot and enjoyable. Or we can suffer cold. The two bear three. With this grand perspective, one can ask: what is well-being? Within the set of the "ten thousand things" (which is meant to signify the many permutations of nature and reality), what things do we pursue? Which do we choose? Is it well-being to select experiences of our essence and existence wherein we avoid the less enjoyable half of the states? Or is it well-being to experience the fullness of as many spectra as we can? Could it be our destiny to wrap our pitiless bodies around the pendulum arm and swing to the moon and back?
+
+![](/uploads/2020/:month/david-griggs-art-installation-kreger-pendulum-miami-4.jpg)
+
+    <figcaption>“Time Piece” by artist David Griggs. A Public Art project commissioned by the Ohio Arts Council for Miami University of Ohio.</figcaption>
 
 ## Well-being vs. Ill-being
 
