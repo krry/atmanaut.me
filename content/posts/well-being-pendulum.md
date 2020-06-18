@@ -29,21 +29,13 @@ Quite simply, we can't be, not in aggregate. Ecstasy is a relative quality, defi
 The 42nd verse of the Tao Te Ching (sagely rendered in English by Ursula K. Le Guin) puts it poignantly:
 
 > The Way bears one.
->
 > The one bears two.
->
 > The two bear three.
->
 > The three bear the ten thousand things.
->
 > The ten thousand things
->
 > carry the yin on their shoulders
->
 > and hold in their arms the yang,
->
 > whose interplay of energy
->
 > makes harmony.
 
 What is the other side of depression? I call it joy. The one bears two. And the other side of anxiety, I call peace. I wonder what percentage of Americans would report experiencing joy and peace. Along the same track, perhaps we can give the other side of suffering a name: enjoyment.
