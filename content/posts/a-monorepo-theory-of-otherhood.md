@@ -10,7 +10,7 @@ title_main: "A Theory of Otherhood and the Monorepo"
 ---
 
 It is a landmark event in anyone's life: the sudden comprehension that there are **others**. For most of us, this lightning bolt strikes before we have developed the grammar or syntax we would need to construct a memory of such a concept. Consequently we don't remember it. But it strikes none the less and we bear the scar throughout our lives. The bolt misses some—perhaps they dodge it—who are no doubt baffled by the rest of us who once were of one mind and now perceive many, who call ourselves members of society, humanity, or civilization.
-
+<!--more-->
 Developmental psychologists refer to this phenomenal discovery of others as the [theory of mind](https://www.wikiwand.com/en/Theory_of_mind "Theory of Mind on Wikipedia"), which occurs to me, a layman, to be a misnomer. At the very least we are discussing a theory of **_minds_**. But is it a theory at all? Most human beings develop a "theory of mind" at eighteen months to three years old. But can a three-year-old theorize? This is uncertain, and would be unproductive to debate for our intents and purposes. We can agree, however, that a three-year-old can agree, or disagree. A litmus test for agreeability?
 
 ### "Do you want some broccoli?"

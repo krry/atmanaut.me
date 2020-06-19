@@ -13,13 +13,14 @@ title_lead: The All New Buenomadic 2020
 title_main: When is it nice here?
 
 ---
-Here's a fun one out of the notebook where I describe the products I will someday claim to have come up with years ago, once many others have spilt buckets of blood, sweat, and tears manifesting them. These are not fatuous claims, nor are they worthwhile. What does an elephant say about a Jeep? Anyway, I found myself sorely disappointed when I Googled for "Best time of year to go to New Zealand".
+This little diddy is perhaps moot following the Coronation. But assuming we
+someday resume travel, here's a way to make it more blissful.<!--more-->
 
 ## **How to Where to Vacay**
 
 I see an excess supply of vacation out there. There are WAY more places to go and things to see than we, who must vacate our daily lives periodically to maintain our insanity, could check off. Even when I was one-bag traveling full-time, more travel opportunities present themselves than can even be catalogued for future adventures, much less worked into an itinerary.
 
-Two things they teach you in Econ 101. It's okay to sleep through the lecture, you're not the dumbest ass in college. And two when there is an excess supply, price drops or stuff goes to waste. So why isn't vacation extremely cheap?
+Two things I learned in Econ 101. It's okay to sleep through the lecture; I'm not the only one who needs a nap. And two when there is an excess supply, price drops or stuff goes to waste. So why isn't vacation extremely cheap?
 
 First off, anyone in the vacation business doesn't want it to be cheap. Vacation implies space. Discounting the value of a vacation experience would induce more vacationers, who take up space, to cankle in. For those providing hospitality, there is a middle path between too few and too many patrons where things are lively, but not messy or overwhelming; somewhere between a ghost town and a Vegas buffet. Somewhere over the rainbow lies an ideal flowstate for the vacation system where everyone involved is maxin' and/or relaxin'.
 

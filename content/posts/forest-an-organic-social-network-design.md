@@ -10,11 +10,10 @@ title_main: Forest
 subtitle: A social network for people, by trees
 title_lead: 100% organic sosh juice
 categories: []
-draft: true
 
 ---
 As the literal pillars of the most expansive, vibrant, land-based communities on the planet, trees know a thing or two about social networking. Thanks to the pioneering work of a few biologists, we are beginning to understand their methods for _thrival_ and the values behind them. How can we learn from the trees as we consolidate our now-decentralized distributed identities under the canopy of one global forest of humanity?
-
+<!--more-->
 ![📷🙏 Luis Del Río Camacho](/uploads/2019/:month/luis-del-rio-camacho-43059-unsplash.jpg)
 
 ### In a single thumb tap the game changes drastically.

@@ -14,10 +14,8 @@ title_lead: And Does It Matter That I Don't Mind?
 title_main: Never Too Late To Choose
 
 ---
-Today might be the day we redeem the suffering of our existence.  Today we might crest this wave, reach the cusp. Today we might facetime with the singularity of spacetime.
-
-We won't know until later. We may not know until we are far off this plane. Have we already boarded the next one? I don't know. I don't notice everything I could.
-
+Today might be the day we redeem the suffering of our existence.  Today we might crest this wave, reach the cusp. Today we might facetime with the singularity of spacetime. We won't know until later. We may not know until we are far off this plane. Have we already boarded the next one? I don't know. There's a lot I miss.
+<!--more-->
 But to be conscious is a precious gift. And to be mindful is to find gratitude in being beyond the grief and suffering of living and dying.
 
 ## You've got **Bereitschaftspotential**

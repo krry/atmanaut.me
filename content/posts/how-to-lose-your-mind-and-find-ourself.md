@@ -13,20 +13,25 @@ categories: []
 
 Is it okay to talk about this yet?
 When have our minds ever helped us?
+The royal "us", as in all of us.
 
-If my soul says "I am…", echoing my spirit, which itself echoes what is, then my mind inserts and fills in a blank: "I am —·—·—".
+If my soul says "I am…",
+echoing my spirit,
+which itself echoes what is,
+then my mind inserts and fills in a blank:
+"I am —·—·—".
 
 I am willing.
 I am able.
 I am intent.
 I am grieving.
-
+<!--more-->
 I am. Yes, that is clear. We are. It's what a sneeze teaches us, or is made of, or what a blink would say. The rest is mental.
 
 Even the Thrice-Great Hermes may have had it twisted. Mind is all, the first principle goes. What does a mind swim in?
 
 Our Sufi minstrel Rumi once encapsulated us:
-"You are not a drop of the ocean.  
+"You are not a drop of the ocean.
 You are the whole ocean in a drop."
 
 And recently I encountered a magnificent effulgence of foam. Interpenetrating scales of bubbles layered in their complexities among many non-discrete dimensions. We live our lives often as bubbles, in bubbles, bouncing and joining and eventually popping.

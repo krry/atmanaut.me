@@ -22,6 +22,7 @@ Forestry.io CMS, and auto-deployable on now.sh.
 * \[ \] do a layout with [yoga.layout](https://yogalayout.com/)
 * \[ \] scour hugo docs and try out features
   * \[x\] rss feed
+<!--more-->
 * \[x\] add template for categories pages
 * \[x\] use custom 404 page
 * \[x\] refresh color palette: chakras, soulstones

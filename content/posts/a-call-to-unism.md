@@ -12,7 +12,7 @@ categories: []
 This is an open letter to those who envision themselves as identified as a member of a race, a gender, an ethnicity, a nation, an orientation, a corporation, a faith, a culture, a religion, a body, a family, a profession, and even moreso to those who attempt to identify and classify others into categories.
 
 Know first that black and brown and yellow and red lives matter. Then we proceed. And remember to breathe. Breath is life, and time is breath.
-
+<!--more-->
 ***
 
 Dear Persons,

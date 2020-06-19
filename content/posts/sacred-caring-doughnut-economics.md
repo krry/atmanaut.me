@@ -25,7 +25,7 @@ draft: true
 # Welcome to the Crossroads, Human
 
 As Paul Selig has received from his guides, we as humanity now stand at a crossroads. Each of us may choose to continue to attach to a human being, or to release that attachment and ascend to the perspective of the divine oneness who sits in the Well of Being at our center.
-
+<!--more-->
 Seeing this moment from the vantage of the cosmic crown, we know what to do (nothing), how to feel (content), and what to think ("I am"). From that vantage we know who we are. To seeing this moment from below the crown, we can still peer inward, into the Well of Being that sits at center, know who we are, and let that solitary truth carry us to the crown.
 
 To remain as humans being will be less pleasant, will engender discontentment as it always has, and will leave us mired in illusion. Today we would like to offer an array of pathways from the human to the divine, a drawer full of lenses to affix to our third eye as we reconsider our identity and our purpose.

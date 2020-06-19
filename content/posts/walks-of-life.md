@@ -9,7 +9,7 @@ categories:
 draft: true
 
 ---
-The path for anyone begins at the same point: Ourself. Some call this common self the Atman. This is as suitable a name as any, seeing as we know so little about it. From this common origin our paths diverge in every direction imaginable, but our senses limit our perception, so there are only so many ways to travel, only so many walks of life. Yet they all lead back to the origin.
+The path for anyone begins at the same point: Ourself. Some call this common self the Atman. This is as suitable a name as any, seeing as we know so little about it. From this common origin our paths diverge<!--more--> in every direction imaginable, but our senses limit our perception, so there are only so many ways to travel, only so many walks of life. Yet they all lead back to the origin.
 
 Most of us _homo sapiens_ choose **Faith** as our guide. When we choose faith, we accept that we cannot know the whole truth. We shut our eyes and perk our ears toward the call of a higher power, or toward the proclamations of a purported authority. Faith is an end to questions, not an answer. Adrift without answers, the faithful often vacillate between peaceful surrender and incredulous outrage as the joys and horrors of existence put baseless beliefs to the test.
 

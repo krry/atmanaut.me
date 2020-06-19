@@ -11,9 +11,9 @@ subtitle: Howsits and Whatsits
 draft: true
 
 ---
-A year ago I received a message. "Love is the answer." An oft-repeated platitude, yes, but this time it stuck and took over, like an amorous prion.
+A couple years back a message came through clear as a bell. "Love is the answer." An oft-repeated platitude, yes, but this time it stuck and took over, like an amorous prion.
 
-The next day this name came to me: "Atmanaut! Is that what we are?" I still don't know how to fully explain this transformation, but at least I have a word for it. Atmanaut: explorer of the farthest reaches of the soul we share. Anyone that understands and appreciates this occupation, this coinage, will be a compadre, comrade, y en mi cadre. There could be millions of practicing atmanauts and we wouldn't know unless they can self-identify.
+The next day this name came to me: "Atmanaut! Is that what we are?" I still don't know how to fully explain this transformation, but at least I have a word for it.<!--more--> Atmanaut: explorer of the farthest reaches of the soul we share. Anyone that understands and appreciates this occupation, this coinage, will be a compadre, comrade, y en mi cadre. There could be millions of practicing atmanauts and we wouldn't know unless they can self-identify.
 
 So I reserved use some space. Atmanaut.me is for personal Atmanaut matters.  Atmanaut.us is for all of us to collaborate: this site here, which will become the Atlas. The Atlas is built on Hugo at the moment.
 
