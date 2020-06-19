@@ -1,7 +1,11 @@
 <ul id="all-tags" class="tag-cloud list-taxonomies list-inline list-reset">
-  {{- range $name, $taxonomy := .Site.Taxonomies.tags -}}
-  {{ with $.Site.GetPage (printf "/tags/%s" $name) -}}
-  <li class="taxonomy-term"><a href="{{ .Permalink }}">{{ $name }}</a></li>
-  {{ end -}}
+  {{/* $.Scratch.Set "myLimit" 0 */}}
+  {{- range $name, $items := .Site.Taxonomies.tags }}
+    {{/* $.Scratch.Set "myLimit" (add ($.Scratch.Get "myLimit") 1) */}}
+    {{/* if le ($.Scratch.Get "myLimit") ($.Site.Param `tagsLimit`) */}}
+      {{ with $.Site.GetPage (printf "/tags/%s" $name) -}}
+        <li class="taxonomy-term"><a href="{{ .Permalink }}">{{ $name }}</a></li>
+      {{- end }}
+    {{/* end */}}
   {{- end -}}
 </ul>

@@ -4,8 +4,9 @@ theme: chakra
 author:
   name: "Kerry Snyder"
 params:
-  description: "A place for explorers of the spirit we share, being knowing enjoying • सच्चिदानन्द"
+  description: "A place for explorers of the spirit we share, being knowing enjoying"
   tagline: "सच्चिदानन्द"
+  tagsLimit: 27
   summaryLength: 50
   preserveTaxonomyNames: true
   googleFontsURL: "https://fonts.googleapis.com/css?family=Lato:i:100,400,700|Aleo:100,400|Righteous|Inconsolata&amp;display=swap"
