@@ -1,9 +1,10 @@
 languageCode: en-us
 title: Atmanaut
 theme: chakra
+author:
+  name: "Kerry Snyder"
 params:
-  author: "Kerry Snyder"
-  description: "सच्चिदानन्द"
+  description: "A place for explorers of the spirit we share, being knowing enjoying • सच्चिदानन्द"
   summaryLength: 50
   preserveTaxonomyNames: true
   colors:
@@ -20,7 +21,8 @@ blackfriday:
   plainIDAnchors: true
   hrefTargetBlank: true
 metaDataFormat: yaml
+enableRobotsTXT:
 pygmentsCodeFences: true
 pygmentsCodefencesGuessSyntax: true
 pygmentsUseClasses: true
-# googleAnalytics: UA-123-45
+googleAnalytics: UA-170088360-1
