@@ -114,6 +114,7 @@ figcaption {
 body {
   background: transparent; }
 
+/* TODO: cache background image for session rather than reloading a new one */
 .wallpaper {
   background-position: center center;
   background-size: cover;
@@ -284,6 +285,35 @@ body:not(.user-is-tabbing) select:focus,
 body:not(.user-is-tabbing) textarea:focus {
   outline: none; }
 
+.btn {
+  border: 2px solid #0e2f49;
+  background-color: #038aa5;
+  color: #ecf0f3;
+  height: 2.25em;
+  line-height: 2.25em;
+  padding: 0 1.25em;
+  border-radius: 0.25em;
+  font-size: 0.875rem;
+  transition: all 250ms; }
+
+.btn.center {
+  margin: 0.5rem auto;
+  display: block; }
+
+.btn.outline {
+  border: 2px solid #0e2f49; }
+  .btn.outline:hover {
+    border-color: #038aa5; }
+
+.btn.clear {
+  color: #0773c0;
+  border: 1px solid #0773c0;
+  border: none;
+  background-color: transparent;
+  font-size: 0.75rem; }
+  .btn.clear:hover {
+    background-color: rgba(7, 115, 192, 0.15); }
+
 /* when header is shown, big logo, centered content, show tag cloud */
 header {
   text-align: center; }
@@ -374,6 +404,13 @@ footer a {
   .read-more:visited {
     opacity: 0.8; }
 
+.read-on {
+  display: block;
+  text-align: center; }
+
+.post-summary .list-taxonomies {
+  text-align: center; }
+
 .scrolliner {
   position: sticky;
   top: 0;
@@ -396,10 +433,10 @@ footer a {
 .taxonomy {
   position: relative;
   min-height: 100vh;
-  margin: 2em 0;
-  padding: 3em 2em;
+  margin: 1.325em 0.625rem;
+  padding: 1.25rem 1.25em;
   background-color: #cdd8e0;
-  border-radius: 2em; }
+  border-radius: 1.25em; }
   @media only screen and (min-width: 684px) {
     .post,
     .taxonomy {
@@ -452,21 +489,27 @@ footer a {
 
 .post-summary {
   position: relative;
-  margin-bottom: 2em;
-  padding: 2em;
+  margin: 0.625em;
+  padding: 1.25em 1.25em;
   background-color: #cdd8e0;
-  border-radius: 2em;
+  border-radius: 1.25em;
   opacity: 0.9;
   transition: all 250ms ease-out; }
   .post-summary:hover {
     border-color: #3e2040;
     opacity: 1; }
+  .post-summary:first-child {
+    margin-top: 1.325em; }
   @media only screen and (min-width: 684px) {
+    .post-summary {
+      margin: 0 1.5em 1.5em; } }
+  @media only screen and (min-width: 900px) {
     .post-summary {
       margin: 0 2em 2em; } }
 .post.comments {
   background-color: #06070a;
-  color: white; }
+  color: white;
+  min-height: auto; }
   .post.comments h2 {
     color: white; }
 
@@ -474,18 +517,23 @@ footer a {
   .post.comments {
     margin-bottom: 4rem; } }
 
-.taxonomy-term a::before {
-  content: "#";
-  font-size: 87.5%; }
+.taxonomy-term {
+  font-size: 75%; }
 
 .taxonomy-term a {
   color: #434b51;
   text-decoration: none;
   text-transform: uppercase;
-  font-weight: lighter; }
+  font-weight: lighter;
+  padding: 0.25em 0.5em;
+  border-radius: 0.25em;
+  transition: all 250ms; }
+  .taxonomy-term a:hover {
+    background-color: rgba(67, 75, 81, 0.2); }
 
-.taxonomy-term {
-  font-size: 75%; }
+.taxonomy-term a::before {
+  content: "#";
+  font-size: 87.5%; }
 
 .profile-pic {
   max-height: 240px;
@@ -493,14 +541,14 @@ footer a {
   padding: 3px;
   border-radius: 1em;
   background: #0a588f;
-  box-shadow: inset 0 0em 1em 1em rgba(6, 7, 10, 0.5); }
+  box-shadow: inset 0 0 1em 1em rgba(6, 7, 10, 0.5); }
 
 aside .list-inline .taxonomy-term {
   margin-right: 0; }
   aside .list-inline .taxonomy-term a {
-    color: #cdd8e0;
-    padding: 0.25em 0.5em;
-    border-radius: 0.25em; }
+    color: #cdd8e0; }
+    aside .list-inline .taxonomy-term a:hover {
+      background-color: rgba(205, 216, 224, 0.2); }
 
 pre,
 code,
