@@ -1,0 +1,17 @@
+{{ define "nav" -}}
+{{ partial "tags/cloud.html" . }}
+{{- end -}}
+
+{{- define "main" -}}
+<div class="taxonomy">
+  <h1 class="taxonomy-title">{{ .Title }}</h1>
+  <h4>Discussed in:</h4>
+  <dl>
+    {{ range .Data.Pages }}
+    <dt><a href="{{.RelPermalink}}">{{ .Title }}</a></dt>
+    <dd>{{ .Summary }}</dd>
+    {{ end }}
+  </dl>
+  {{ partial "tags/sources.html" . }}
+</div>
+{{- end }}

@@ -1,9 +1,9 @@
 <header>
   <div class="brand">
-    <a class="" href="{{ .Site.Home.RelPermalink }}">
+    <a title="{{ .Site.Params.Description }}" href="{{ .Site.Home.RelPermalink }}">
       <div class="logo"></div>
-      <h1 class="site-title">{{ $.Site.Title }}</h1>
-      <h2 class="site-tagline">{{ $.Site.Params.description }}</h2>
+      <h1 class="site-title">{{ .Site.Title }}</h1>
+      <h2 class="site-tagline" >{{ .Site.Params.Tagline }}</h2>
     </a>
   </div>
   <nav>

@@ -8,6 +8,7 @@ params:
   tagline: "सच्चिदानन्द"
   summaryLength: 50
   preserveTaxonomyNames: true
+  googleFontsURL: "https://fonts.googleapis.com/css?family=Lato:i:100,400,700|Aleo:100,400|Righteous|Inconsolata&amp;display=swap"
   colors:
     base: "#280664"
     purp: "#5d17d9"
@@ -22,7 +23,7 @@ blackfriday:
   plainIDAnchors: true
   hrefTargetBlank: true
 metaDataFormat: yaml
-enableRobotsTXT:
+enableRobotsTXT: true
 pygmentsCodeFences: true
 pygmentsCodefencesGuessSyntax: true
 pygmentsUseClasses: true
