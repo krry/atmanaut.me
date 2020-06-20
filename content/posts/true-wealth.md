@@ -10,7 +10,6 @@ title_main: Glimpses of True Wealth
 subtitle: ''
 title_lead: ''
 categories: []
-draft: true
 
 ---
 # True Wealth
