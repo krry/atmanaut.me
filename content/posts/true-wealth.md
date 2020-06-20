@@ -6,14 +6,12 @@ tags:
 - poem
 - breathplay
 - ananda
-title_main: Glimpses of True Wealth
+title_main: ''
 subtitle: ''
 title_lead: ''
 categories: []
 
 ---
-# True Wealth
-
 Inhale  
 A long, still morning  
 Pleasant dog breath  
