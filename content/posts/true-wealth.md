@@ -19,7 +19,7 @@ A long, still morning
 Pleasant dog breath  
 A cookie-cutter-perfect spoon  
 The occasional pause-button orgasm  
-Smiling while pooping / a bidet  
+Smiling while pooping<!--more> / a bidet  
 The strength to lift, hold, carry  
 Comfortable seats — Ānandasana  
 A garden that vomits vege  
