@@ -12,30 +12,37 @@ title_lead: ''
 categories: []
 
 ---
-Inhale  
-A long, still morning  
-Pleasant dog breath  
-A cookie-cutter-perfect spoon  
-The occasional pause-button orgasm
-<!--more-->
-Smiling while pooping, a bidet  
-The strength to lift, hold, carry  
-Comfortable seats — Ānandasana  
-A garden that vomits vege  
-A cookie-batter-covered spoon  
-Neighbors who meet your smize  
-Flip-flops that fit like gloves  
-A high hammock in the setting sun  
-A brush-tip archival ink pen  
-A span of spontaneous solitude  
-Peeling off the scab  
-Rolling in dirt, diving into waves  
-Walking all day, eating by campfire  
-Slow conscious blinking  
-Glassy-mountain-lake mind  
-Cuddles before slumber  
-Playful dreamy sleep  
-The cool side of the pillow  
-None of this, but this breath  
-Exhale  
-Repeat
+# True Wealth
+
+inhale\
+a long, still morning\
+pleasant dog breath\
+a cookie-cutter-perfect spoon\
+the occasional pause-button tiny death<!--more-->
+smiling while pooping / a bidet\
+the strength to lift, hold, carry\
+finding a comfortable seat\
+ānandasana
+
+a garden that vomits vege\
+a cookie-batter-covered spoon\
+neighbors who meet your smize\
+flip-flops that fit like gloves
+
+a high hammock in the setting sun\
+a brush-tip archival ink pen\
+a span of spontaneous solitude
+
+peeling off the scab\
+rolling in dirt, diving into waves\
+walking all day, eating by campfire\
+conscious, artisanal blinking\
+glassy-mountain-lake mind
+
+cuddles before slumber\
+playful dreams\
+the cool side of the pillow
+
+none of this, but this breath\
+exhale\
+repeat
