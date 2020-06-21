@@ -4,6 +4,7 @@ date: 2019-02-02T08:22:22.000+00:00
 tags:
 - core
 - devsign
+draft: true
 
 ---
 # Atmanaut
@@ -122,4 +123,4 @@ For internal links, use the standard markdown link syntax or a reference link.
 [reflink]: /code/README/
 ```
 
-## 
+##
