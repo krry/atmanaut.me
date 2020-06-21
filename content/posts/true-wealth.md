@@ -35,7 +35,7 @@ peeling off the scab\
 rolling in dirt, diving into waves\
 walking all day, eating by campfire\
 conscious, artisanal blinking\
-glassy-mountain-lake mind
+glassy mountain lake mind
 
 cuddles before slumber\
 playful dreams\
