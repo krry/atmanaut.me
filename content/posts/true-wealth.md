@@ -12,8 +12,6 @@ title_lead: ''
 categories: []
 
 ---
-# True Wealth
-
 inhale\
 a long, still morning\
 pleasant dog breath\
