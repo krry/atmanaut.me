@@ -1,6 +1,6 @@
 ---
 date: 2020-06-20T16:29:23-07:00
-title: True Wealth
+title: Wellth
 author: Kerrbear
 tags:
 - poem
@@ -12,46 +12,45 @@ title_lead: ''
 categories: []
 
 ---
-dreaming  
-the cool side of the pillow
+dreaming of awakening as an adult human animal  
+in need of the cool side of the pillow
 
-inhaling  
-a long, still morning  
-pleasant dog breath
+inhaling a long, still morning  
+pleasant dog breath  
+boundless potential
 
-feeling  
-a cookie-cutter-perfect spoon nestling  
-the occasional pause-button tiny death<!--more-->  
-every cell of my body vibrating at once  
-raw, unbridled rage/joy/misery/ecstasy  
-connected
+vibrating every cell of our body  
+two cookie-cutter-perfect spoons  
+paused in bliss, tiny timeless death  
+no me, just us, no breath<!--more-->
 
-finding  
-ānandasana  
-a comfortable seat  
-the strength to lift, hold, carry  
-a bidet  
+finding the strength to lift, hold, carry, let go, be still  
+ānandasana, a comfortable seat, a bidet  
 smiling while pooping
 
-sharing  
-a garden that vomits vege  
-a table  
-a cookie-batter-covered spoon  
-neighbors who meet your size  
-  
-enjoying  
-flip-flops that fit like gloves  
-a brush-tip archival ink pen  
-a high hammock in the setting sun  
-a span of spontaneous solitude
+sharing a garden that vomits vege  
+tables with neighbors  
+who meet our weary smize  
+sharing a cookie-batter-covered spoon
 
-daring to care  
+slipping into flip-flops that fit like gloves  
+slipping into a high-strung hammock in the setting sun  
+spending an hour with a brush-tip archival ink pen and a pad  
+spending a span of spontaneous solitude on the universe
+
 peeling off the scab  
-rolling in the dirt, diving into waves  
-walking all day, eating by campfire  
+daring to care  
+planting a new friend  
+watering a lover  
+digging in the, rolling in the, burying yourself in the  
+dirt  
+diving headlong into the waves  
+walking day-long into the woods  
+dining by campfirelight
+
 conscious, artisanal blinking  
-  
 nothing  
-glassy mountain lake mind  
+glassy mountain lake mind
+
 exhaling  
 repeating
