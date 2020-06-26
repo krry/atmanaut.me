@@ -13,11 +13,11 @@ title_lead: ''
 categories: []
 
 ---
-Lazy day, lying awake  
+Lazily, lying awake  
 breathing to the bing bong breeze  
 poofing on the copper paddle  
 dangling from what hangs within  
-banging against liberty bell pipes.
+banging against liberty bell pipes.<!-- more -->
 
 Inhale easy up to four, then  
 blow out slower down to eight  
