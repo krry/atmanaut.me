@@ -42,8 +42,6 @@ fields:
   label: Categories
   description: optional, will develop if helpful
 pages:
-- content/posts/a-call-to-unism.md
-- content/posts/a-call-to-unism.md
 - content/posts/create-a-preact-on-parcel-bundler-web-app-dev-build.md
 - content/posts/create-a-preact-on-parcel-bundler-web-app-dev-build.md
 - content/posts/forest-an-organic-social-network-design.md
@@ -53,6 +51,8 @@ pages:
 - content/posts/sacred-caring-doughnut-economics.md
 - content/posts/sacred-caring-doughnut-economics.md
 - content/posts/true-wealth.md
+- content/posts/true-wealth.md
+- content/posts/wind-chiming.md
 - content/posts/wind-chiming.md
 - content/posts/write-it-once-publish-it-everywhere.md
 - content/posts/write-it-once-publish-it-everywhere.md

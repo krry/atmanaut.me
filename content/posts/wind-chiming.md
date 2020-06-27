@@ -1,5 +1,5 @@
 ---
-date: 2020-06-26T14:53:13-07:00
+date: 2020-06-26T14:53:13.000-07:00
 title: Wind Chiming
 author: Kerrbear
 tags:
@@ -50,4 +50,4 @@ Then I swim into your eyes
 breaking open for sunrise,  
 into ears hearing me chiming.
 
-{{< youtube FJxIkRizwmo >}}
+{{< youtube FJxIkRizwmo>}}
