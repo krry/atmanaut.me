@@ -17,7 +17,7 @@ Lying lazily awake
 breathing to the bing bong breeze  
 poofing on the copper paddle  
 dangling from what hangs within  
-banging against liberty bell pipes.<!-- more -->
+banging against liberty bell pipes.<!--more-->
 
 Inhale easy up to four, then  
 blow out slower down to eight  
