@@ -13,7 +13,7 @@ title_lead: ''
 categories: []
 
 ---
-Lazily, lying awake  
+Lying lazily awake  
 breathing to the bing bong breeze  
 poofing on the copper paddle  
 dangling from what hangs within  
