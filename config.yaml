@@ -9,7 +9,7 @@ params:
   tagsLimit: 27
   summaryLength: 50
   preserveTaxonomyNames: true
-  googleFontsURL: "https://fonts.googleapis.com/css?family=Lato:i:100,400,700|Aleo:100,400|Righteous|Inconsolata&amp;display=swap"
+  googleFontsURL: "https://fonts.googleapis.com/css?family=Lato:i:100,400,700|Aleo:100,400|Righteous|Inconsolata&display=swap"
   colors:
     base: "#280664"
     purp: "#5d17d9"
