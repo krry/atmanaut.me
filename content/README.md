@@ -1,4 +1,5 @@
 ---
+
 title: README
 date: 2019-02-02T08:22:22.000+00:00
 tags:
@@ -19,11 +20,12 @@ Forestry.io CMS, and auto-deployable on now.sh.
 ## TODO
 
 * \[ \] load fonts with app, not from Google Fonts
+    * \[x\] audit fonts and weights: serif light normal sans light italic
+        normal cursive normal
 * \[ \] [retina](https://github.com/simonsmith/postcss-at2x) and responsive images with @media queries
-* \[ \] do a layout with [yoga.layout](https://yogalayout.com/)
-* \[ \] scour hugo docs and try out features
-  * \[x\] rss feed
 <!--more-->
+* \[x\] scour hugo docs and try out features
+  * \[x\] rss feed
 * \[x\] add template for categories pages
 * \[x\] use custom 404 page
 * \[x\] refresh color palette: chakras, soulstones
