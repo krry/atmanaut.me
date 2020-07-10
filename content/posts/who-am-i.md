@@ -23,7 +23,8 @@ citizen-neighbor-friend
 entrepreneur-flâneur-amateur  
 experiencer-experiencing-experience  
 producer-developer-designer  
-recovering intellectual property attorney <!--more--> owlionightingalehorsebearmothbeemutt  
+recovering intellectual property attorney  
+owlionightingalehorsebearmothbeemutt<!--more-->   
 budding gardener-chef-brewer  
 storybook writer  
 poet-as-pupa  
