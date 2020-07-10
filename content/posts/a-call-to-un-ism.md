@@ -1,5 +1,5 @@
 ---
-date: 2020-06-09T13:26:35-07:00
+date: 2020-06-09T13:26:35.000-07:00
 title: A Call to Un-ism
 author: Kerrbear
 tags: []
@@ -9,8 +9,6 @@ title_lead: Let's remember together who we are
 categories: []
 
 ---
-***
-
 Dear Persons,
 
 This rising crisis is the shock we require to reach the next octave. Have courage. Keep calm and listen with your heart.
