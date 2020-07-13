@@ -4,8 +4,8 @@
     "serve": "hugo server -wD --baseUrl http://${IP} --bind ${IP}",
     "clean": "rm -rf ./public",
     "build": "npm run clean && hugo",
-    "deploy": "npm run build && now",
-    "release": "npm run build && now --prod",
+    "deploy": "npm run build && vercel",
+    "release": "npm run build && vercel --prod",
     "preview": "hugo -EFDb $DEPLOY_URL -d public"
   }
 }
