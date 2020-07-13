@@ -9,9 +9,10 @@
 /* SIZES */
 /* COLOR PALETTE */
 /* FONTS
- * base: Lato, sans-serif
+ * base: Open Sans, sans-serif
  * text: Aleo, serif
- * title: Righteous, sans-serif
+ * title: Righteous, cursive
+ * code: Inconsolata, monospace
  * */
 /* IMGS */
 /* MEDIA QUERIES */
@@ -24,7 +25,7 @@
 @import-normalize;
 html {
   box-sizing: border-box;
-  font-family: "Lato", system-ui; }
+  font-family: "Open Sans", system-ui, sans-serif; }
 
 body {
   color: #191d1f;
@@ -56,7 +57,7 @@ a {
 
 h1,
 h2 {
-  font-family: "Righteous", sans-serif;
+  font-family: "Righteous", cursive;
   color: #0e2f49; }
 
 p {
@@ -110,6 +111,10 @@ figcaption {
   font-size: 75%;
   font-weight: 600;
   text-align: center; }
+
+:focus {
+  outline-color: #0773c0;
+  outline-style: dashed; }
 
 body {
   background: transparent; }
@@ -197,8 +202,22 @@ body {
     padding-left: 1.5rem; } }
 
 a {
-  color: #0773c0;
-  outline: #0773c0; }
+  color: #0773c0; }
+  a:focus {
+    outline-color: #0773c0;
+    outline-style: dashed; }
+  a:link {
+    color: #0773c0; }
+    a:link:hover {
+      color: #3386c1; }
+  a:visited {
+    color: #76317c; }
+    a:visited:hover {
+      color: #9b53a2; }
+  a:active {
+    color: #de4f35; }
+    a:active:hover {
+      color: #cd5b81; }
 
 .inverse a {
   text-decoration: none;
@@ -209,7 +228,7 @@ a {
     opacity: 1; }
 
 .list-reset {
-  font-family: "Lato", system-ui;
+  font-family: "Open Sans", system-ui, sans-serif;
   padding: 0;
   margin: 0;
   list-style: none; }
@@ -231,7 +250,7 @@ ul li::before {
   margin: 0; }
 
 dt {
-  font-family: "Lato", system-ui;
+  font-family: "Open Sans", system-ui, sans-serif;
   font-weight: bolder;
   margin-bottom: 0.5em; }
 
@@ -239,7 +258,7 @@ dd + dt {
   margin-top: 1em; }
 
 .list-sources {
-  font-family: "Lato", system-ui; }
+  font-family: "Open Sans", system-ui, sans-serif; }
 
 table {
   width: 100%;
@@ -446,7 +465,7 @@ footer a {
       padding: 3em; } }
   .post h2,
   .taxonomy h2 {
-    font-family: "Righteous", sans-serif; }
+    font-family: "Righteous", cursive; }
   .post p,
   .taxonomy p {
     line-height: 1.375;
@@ -475,7 +494,7 @@ footer a {
     color: #434b51; }
   .post h4.post-lead,
   .taxonomy h4.post-lead {
-    font-family: "Lato", system-ui;
+    font-family: "Open Sans", system-ui, sans-serif;
     font-style: italic;
     font-weight: lighter; }
   .post .post-date,
@@ -491,7 +510,7 @@ footer a {
   background-color: #cdd8e0;
   border-radius: 1.25em;
   opacity: 0.9;
-  transition: all 250ms ease-out; }
+  transition: all 100ms ease-out; }
   .post-summary:hover {
     border-color: #3e2040;
     opacity: 1; }
@@ -502,10 +521,8 @@ footer a {
   @media only screen and (min-width: 684px) {
     .post-summary {
       margin: 0 1.5em 1.5em; }
-      .post-summary:hover:nth-of-type(2n-1) {
-        transform: translateX(1rem); }
-      .post-summary:hover:nth-of-type(2n) {
-        transform: translateX(-1rem); } }
+      .post-summary:hover {
+        transform: translate3d(-0.25rem, 0, 0) scale(1.02); } }
   @media only screen and (min-width: 900px) {
     .post-summary {
       margin: 0 2em 2em; } }
@@ -527,6 +544,7 @@ footer a {
   color: #434b51;
   text-decoration: none;
   text-transform: uppercase;
+  font-family: "Open Sans", system-ui, sans-serif;
   font-weight: lighter;
   padding: 0.25em 0.5em;
   border-radius: 0.25em;
