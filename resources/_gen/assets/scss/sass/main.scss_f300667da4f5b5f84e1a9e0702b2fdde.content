@@ -210,14 +210,14 @@ a {
     color: #0773c0; }
     a:link:hover {
       color: #3386c1; }
-  a:visited {
-    color: #76317c; }
-    a:visited:hover {
-      color: #9b53a2; }
-  a:active {
-    color: #de4f35; }
-    a:active:hover {
-      color: #cd5b81; }
+    a:link:visited {
+      color: #76317c; }
+      a:link:visited:hover {
+        color: #9b53a2; }
+    a:link:active {
+      color: #de4f35; }
+      a:link:active:hover {
+        color: #cd5b81; }
 
 .inverse a {
   text-decoration: none;
