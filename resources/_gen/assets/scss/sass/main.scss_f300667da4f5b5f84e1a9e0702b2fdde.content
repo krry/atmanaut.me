@@ -52,9 +52,6 @@ body {
 *::after {
   box-sizing: inherit; }
 
-a {
-  color: #0773c0; }
-
 h1,
 h2 {
   font-family: "Righteous", cursive;
@@ -88,20 +85,6 @@ blockquote cite {
   text-align: right;
   display: block;
   font-style: normal; }
-
-.post p,
-.post span,
-.post ul,
-.post ol,
-.post dl,
-.post blockquote,
-.post-summary p,
-.post-summary span,
-.post-summary ul,
-.post-summary ol,
-.post-summary dl,
-.post-summary blockquote {
-  font-family: "Aleo", serif; }
 
 hr {
   width: 87%;
@@ -414,8 +397,22 @@ footer a {
   transform: scaleX(-1);
   filter: FlipH; }
 
+.post p,
+.post blockquote,
+.post-summary p,
+.post-summary blockquote {
+  font-family: "Aleo", serif; }
+
 .byline {
   font-size: 0.75em; }
+
+a.read-more,
+a.read-more:hover
+a.read-more:visited,
+a.read-more:visited:hover,
+a.read-more:active,
+a.read-more:active:hover {
+  color: #191d1f; }
 
 .read-more {
   color: inherit;
