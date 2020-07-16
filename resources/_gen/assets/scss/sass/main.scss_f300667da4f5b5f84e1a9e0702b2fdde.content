@@ -11,7 +11,7 @@
 /* FONTS
  * base: Open Sans, sans-serif
  * text: Aleo, serif
- * title: Righteous, cursive
+ * title: Righteous, Comic Sans MS
  * code: Inconsolata, monospace
  * */
 /* IMGS */
@@ -54,7 +54,7 @@ body {
 
 h1,
 h2 {
-  font-family: "Righteous", cursive;
+  font-family: "Righteous", "Futura", "Comic Sans MS", cursive;
   color: #0e2f49; }
 
 p {
@@ -144,14 +144,10 @@ body {
   width: 100%;
   overflow-y: scroll; }
 
-.inverse {
-  color: #cdd8e0;
-  background-color: #06070a;
-  background-color: transparent; }
-
 .sidebar {
-  text-align: center;
   background-color: rgba(27, 31, 34, 0.5);
+  color: #cdd8e0;
+  text-align: center;
   padding: 2rem 1rem; }
 
 .sticky {
@@ -184,30 +180,30 @@ body {
     padding-right: 1.5rem;
     padding-left: 1.5rem; } }
 
-a {
+a:link {
   color: #0773c0; }
-  a:focus {
-    outline-color: #0773c0;
-    outline-style: dashed; }
-  a:link {
-    color: #0773c0; }
-    a:link:hover {
-      color: #3386c1; }
-    a:link:visited {
-      color: #76317c; }
-      a:link:visited:hover {
-        color: #9b53a2; }
-    a:link:active {
-      color: #de4f35; }
-      a:link:active:hover {
-        color: #cd5b81; }
 
-.inverse a {
+a:visited {
+  color: #76317c; }
+
+a:link:hover {
+  color: #3386c1; }
+
+a:visited:hover {
+  color: #9b53a2; }
+
+a:link:active {
+  color: #de4f35; }
+
+a:visited:active {
+  color: #cd5b81; }
+
+.sidebar a {
   text-decoration: none;
   font-weight: bolder;
   opacity: 0.8;
   transition: all 250ms ease; }
-  .inverse a:hover {
+  .sidebar a:hover {
     opacity: 1; }
 
 .list-reset {
@@ -401,24 +397,21 @@ footer a {
 .post blockquote,
 .post-summary p,
 .post-summary blockquote {
-  font-family: "Aleo", serif; }
+  font-family: "Aleo", "Georgia", serif; }
 
 .byline {
   font-size: 0.75em; }
 
 a.read-more,
-a.read-more:link:hover
-a.read-more:link:visited,
-a.read-more:link:visited:hover,
-a.read-more:link:active,
-a.read-more:link:active:hover {
-  color: #191d1f; }
-
-.read-more {
+a.read-more:visited,
+a.read-more:hover
+a.read-more:active {
+  color: #191d1f;
   text-decoration: none;
   display: block; }
-  .read-more:visited {
-    opacity: 0.8; }
+
+a.read-more:visited {
+  opacity: 0.8; }
 
 .post-summary .list-taxonomies {
   text-align: center; }
@@ -461,7 +454,7 @@ a.read-more:link:active:hover {
       padding: 3em; } }
   .post h2,
   .taxonomy h2 {
-    font-family: "Righteous", cursive; }
+    font-family: "Righteous", "Futura", "Comic Sans MS", cursive; }
   .post p,
   .taxonomy p {
     line-height: 1.375;
@@ -558,14 +551,22 @@ a.read-more:link:active:hover {
   padding: 3px;
   border-radius: 1em;
   background: #0a588f;
-  box-shadow: inset 0 0 1em 1em rgba(6, 7, 10, 0.5); }
+  box-shadow: inset 0 0 1em 0.25em rgba(6, 7, 10, 0.5); }
 
-aside .list-inline .taxonomy-term {
+.sidebar .list-inline .taxonomy-term {
   margin-right: 0; }
-  aside .list-inline .taxonomy-term a {
-    color: #cdd8e0; }
-    aside .list-inline .taxonomy-term a:hover {
-      background-color: rgba(205, 216, 224, 0.2); }
+
+.sidebar a:link {
+  color: #cdd8e0; }
+
+.sidebar a:visited {
+  background-color: #ccd7df; }
+
+.sidebar a:hover {
+  background-color: rgba(205, 216, 224, 0.2); }
+
+.sidebar a:active {
+  background-color: #cdd8e0; }
 
 pre,
 code,

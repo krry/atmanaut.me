@@ -8,8 +8,8 @@
 {{- else -}}
 <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
 {{- end }}
-{{ partial "sass.html" . -}}
-{{- partial "head_fonts.html" . -}}
+{{- partial "fonts.html" . -}}
+{{- partial "sass.html" . -}}
 {{- $custom := resources.Get "js/main.js" -}}
 <script type="text/javascript" src="{{ $custom.Permalink }}" media="screen"></script>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
