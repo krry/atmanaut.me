@@ -15,10 +15,9 @@ draft: true
 
 ---
 > It may be better to live under robber barons than under omnipotent moral busybodies. The robber baron’s cruelty may sometimes sleep, his cupidity may at some point be satiated; but those who torment us for our own good will torment us without end for they do so with the approval of their own conscience. They may be more likely to go to Heaven yet at the same time likelier to make a Hell of earth.
+> <cite>C.S. Lewis</cite>
 
 I hear echoes of a childhood dilemma, recalling my early struggles against Catholic authority. They seemed to get off on stamping enjoyable experiences as sins. The things I wanted to do were wrong, and what they demanded was right I didn't like. I could find no other rationale but paradoxical sadism.
-
-Sun, Sep 27, 2020, 06:57
 
 I see now they were scared, ruled by fear of damnation, fear of rejection, fear of inadequacy, of isolation. These are maladies of many if not all creatures who imagine themselves as stopping at their skin, separate from the world.
 
