@@ -30,4 +30,4 @@ enableRobotsTXT: true
 pygmentsCodeFences: true
 pygmentsCodefencesGuessSyntax: true
 pygmentsUseClasses: true
-googleAnalytics: UA-170088360-1
+# googleAnalytics: UA-170088360-1
