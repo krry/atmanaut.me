@@ -145,6 +145,9 @@ body {
   overflow: hidden;
   width: 100%; }
 
+main {
+  overflow: hidden; }
+
 .col {
   height: 100%;
   overflow-y: scroll;
@@ -653,17 +656,24 @@ p > code {
   max-width: 80ch;
   padding: 1rem; }
 
-.search {
+.fast-search,
+.search-hint {
   display: inline-block;
   position: absolute;
   right: 0;
   width: 100%;
   z-index: 9; }
-  .search.hint {
-    color: #6a7d8a;
-    cursor: context-menu;
-    text-align: center;
-    top: 1rem; }
+
+.search-hint {
+  color: #cdd8e0;
+  cursor: context-menu;
+  font-size: 0.75rem;
+  opacity: 0.625;
+  text-align: center;
+  top: 1rem;
+  transition: opacity 150ms; }
+  .search-hint:hover {
+    opacity: 1; }
 
 .fast-search {
   max-height: 100vh;
@@ -711,6 +721,7 @@ p > code {
   display: inline-block;
   list-style: none;
   margin: 0;
+  max-height: 100vh;
   overflow-y: auto;
   padding: 0;
   text-align: left;

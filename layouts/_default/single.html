@@ -34,7 +34,8 @@
   {{ partial "tags.html" . }}
 </div>
 <div id="comments" class="post comments">
-  <h2 class="subtitle">Comment</h3>
+  <h2 class="subtitle">Comment</h2>
+  {{- if ne hugo.Environment "development" -}}
   <script src="https://utteranc.es/client.js"
           repo="krry/atmanaut"
           issue-term="title"
@@ -43,5 +44,6 @@
           crossorigin="anonymous"
           async>
   </script>
+  {{- end -}}
 </div>
 {{- end }}
