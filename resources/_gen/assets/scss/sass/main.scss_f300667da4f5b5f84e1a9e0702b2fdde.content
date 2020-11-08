@@ -100,6 +100,10 @@ figcaption {
   outline-style: dashed;
   outline-width: 1px; }
 
+time {
+  color: #434b51;
+  font-size: 0.75rem; }
+
 body {
   background: transparent; }
 
@@ -318,6 +322,7 @@ header {
   text-align: center; }
   header .brand {
     cursor: default;
+    outline: none;
     padding: 1em 0; }
   header .logo {
     background-position: center center;
@@ -418,17 +423,19 @@ footer a {
   color: #3386c1; }
 
 .read-more p,
-.read-more time,
 .read-more h3,
 .read-more ul,
 .read-more li,
 .read-more:hover p,
-.read-more:hover time,
 .read-more:hover h3,
 .read-more:hover ul,
 .read-more:hover li {
   color: #191d1f;
   text-decoration: none; }
+
+.read-more time,
+.read-more:hover time {
+  color: #434b51; }
 
 .read-more ul,
 .read-more:hover ul {
@@ -501,12 +508,16 @@ footer a {
   .post .post-subtitle,
   .taxonomy .post-lead,
   .taxonomy .post-subtitle {
-    color: #434b51; }
+    color: #434b51;
+    font-weight: 400; }
   .post .post-lead,
   .taxonomy .post-lead {
     font-family: "Open Sans", system-ui, sans-serif;
-    font-style: italic;
-    font-weight: lighter; }
+    font-size: 0.875em;
+    font-style: italic; }
+  .post .post-subtitle,
+  .taxonomy .post-subtitle {
+    font-size: 1rem; }
   .post .post-date,
   .taxonomy .post-date {
     color: #434b51;
