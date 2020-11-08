@@ -1,0 +1,9 @@
+<div id="fastSearch" class="fast-search search">
+  <input id="searchInput" tabindex="0" class="search-input">
+  <ul id="searchResults" class="search-results">
+  </ul>
+</div>
+{{- $fuse := resources.Get "js/fuse.js" -}}
+{{- $fastsearch := resources.Get "js/fastsearch.js" -}}
+<script type="text/javascript" src="{{ $fuse.Permalink }}" media="screen"></script>
+<script type="text/javascript" src="{{ $fastsearch.Permalink }}" media="screen"></script>

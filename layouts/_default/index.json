@@ -1,0 +1,6 @@
+{{- $dateFormat := .Date.Format "January 2, 2006" -}}
+{{- $.Scratch.Add "index" slice -}}
+{{- range .Site.RegularPages -}}
+    {{- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "contents" .Plain "permalink" .Permalink "date" $dateFormat "subtitle" .Params.subtitle "lead" .Params.title_lead "desc" .Description) -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}
