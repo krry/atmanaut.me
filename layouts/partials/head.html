@@ -8,7 +8,7 @@
 {{- else -}}
 <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
 {{- end }}
-{{- partial "fonts.html" . -}}
+{{- partial "head_fonts.html" . -}}
 {{- partial "sass.html" . -}}
 {{- $custom := resources.Get "js/main.js" -}}
 <script type="text/javascript" src="{{ $custom.Permalink }}" media="screen"></script>
