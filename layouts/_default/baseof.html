@@ -7,8 +7,6 @@
     {{- block "pageStyles" . }}{{- end }}
   </head>
   <body class="dom-loading">
-    {{ partial "menu.html" . }}
-    {{ partial "search.html" . }}
     <div class="grid">
       <div class="col sticky">
         <main id="content" class="content" aria-role="main">
@@ -25,7 +23,8 @@
         </aside>
       </div>
     </div>
-    <!-- {{ template "_internal/google_analytics_async.html" . }} -->
+    {{ partial "menu.html" . }}
+    {{ partial "search.html" . }}
     {{- block "pageScripts" . }}{{- end }}
   </body>
 </html>

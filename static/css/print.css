@@ -1,0 +1,68 @@
+@media print {
+  @page,
+    html, body {
+    size: A4;
+  }
+
+  body {
+    background: white !important;
+    color: black !important;
+    font-family: 'Aleo';
+    font-size: 12pt;
+    line-height: 1.375;
+  }
+  
+  @page {
+    border: 1px solid black;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+  }
+
+  .logo {
+    background-image: url('../img/atmanaut-mono-white.png');
+  }
+
+  #menu, #menu_trigger, #comments, #fastSearch {
+    display: none;
+  }
+
+  #content {
+    width: 100%; 
+  }
+  
+  h1, h2, h3, h4, h5 {
+    page-break-after: avoid;
+  }
+
+  /* Displaying link color and link behaviour */
+  a:link, a:visited, a {
+    background: transparent;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  a, blockquote {
+    page-break-inside:avoid
+  }
+  
+  a[href^=http]:after {
+    content:" (" attr(href) ") ";
+    color: black;
+    font-weight: normal;
+    text-decoration: none;
+  }
+  
+  $a:after > img {
+    content: "";
+  }
+  
+  article a[href^="#"]:after {
+    content: "";
+  }
+  
+  a:not(:local-link):after {
+    content:" (" attr(href) ") ";
+  }
+}

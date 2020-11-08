@@ -5,18 +5,18 @@
 {{- define "main" -}}
 <div class="post">
   <div class="scrolliner"></div>
-  {{- with .Params.title_lead -}}
-  <h4 class="post-lead">{{ . | markdownify }}</h4>
-  {{- end -}}
   <h1 class="post-title">
     {{- with .Params.title_main -}}
-      {{- . | markdownify -}}
+    {{- . | markdownify -}}
     {{- else -}}
-      {{ title .Title }}
+    {{ title .Title }}
     {{- end -}}
   </h1>
   {{- with .Params.subtitle -}}
-  <h3 class="post-subtitle">{{.}}</h3>
+  <h2 class="post-subtitle">{{.}}</h2>
+  {{- end -}}
+  {{- with .Params.title_lead -}}
+  <h3 class="post-lead">{{ . | markdownify }}</h3>
   {{- end -}}
   <div class="byline">
     {{ $author := .Params.author | default "Atmanaut" }}
@@ -33,7 +33,7 @@
   {{ .Content }}
   {{ partial "tags.html" . }}
 </div>
-<div class="post comments">
+<div id="comments" class="post comments">
   <h2 class="subtitle">Comment</h3>
   <script src="https://utteranc.es/client.js"
           repo="krry/atmanaut"
