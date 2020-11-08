@@ -15,7 +15,7 @@ params:
     purp: "#5d17d9"
     blue: "#1695c5"
 outputs:
-  home: ["json", "html", "rss"]
+  home: ["html", "json", "rss"]
 taxonomies:
   author: "authors"
   tag: "tags"
