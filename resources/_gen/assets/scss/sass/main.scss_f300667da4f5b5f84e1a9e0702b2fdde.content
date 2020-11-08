@@ -661,6 +661,7 @@ p > code {
   z-index: 9; }
   .search.hint {
     color: #6a7d8a;
+    cursor: context-menu;
     text-align: center;
     top: 1rem; }
 
