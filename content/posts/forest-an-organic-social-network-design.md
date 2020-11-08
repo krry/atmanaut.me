@@ -50,7 +50,7 @@ So then, our fresh, organic social network—let's call it the **_Forest_**—wi
 
 ## A Walk in the Woods
 
-Everyone in the **_Forest_** has relationships with all the other "trees". These relationships can be sorted into a hierarchy according to quality and quantity. Thanks to the finite capabilities of our ~~meatbags~~ ~~brains~~ embodiments, quality and quantity of friendships are inversely correlated. The closer our friends are, the less of them there tend to be, but the more trust we tend to place in them. No hard science here, just a bunch of goo.
+Everyone in the **_Forest_** has relationships with all the other "trees". These relationships can be sorted into a hierarchy according to quality and quantity. Thanks to the finite capabilities of our ~~meatbags~~ ~~brains~~ gooey prickles/prickly goo, quality and quantity of friendships are inversely correlated. The closer our friends are, the less of them there tend to be, but the more trust we tend to place in them. No hard science here, just a bunch of goo.
 
 ### Let's imagine ourselves as nodes at the center of six concentric Rings.
 
