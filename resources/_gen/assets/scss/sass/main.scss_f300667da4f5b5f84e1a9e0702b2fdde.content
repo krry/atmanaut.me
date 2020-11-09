@@ -667,9 +667,6 @@ p > code {
 .search-hint.btn {
   transition: all 500ms; }
 
-::placeholder {
-  color: #6a7d8a; }
-
 .search-input,
 .search-hint.btn {
   border-style: solid;

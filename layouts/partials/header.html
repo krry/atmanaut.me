@@ -1,15 +1,15 @@
 <header>
   <div class="brand">
-    {{- if .Page.IsHome -}}
-    <a title="{{ .Site.Params.Description }}" href="#" class="home-link">
-    {{- else -}}
-    <a title="{{ .Site.Params.Description }}" href="{{ .Site.Home.Permalink }}" class="home-link">
-    {{- end -}}
     <div class="logo" id="bloob">
       <svg class="bloob">
         <use xlink:href="#icon-bloob" href="#icon-bloob"></use>
       </svg>
     </div>
+    {{- if .Page.IsHome -}}
+    <a title="{{ .Site.Params.Description }}" href="#" class="home-link">
+    {{- else -}}
+    <a title="{{ .Site.Params.Description }}" href="{{ .Site.Home.Permalink }}" class="home-link">
+    {{- end -}}
      <h1 class="site-title">{{ .Site.Title }}</h1>
       <h2 class="site-tagline" >{{ .Site.Params.Tagline }}</h2>
     </a>
