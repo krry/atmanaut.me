@@ -10,8 +10,6 @@
 {{- end }}
 {{- partial "head_fonts.html" . -}}
 {{- partial "sass.html" . -}}
-{{- $custom := resources.Get "js/main.js" -}}
-<script type="text/javascript" src="{{ $custom.Permalink }}" media="screen"></script>
 <link rel="shortcut icon" href="/icons/favicon.ico" type="image/x-icon">
 <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">

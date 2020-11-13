@@ -27,5 +27,7 @@
     {{ partial "menu.html" . }}
     {{ partial "sprites.html" . }}
     {{- block "pageScripts" . }}{{- end }}
+    {{- $custom := resources.Get "js/main.js" -}}
+    <script type="text/javascript" src="{{ $custom.Permalink }}" media="screen"></script>
   </body>
 </html>

@@ -1,17 +1,33 @@
 {
-  "scripts": {
-    "start": "hugo server -wD",
-    "serve": "hugo server -wD --baseUrl http://${IP} --bind ${IP}",
-    "clean": "rm -rf ./public",
-    "build": "npm run clean && hugo",
-    "deploy": "npm run build && vercel",
-    "release": "npm run build && vercel --prod",
-    "preview": "hugo -EFDb $DEPLOY_URL -d public"
+ "comments": {
+  "dependencies": {
+   "fuse.js": "project"
   },
   "devDependencies": {
-    "prettier": "2.1.2"
-  },
-  "dependencies": {
-    "fuse.js": "^6.4.3"
+   "eslint": "project",
+   "eslint-config-airbnb": "project",
+   "eslint-config-prettier": "project",
+   "eslint-plugin-prettier": "project",
+   "prettier": "project"
   }
+ },
+ "dependencies": {
+  "fuse.js": "^6.4.3"
+ },
+ "devDependencies": {
+  "eslint": "^7.13.0",
+  "eslint-config-airbnb": "^18.2.1",
+  "eslint-config-prettier": "^6.15.0",
+  "eslint-plugin-prettier": "^3.1.4",
+  "prettier": "2.1.2"
+ },
+ "scripts": {
+  "build": "npm run clean \u0026\u0026 hugo",
+  "clean": "rm -rf ./public",
+  "deploy": "npm run build \u0026\u0026 vercel",
+  "preview": "hugo -EFDb $DEPLOY_URL -d public",
+  "release": "npm run build \u0026\u0026 vercel --prod",
+  "serve": "hugo server -wD --baseUrl //${IP} --bind ${IP} --port 7070",
+  "start": "hugo server -wD"
+ }
 }
