@@ -4,7 +4,7 @@ title: A Call to Un-ism
 author: Kerrbear
 tags: []
 title_main: Know Thyself as an Un-ist
-subtitle: and Let the Struggle of Isolation Fall Away
+title_sub: and Let the Struggle of Isolation Fall Away
 title_lead: Let's remember together who we are
 categories: []
 

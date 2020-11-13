@@ -30,8 +30,8 @@ fields:
   label: Main title
   description: moot unless sub and lead
 - type: text
+  name: title_sub
   label: Subtitle
-  name: subtitle
   description: or how I learned to stop worrying and love the bomb
 - type: text
   name: title_lead

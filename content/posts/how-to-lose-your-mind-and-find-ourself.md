@@ -7,7 +7,7 @@ tags:
 - hermetica
 - foam well
 title_main: Mindlessness Is Next to God-be-ness
-subtitle: or How to Lose Your Mind and Find Ourself
+title_sub: or How to Lose Your Mind and Find Ourself
 title_lead: We are the space within the bubble, the water in the drop
 categories: []
 

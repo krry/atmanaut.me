@@ -2,7 +2,7 @@
 author: "Kerrbear"
 categories: ["conjecture"]
 date: "2019-03-25T14:06:00-05:00"
-subtitle: "or How I Learned to Stop Worrying and Love the Hive Mind"
+title_sub: "or How I Learned to Stop Worrying and Love the Hive Mind"
 tags: ["monorepo", "belief", "hermetica", "kybalion", "self/other"]
 title: "A Theory of Otherhood and the Monorepo"
 title_lead: "Well, he roped me into this..."

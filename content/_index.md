@@ -1,6 +1,6 @@
 ---
 title: Atmanaut
-subtitle: Spelunk the Essential
+title_sub: Spelunk the Essential
 date: 2019-02-09 14:22:22 +0000
 tags:
 - poem

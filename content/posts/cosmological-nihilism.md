@@ -3,7 +3,7 @@ author: "Kerrbear"
 title: 'Cosmology: Nihilism or Mysticism?'
 title_lead: Does the universe even care?
 title_main: 'Cosmology: Nihilism or Mysticism'
-subtitle: or Affinity as the Hand of God
+title_sub: or Affinity as the Hand of God
 date: 2019-02-17 00:22:22 +0000
 tags:
 - science

@@ -1,6 +1,6 @@
 ---
 title: Explanation vs. Description
-subtitle: Fallacies in Neuroscience and Materialism
+title_sub: Fallacies in Neuroscience and Materialism
 date: 
 draft: true
 

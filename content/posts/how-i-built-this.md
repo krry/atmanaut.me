@@ -7,7 +7,7 @@ tags:
 - devsign
 title_lead: Oh yeah, well now this is happening…
 title_main: Building Atmanaut
-subtitle: Howsits and Whatsits
+title_sub: Howsits and Whatsits
 draft: true
 
 ---

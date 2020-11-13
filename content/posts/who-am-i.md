@@ -9,7 +9,7 @@ tags:
 - spirit animal
 - foamwell
 title_main: ''
-subtitle: ''
+title_sub: ''
 title_lead: ''
 categories:
 - poetry

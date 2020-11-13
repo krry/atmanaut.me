@@ -9,7 +9,7 @@ tags:
 - determinism
 - consciousness
 - immortality
-subtitle: Or How Would I Know If I Really Wrote This?
+title_sub: Or How Would I Know If I Really Wrote This?
 title_lead: And Does It Matter That I Don't Mind?
 title_main: Never Too Late To Choose
 

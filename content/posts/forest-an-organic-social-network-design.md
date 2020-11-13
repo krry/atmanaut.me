@@ -7,7 +7,7 @@ tags:
 - social networks
 - affinity
 title_main: Forest
-subtitle: A social network for people, by trees
+title_sub: A social network for people, by trees
 title_lead: 100% organic sosh juice
 categories: []
 

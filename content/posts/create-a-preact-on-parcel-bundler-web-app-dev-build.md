@@ -6,7 +6,7 @@ tags:
 - devsign
 - stacklife
 title_main: Create a Preact-on-Parcel SPA in a Jiffy
-subtitle: Lightning fast, featherweight, whip-smart front-end wapping
+title_sub: Lightning fast, featherweight, whip-smart front-end wapping
 title_lead: Alec, pour us a stout. It's record-breaking time.
 categories:
 - code

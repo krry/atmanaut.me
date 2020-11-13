@@ -8,7 +8,7 @@ tags:
 - automation
 - deployment
 title_main: Deterministic Publishing Robot Design and Development
-subtitle: or How to Post on Forestry and have Github, Zeit, IFTTT, and Medium Do Their
+title_sub: or How to Post on Forestry and have Github, Zeit, IFTTT, and Medium Do Their
   Thangs
 title_lead: Could've built a better mousetrap, but hey…
 categories: []

@@ -8,7 +8,7 @@ tags:
 - separate self
 - interbeing
 title_main: ''
-subtitle: ''
+title_sub: ''
 title_lead: ''
 categories: []
 draft: true

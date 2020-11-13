@@ -1,7 +1,7 @@
 ---
 author: Kerrbear
 title: Swinging on the Well-Being Pendulum
-subtitle: or How to Enjoy Suffering and Suffer Joy
+title_sub: or How to Enjoy Suffering and Suffer Joy
 date: 2020-04-17T07:12:24.000+00:00
 tags:
 - hermetica

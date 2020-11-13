@@ -8,7 +8,7 @@ tags:
 - self-inquiry
 - breathplay
 title_main: From the Breath, the Observer Emerges
-subtitle: Who What When Where Who How Much and WHY!?
+title_sub: Who What When Where Who How Much and WHY!?
 title_lead: Never mind, no matter
 
 ---

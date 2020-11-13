@@ -8,7 +8,7 @@ tags:
 - prana
 - dreams
 title_main: ''
-subtitle: ''
+title_sub: ''
 title_lead: ''
 categories: []
 
