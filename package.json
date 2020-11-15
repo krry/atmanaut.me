@@ -1,16 +1,4 @@
 {
- "comments": {
-  "dependencies": {
-   "fuse.js": "project"
-  },
-  "devDependencies": {
-   "eslint": "project",
-   "eslint-config-airbnb": "project",
-   "eslint-config-prettier": "project",
-   "eslint-plugin-prettier": "project",
-   "prettier": "project"
-  }
- },
  "dependencies": {
   "fuse.js": "^6.4.3"
  },
@@ -19,14 +7,16 @@
   "eslint-config-airbnb": "^18.2.1",
   "eslint-config-prettier": "^6.15.0",
   "eslint-plugin-prettier": "^3.1.4",
-  "prettier": "2.1.2"
+  "prettier": "2.1.2",
+  "snowpack": "^2.17.1"
  },
  "scripts": {
-  "build": "npm run clean \u0026\u0026 hugo",
+  "build": "npm run clean && hugo",
   "clean": "rm -rf ./public",
-  "deploy": "npm run build \u0026\u0026 vercel",
+  "deploy": "npm run build && vercel",
   "preview": "hugo -EFDb $DEPLOY_URL -d public",
-  "release": "npm run build \u0026\u0026 vercel --prod",
+  "prepare": "snowpack",
+  "release": "npm run build && vercel --prod",
   "serve": "hugo server -wD --baseUrl //${IP} --bind ${IP} --port 7070",
   "start": "hugo server -wD"
  }
