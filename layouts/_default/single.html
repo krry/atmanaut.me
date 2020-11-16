@@ -3,8 +3,8 @@
 {{- end -}}
 
 {{- define "main" -}}
-  <div class="post">
-    <div class="scrolliner"></div>
+  <div id="post_container" class="post">
+    <div id="scrolliner" class="scrolliner"></div>
     <h1 class="post-title">
       {{- with .Params.title_main -}}
       {{- . | markdownify -}}
@@ -18,7 +18,7 @@
     {{- with .Params.title_lead -}}
     <h3 class="post-lead">{{ . | markdownify }}</h3>
     {{- end -}}
-    <div class="byline">
+    <div id="byline" class="byline">
       {{ $author := .Params.author | default "Atmanaut" }}
       <address rel="author">By <a href="{{ lower (print "/authors/" $author) }}">{{ $author }}</a></address>
     </div>
