@@ -2,6 +2,7 @@
 author: Kerrbear
 date: 2019-04-20T22:26:44.000+00:00
 title: 'Forest: An Organic Social Network Design'
+description: "Applying Dunbar's numbers to our social circles, we can envision a set of concentric rings around us. The rings of a tree, or rings of trees who represent the forest to which we belong. Perhaps as we become aware of the forest, we can reform our social networks to reflect the natural social patterns we have evolved to expect."
 tags:
 - devsign
 - social networks
