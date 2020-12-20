@@ -1,11 +1,11 @@
 ---
 date: 2020-12-19T21:39:21.000+00:00
-title: Seahorses
+title: Seahorsing
 author: Kerrbear
 tags:
 - story
 - memoir
-title_main: The Seahorse
+title_main: Seahorsing
 title_sub: or how to hold space for unusually magnificent creativity
 title_lead: Hormones are the new Xanax.
 categories:
