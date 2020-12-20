@@ -58,10 +58,10 @@ One of those things Dad used to say a lot. One of the more lasting whorls in the
 
 ## "'ello, this is Hip."
 
-We don't often look at the portal as we pass through it. But this time the tunnel walls were carpeted with nostalgia as I was slurped back to the source. Hipposkin rugs, swatches of vicarious safaris, a cavernous monument of mental effigy woven of disappointments cemented with the plentiful spooge of [**MICPOP**](#micpop) ambition.
+We don't often look at the portal as we pass through it. But this time the tunnel walls were carpeted with nostalgia as I was slurped back to the source. Hipposkin rugs, swatches of vicarious safaris, a cavernous monument of mental effigy woven of disappointments cemented with the plentiful spooge of MICPOP[‡](#micpop) ambition.
 
 I ended up where I started. Dad was anything but hip.
 
 Dad posed as though, played those roles, but once all the spaghetti had been thrown no one could suppose that our trusty Hippo was trendy. Dad was trendy like a river. As the fourth wall crumbles you may find yourself a pebble or a boulder. The boulder invites the hedgehog to perch. The fox follows the pebble.
 
-\[‡\] Military-Industrial-Corporate-Penitentiary-Oligopolistic-Personage. Nonviolent defiance of MICPOP is like the PATRIOT act for pacifists.
+[‡]: Military-Industrial-Corporate-Penitentiary-Oligopolistic-Personage. Nonviolent defiance of MICPOP is like the PATRIOT act for pacifists.
