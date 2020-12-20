@@ -222,7 +222,7 @@ a:visited:active {
 
 .list-reset {
   font-family: "Open Sans", system-ui, sans-serif;
-  list-style: none;
+  list-style-type: none;
   margin: 0;
   padding: 0; }
 
@@ -555,6 +555,9 @@ footer a {
   .taxonomy-term a:hover {
     background-color: rgba(3, 138, 165, 0.15);
     color: #038aa5; }
+
+.post .taxonomy-term::before {
+  content: ''; }
 
 .taxonomy-term a::before {
   content: '#';
