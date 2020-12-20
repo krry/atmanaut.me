@@ -13,7 +13,6 @@ categories:
 
 ---
 > Dear Fili,
->
 > Yesterday was work. That probably came out of left field. But imagine our surprise when we found out you aren't ours.
 
 So the letter starts that has turned my world upside down. In March I turned 37. My daughter is this many ✌️☝️. My husband is not his father's son **or** his mother's son. And now I know that neither am I such a daughter.
