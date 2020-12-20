@@ -8,12 +8,13 @@
   "prettier": "2.1.2"
  },
  "scripts": {
-  "build": "npm run clean && hugo",
+  "build": "yarn clean && hugo",
   "clean": "rm -rf ./public",
-  "deploy": "npm run build && vercel",
+  "deploy": "yarn build && vercel",
+  "dev": "yarn serve",
+  "lint": "eslint --fix",
   "preview": "hugo -EFDb $DEPLOY_URL -d public",
-  "prepare": "snowpack",
-  "release": "npm run build && vercel --prod",
+  "release": "yarn build && vercel --prod",
   "serve": "hugo server -wD --baseUrl //${IP} --bind ${IP} --port 7070",
   "start": "hugo server -wD"
  }
