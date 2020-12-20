@@ -36,32 +36,32 @@ My brother stands behind me. Ozzie can hear Austin. Austin has plant matter on h
 
 As fumblers, we don't know much, and we try to believe what we hear. Austin was looking at me, not Ozzie behind me. I still remember the wombjerk reaction: "I'm not **_Sir_! I'm Princess Filona."**
 
-**Ozzie was stoic as always. I clenched my fists inside the pockets of my purple and fuchsia parka.**
+Ozzie was stoic as always. I clenched my fists inside the pockets of my purple and fuchsia parka.
 
-> **Fuck kitties, I'm a girl. Or… crap. I hate this song. Men aren't gentle or merry. Mom is merry. Where is Mom?**
+> Fuck kitties, I'm a girl. Or… crap. I hate this song. Men aren't gentle or merry. Mom is merry. Where is Mom?
 
 ***
 
-## **Whence the Letter**
+## Whence the Letter
 
-**Mom doesn't write much. Mom looks to Dad for that. Dad looks to her for content. As a fumbler, I looked to them both for everything. Yesterday I was looking for belonging.**
+Mom doesn't write much. Mom looks to Dad for that. Dad looks to her for content. As a fumbler, I looked to them both for everything. Yesterday I was looking for belonging.
 
-#### **Yesterday the order came down that humans are to be kept outside of spitting space. I was spitting mad.**
+#### Yesterday the order came down that humans are to be kept outside of spitting space. I was spitting mad.
 
-**So I lashed out in digital sarcasm. Instagrammed a fresh loogie stain on the sidewalk. "Nice masks. SF is safe af."**
+So I lashed out in digital sarcasm. Instagrammed a fresh loogie stain on the sidewalk. "Nice masks. SF is safe af."
 
-**It turns out all sarcasm is digital, as it lies in direct denial of the organic. Tracing this new mantra on the interior cotton of my mask with my tongue, I could taste the irony.**
+It turns out all sarcasm is digital, as it lies in direct denial of the organic. Tracing this new mantra on the interior cotton of my mask with my tongue, I could taste the irony.
 
-> **Sarcasm opposes reality.**
+> Sarcasm opposes reality.
 
-**One of those things Dad used to say a lot. One of the more lasting whorls in the abyssal grain of my mind. I thumbed up a phone-a-fram. Dad picked up.**
+One of those things Dad used to say a lot. One of the more lasting whorls in the abyssal grain of my mind. I thumbed up a phone-a-fram. Dad picked up.
 
-## **"'ello, this is Hip."**
+## "'ello, this is Hip."
 
-**We don't often look at the portal as we pass through it. But this time the tunnel walls were carpeted with nostalgia as I was slurped back to the source. Hipposkin rugs, swatches of vicarious safaris, a cavernous monument of mental effigy woven of disappointments cemented with the plentiful spooge of** [**MICPOP**](#micpop) **ambition.**
+We don't often look at the portal as we pass through it. But this time the tunnel walls were carpeted with nostalgia as I was slurped back to the source. Hipposkin rugs, swatches of vicarious safaris, a cavernous monument of mental effigy woven of disappointments cemented with the plentiful spooge of [**MICPOP**](#micpop) ambition.
 
-**I ended up where I started. Dad was anything but hip.**
+I ended up where I started. Dad was anything but hip.
 
-**Dad posed as though, played those roles, but once all the spaghetti had been thrown no one could suppose that our trusty Hippo was trendy. Dad was trendy like a river. As the fourth wall crumbles you may find yourself a pebble or a boulder. The boulder invites the hedgehog to perch. The fox follows the pebble.**
+Dad posed as though, played those roles, but once all the spaghetti had been thrown no one could suppose that our trusty Hippo was trendy. Dad was trendy like a river. As the fourth wall crumbles you may find yourself a pebble or a boulder. The boulder invites the hedgehog to perch. The fox follows the pebble.
 
-**\[‡\] Military-Industrial-Corporate-Penitentiary-Oligopolistic-Personage. Nonviolent defiance of MICPOP is like the PATRIOT act for pacifists.**
+\[‡\] Military-Industrial-Corporate-Penitentiary-Oligopolistic-Personage. Nonviolent defiance of MICPOP is like the PATRIOT act for pacifists.
