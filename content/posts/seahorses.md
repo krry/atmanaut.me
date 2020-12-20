@@ -1,5 +1,5 @@
 ---
-date: 2020-12-19T21:39:21+00:00
+date: 2020-12-19T21:39:21.000+00:00
 title: Seahorses
 author: Kerrbear
 tags:
@@ -12,10 +12,6 @@ categories:
 - stories
 
 ---
-    title: "The Seahorse"
-    author: "Kerrbear"
-    date: "19 Dec 2020"
-
 > Dear Fili,
 >
 > Yesterday was work. That probably came out of left field. But imagine our surprise when we found out you aren't ours.
