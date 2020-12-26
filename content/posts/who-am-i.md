@@ -1,5 +1,5 @@
 ---
-date: 2020-07-05T04:54:37-07:00
+date: 2020-07-05T04:54:37.000-07:00
 title: Who am I?
 author: Kerrbear
 tags:
@@ -13,18 +13,20 @@ title_sub: ''
 title_lead: ''
 categories:
 - poetry
+draft: true
 
 ---
 I am plural, more _us_ than _me_  
 spirit-soul-mind-body  
 lover-healer-partner-buddy  
-brother-son-father-to-be  
+feminine-masculine-in-one-body  
+brother-son-father, roles to play  
 citizen-neighbor-friend  
 entrepreneur-flâneur-amateur  
 experiencer-experiencing-experience  
 producer-developer-designer  
 recovering intellectual property attorney  
-owlionightingalehorsebearmothbeemutt<!--more-->   
+owlionightingalehorsebearmothbeemutt<!--more-->  
 budding gardener-chef-brewer  
 storybook writer  
 poet-as-pupa  
