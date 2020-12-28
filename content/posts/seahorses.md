@@ -11,7 +11,6 @@ title_sub: or how to hold space for unusually magnificent creativity
 title_lead: Hormones are the new Xanax.
 categories:
 - stories
-draft: true
 
 ---
 > Dear Fili,
