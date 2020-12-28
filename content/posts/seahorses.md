@@ -17,7 +17,7 @@ categories:
 > Yesterday was work. That probably came out of left field. But imagine our surprise when we found out you aren't ours.
 
 So starts the letter that has turned my world upside down. In March I turned 37. My daughter is this many ✌️☝️. My husband is not his father's son **or** his mother's son. And now I know that neither am I such a daughter.
-
+<!--more-->
 My identity has never been certain. We contain multitudes I am told, and I am such a "We". We remember the fog of childhood. We learned of courage by stepping into the opaque. When the air looks like chalk you can taste it, the staunch.
 
 One Christmas, might have been the year Gramma Root died, we went to  the mall. Not on Christmas (we're not heathen), but weeks before, like good dollar-fearing consumers. At the mall there was a pop-up shop. Mind you, this was the advent of the 90s. Caution-signs litter the terrazo as boots melt into puddles. The circumferent walk-joggers shop overhead physically raising awareness of their conspicuous consumption. A piano jingles a prayer about resting merry gentleman, though the jingler is too frightened to sing in this operatic setting. Instead we humble the words under our breath as we slideshoe from candle store to calendar store.
