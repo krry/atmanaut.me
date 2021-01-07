@@ -1,5 +1,7 @@
 {
  "dependencies": {
+  "@fontsource/kreon": "^4.1.0",
+  "@fontsource/museomoderno": "^4.1.0",
   "fuse.js": "^6.4.3"
  },
  "devDependencies": {
@@ -15,7 +17,7 @@
   "lint": "eslint --fix",
   "preview": "hugo -EFDb $DEPLOY_URL -d public",
   "release": "yarn build && vercel --prod",
-  "serve": "hugo server -wD --baseUrl //${IP} --bind ${IP} --port 7070",
+  "serve": "hugo server -wDF --baseUrl ${IP} --bind ${IP} --port 7231 --cleanDestinationDir --navigateToChanged",
   "start": "hugo server -wD"
  }
 }

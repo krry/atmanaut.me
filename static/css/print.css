@@ -7,7 +7,7 @@
   body {
     background: white !important;
     color: black !important;
-    font-family: 'Aleo';
+    font-family: 'Kreon', serif;
     font-size: 12pt;
     line-height: 1.375;
   }
@@ -39,7 +39,7 @@
   /* Displaying link color and link behaviour */
   a:link, a:visited, a {
     background: transparent;
-    font-weight: bold;
+    font-weight: 500;
     text-decoration: underline;
   }
   
@@ -50,7 +50,7 @@
   a[href^=http]:after {
     content:" (" attr(href) ") ";
     color: black;
-    font-weight: normal;
+    font-weight: 300;
     text-decoration: none;
   }
   

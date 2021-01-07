@@ -17,6 +17,7 @@
 /* IMGS */
 /* MEDIA QUERIES */
 /* EASING FUNCTIONS */
+/* DURATIONS */
 @keyframes spinner {
   from {
     transform: rotate(359deg); }
@@ -56,7 +57,7 @@ body {
 h1,
 h2 {
   color: #0e2f49;
-  font-family: "Righteous", "Futura", "Comic Sans MS", cursive; }
+  font-family: "MuseoModerno", "Righteous", "Futura", "Comic Sans MS", cursive; }
 
 p {
   line-height: 1.375; }
@@ -93,7 +94,7 @@ hr {
 
 figcaption {
   font-size: 75%;
-  font-weight: 600;
+  font-weight: 700;
   text-align: center; }
 
 :focus {
@@ -172,7 +173,7 @@ main {
     height: 100vh;
     position: fixed;
     transform: translate3d(100%, 0, 0);
-    transition: all 444ms cubic-bezier(0.46, 0.03, 0.52, 0.96);
+    transition: all 555ms cubic-bezier(0.46, 0.03, 0.52, 0.96);
     width: 100vw;
     z-index: 9; } }
   @media only screen and (max-width: 684px) and (min-width: 684px) {
@@ -213,10 +214,9 @@ a:visited:active {
   color: #cd5b81; }
 
 .sidebar a {
-  font-weight: bolder;
   opacity: 0.8;
   text-decoration: none;
-  transition: all 222ms cubic-bezier(0.45, 0.05, 0.55, 0.95); }
+  transition: all 333ms cubic-bezier(0.45, 0.05, 0.55, 0.95); }
   .sidebar a:hover {
     opacity: 1; }
 
@@ -244,7 +244,7 @@ ul li {
 
 dt {
   font-family: "Open Sans", system-ui, sans-serif;
-  font-weight: bolder;
+  font-weight: 500;
   margin-bottom: 0.5em; }
 
 dd + dt {
@@ -306,7 +306,7 @@ body:not(.user-is-tabbing) textarea:focus {
   height: 2.25em;
   line-height: 2.25em;
   padding: 0 1.25em;
-  transition: all 222ms cubic-bezier(0.45, 0.05, 0.55, 0.95); }
+  transition: all 333ms cubic-bezier(0.45, 0.05, 0.55, 0.95); }
 
 .btn.center {
   display: block;
@@ -330,7 +330,7 @@ header {
     cursor: default;
     padding: 1em 0; }
   header .logo {
-    animation: spinner 222ms infinite;
+    animation: spinner 333ms infinite;
     animation-play-state: paused;
     animation-timing-function: linear;
     background-position: center center;
@@ -338,7 +338,7 @@ header {
     background-size: contain;
     margin: 0 auto;
     opacity: 0.7;
-    transition: 222ms cubic-bezier(0.65, 0.05, 0.36, 1); }
+    transition: 333ms cubic-bezier(0.65, 0.05, 0.36, 1); }
     header .logo:hover, header .logo:focus {
       opacity: 1; }
   header .bloob {
@@ -375,7 +375,7 @@ header nav li {
   right: 0;
   top: 0;
   transform-origin: center center;
-  transition: 444ms cubic-bezier(0.45, 0.05, 0.55, 0.95);
+  transition: 555ms cubic-bezier(0.45, 0.05, 0.55, 0.95);
   width: 2.5em;
   z-index: 10; }
   @media only screen and (min-width: 684px) {
@@ -396,8 +396,17 @@ footer p {
   opacity: 0.75; }
 
 footer a {
-  color: #cdd8e0;
-  font-weight: lighter; }
+  color: #ecf0f3;
+  font-weight: 500; }
+
+footer a:hover {
+  color: #0773c0; }
+
+footer a:visited {
+  color: #cdd8e0; }
+
+footer a:visited:hover {
+  color: #da9fe0; }
 
 .crecom {
   display: block;
@@ -415,7 +424,7 @@ footer a {
 .post blockquote,
 .post-summary p,
 .post-summary blockquote {
-  font-family: "Aleo", "Georgia", serif; }
+  font-family: "Kreon", "Aleo", "Georgia", serif; }
 
 .post .list-taxonomies,
 .post-summary .list-taxonomies {
@@ -459,7 +468,7 @@ footer a {
       padding: 3em; } }
   .post h2,
   .taxonomy h2 {
-    font-family: "Righteous", "Futura", "Comic Sans MS", cursive; }
+    font-family: "MuseoModerno", "Righteous", "Futura", "Comic Sans MS", cursive; }
   .post p,
   .taxonomy p {
     line-height: 1.375;
@@ -489,7 +498,7 @@ footer a {
   .taxonomy .title-lead,
   .taxonomy .title-sub {
     color: #434b51;
-    font-weight: 400;
+    font-weight: 500;
     text-transform: capitalize; }
   .post .title-lead,
   .taxonomy .title-lead {
@@ -513,12 +522,12 @@ footer a {
   opacity: 0.9;
   padding: 1.25em;
   position: relative;
-  transition: all 222ms cubic-bezier(0.45, 0.05, 0.55, 0.95); }
+  transition: all 333ms cubic-bezier(0.45, 0.05, 0.55, 0.95); }
   .post-summary:hover {
     border-color: #3e2040;
     opacity: 1; }
     .post-summary:hover .read-on {
-      font-weight: bolder; }
+      font-weight: 500; }
   .post-summary:first-child {
     margin-top: 1.325em; }
   @media only screen and (min-width: 684px) {
@@ -547,11 +556,11 @@ footer a {
   border-radius: 0.25em;
   color: #434b51;
   font-family: "Open Sans", system-ui, sans-serif;
-  font-weight: normal;
+  font-weight: 300;
   padding: 0.25em 0.5em;
   text-decoration: none;
   text-transform: uppercase;
-  transition: all 222ms cubic-bezier(0.45, 0.05, 0.55, 0.95); }
+  transition: all 333ms cubic-bezier(0.45, 0.05, 0.55, 0.95); }
   .taxonomy-term a:hover {
     background-color: rgba(3, 138, 165, 0.15);
     color: #038aa5; }
@@ -628,7 +637,6 @@ p > code {
   font-family: "Inconsolata", monospace; }
 
 .highlight pre {
-  font-size: 1.25em;
   margin: auto;
   max-width: 80ch;
   padding: 1rem; }
@@ -638,7 +646,7 @@ p > code {
 .search-input,
 .search-results,
 .search-hint.btn {
-  transition: 444ms cubic-bezier(0.46, 0.03, 0.52, 0.96); }
+  transition: 555ms cubic-bezier(0.46, 0.03, 0.52, 0.96); }
 
 .search-input,
 .search-hint.btn {
@@ -646,7 +654,7 @@ p > code {
   border-width: 1px;
   color: #cdd8e0;
   display: block;
-  font-family: "Aleo", "Georgia", serif;
+  font-family: "Kreon", "Aleo", "Georgia", serif;
   font-size: 1.125rem;
   height: 2.25rem;
   line-height: 2.25rem;
@@ -703,7 +711,7 @@ p > code {
   display: block;
   position: relative; }
 
-.modkey {
+.mod-key {
   color: #cdd8e0;
   display: none;
   font-size: 0.875em;
@@ -717,13 +725,11 @@ p > code {
   user-select: none;
   z-index: 16; }
   @media only screen and (min-width: 684px) {
-    .modkey {
-      right: 2.5rem; } }
-  .modkey.shown {
-    display: block; }
-
+    .mod-key {
+      right: 2.5rem; }
+      .mod-key.shown {
+        display: block; } }
 .fast-search {
-  direction: rtl;
   display: inline-block;
   left: 0;
   max-height: 100vh;
@@ -778,7 +784,7 @@ p > code {
 .search-results a:link {
   color: #da9fe0;
   display: inline-block;
-  font-weight: normal;
+  font-weight: 500;
   text-decoration: none !important; }
 
 .search-results a:hover,
