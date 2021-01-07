@@ -14,7 +14,6 @@ title_lead: The Path to Full Spectrum Acceptance
 title_main: Swinging on the Well-Being Pendulum
 
 ---
-
 Here in the Postmodern West mired in the totalitarian gridlock of coronavirus, we're experiencing a crashing tidal wave of techno-stress and agora-loneliness. We have built a flabbergasting array of tools to prevent and assuage suffering and to connect each of us to just about anyone else. And yet, by any account, we are no happier.<!--more--> [The Anxiety & Depression Association of America estimates](https://adaa.org/about-adaa/press-room/facts-statistics/ "ADAA Statistics") that 18.1% of adult Americans suffer from anxiety disorders, of which depression is one. No doubt these stats are outdated and vastly underestimate the current state of despair and mental illness.
 
 ## But aren't we happier now?
@@ -45,7 +44,7 @@ What is the other side of depression? I call it joy. The one bears two. And the 
 
 For each of these dualities we can picture a pendulum swinging between extremes, oscillating sinusoidally. Despair lies buried at the bottom of the pit of suffering, while bliss (आनन्द, _ānanda_) perches atop the peak of enjoyment. We can begin to glimpse the intricate dance of being as we overlay and interlace the oscillations of all these pendulums. An experience can be hot and enjoyable. Or we can suffer cold. The two bear three. With this grand perspective, one can ask: what is well-being? Within the set of the "ten thousand things" (which is meant to signify the many permutations of nature and reality), what things do we pursue? Which do we choose? Is it well-being to select experiences of our essence and existence wherein we avoid the less enjoyable half of the states? Or is it well-being to experience the fullness of as many spectra as we can? Could it be our destiny to wrap our pitiless bodies around the pendulum arm and swing to the moon and back?
 
-![](/uploads/2020/:month/david-griggs-art-installation-kreger-pendulum-miami-4.jpg) <figcaption><center><small><b>“Time Piece” by artist David Griggs.<br>A Public Art project commissioned by the Ohio Arts Council for Miami University of Ohio.</b></small></center></figcaption>
+![](/uploads/2020/:month/david-griggs-art-installation-kreger-pendulum-miami-4.jpg) “Time Piece” by artist David Griggs.<br>A Public Art project commissioned by the Ohio Arts Council for Miami University of Ohio.
 
 ## Well-being vs. Ill-being
 
