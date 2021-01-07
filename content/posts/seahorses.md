@@ -11,6 +11,7 @@ title_sub: or how to hold space for unusually magnificent creativity
 title_lead: Hormones are the new Xanax.
 categories:
 - stories
+draft: true
 
 ---
 > Dear Fili,
@@ -30,7 +31,7 @@ The kitties were too high up, so I pointed at them, and called for help. "Hello 
 
 #### Time stops.
 
-My brother stands behind me. Ozzie can hear Austin. Austin has plant matter on his braces. The merry gentlemen are resting on a B-flat. The at-mall-sphere sings notes of conifer and clove. Mistletoe threatens intimacy in every doorway. My summer bowl-cut has not grown out yet.
+My brother stands behind me. Ozzie can hear Austin. Austin has plant matter on, in, and around his braces. A living breathing food court salad bar monster. The merry gentlemen are resting on a B-flat. The *at-mall-sphere* quivers with notes of conifer and clove, while mistletoe dangles the threat of intimacy in every doorway. My last kiss was from Gramma, and my summer bowl-cut has not grown out yet, though it did get the gum out of my hair.
 
 "Sir?" My inner monologue wonders, circumspects, cringes.
 
@@ -44,7 +45,7 @@ Ozzie was stoic as always. I clenched my fists inside the pockets of my purple a
 
 ### Whence the Letter
 
-Mom doesn't write much. Mom looks to Dad for that. Dad looks to her for content. As a fumbler, I looked to them both for everything. Yesterday I was looking for belonging.
+Mom doesn't write much. Mom looked to Dad for that. Dad looks to her for content. As a fumbler, I looked to them both for everything. Yesterday I was looking for belonging.
 
 #### Yesterday the order came down that humans are to be kept outside of spitting space. I was spitting mad.
 
