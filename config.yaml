@@ -1,12 +1,13 @@
+---
 languageCode: en-us
 title: Atmanaut
 baseUrl: https://atmanaut.me
 theme: chakra
 author:
-  name: "Kerry Snyder"
+  name: Kerry Snyder
 params:
-  description: "A place for explorers of the spirit we share, being knowing enjoying"
-  tagline: "सच्चिदानन्द"
+  description: A place for explorers of the spirit we share, being knowing enjoying
+  tagline: सच्चिदानन्द
   tagsLimit: 27
   summaryLength: 50
   preserveTaxonomyNames: true
@@ -16,13 +17,16 @@ params:
     purp: "#5d17d9"
     blue: "#1695c5"
 outputs:
-  home: ["html", "json", "rss"]
+  home:
+  - html
+  - json
+  - rss
 taxonomies:
-  author: "authors"
-  tag: "tags"
-  category: "categories"
+  author: authors
+  tag: tags
+  category: categories
 permalinks:
-  posts: /:year/:month/:title
+  posts: "/:year/:month/:title"
 blackfriday:
   plainIDAnchors: true
   hrefTargetBlank: true
