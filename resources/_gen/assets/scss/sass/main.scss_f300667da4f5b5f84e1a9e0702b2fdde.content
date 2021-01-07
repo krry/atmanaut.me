@@ -9,9 +9,9 @@
 /* SIZES */
 /* COLOR PALETTE */
 /* FONTS
- * base: Open Sans, sans-serif
- * text: Aleo, serif
- * title: Righteous, Comic Sans MS
+ * base: Quicksand, (formerly Open Sans), sans-serif
+ * text: Quicksand, (tried Kreon, formerly Aleo), serif
+ * title: MuseoModerno, (formerly Righteous), Comic Sans MS
  * code: Inconsolata, monospace
  * */
 /* IMGS */
@@ -27,7 +27,7 @@
 @import-normalize;
 html {
   box-sizing: border-box;
-  font-family: "Open Sans", system-ui, sans-serif; }
+  font-family: "Quicksand", "Open Sans", system-ui, sans-serif; }
 
 body {
   background-color: #cdd8e0;
@@ -43,7 +43,7 @@ body {
     font-size: 125%; } }
 
 ::placeholder {
-  color: rgba(205, 216, 224, 0.75); }
+  color: rgba(205, 216, 224, 0.25); }
 
 ::selection {
   background-color: #7e4483;
@@ -98,9 +98,11 @@ figcaption {
   text-align: center; }
 
 :focus {
-  outline-color: #f8e181;
-  -moz-outline-radius: 0.25rem;
-  outline-style: dashed;
+  outline-color: #038aa5;
+  outline-offset: 3px;
+  -moz-outline-radius: 0.5rem;
+  -o-outline-radius: 0.5rem;
+  outline-style: dotted;
   outline-width: 2px; }
 
 time {
@@ -221,13 +223,16 @@ a:visited:active {
     opacity: 1; }
 
 .list-reset {
-  font-family: "Open Sans", system-ui, sans-serif;
+  font-family: "Quicksand", "Open Sans", system-ui, sans-serif;
   list-style-type: none;
   margin: 0;
   padding: 0; }
 
 ul li {
   list-style-type: none; }
+
+.post li {
+  font-family: "Quicksand", "Georgia", serif; }
 
 .post ul li::before {
   content: '\2619';
@@ -243,7 +248,7 @@ ul li {
   margin: 0; }
 
 dt {
-  font-family: "Open Sans", system-ui, sans-serif;
+  font-family: "Quicksand", "Open Sans", system-ui, sans-serif;
   font-weight: 500;
   margin-bottom: 0.5em; }
 
@@ -251,7 +256,7 @@ dd + dt {
   margin-top: 1em; }
 
 .list-sources {
-  font-family: "Open Sans", system-ui, sans-serif; }
+  font-family: "Quicksand", "Open Sans", system-ui, sans-serif; }
 
 table {
   border: 1px solid;
@@ -424,10 +429,11 @@ footer a:visited:hover {
 .post blockquote,
 .post-summary p,
 .post-summary blockquote {
-  font-family: "Kreon", "Aleo", "Georgia", serif; }
+  font-family: "Quicksand", "Georgia", serif; }
 
 .post .list-taxonomies,
 .post-summary .list-taxonomies {
+  margin: 2em auto 1em;
   text-align: center; }
 
 .byline {
@@ -466,54 +472,65 @@ footer a:visited:hover {
     .post,
     .taxonomy {
       padding: 3em; } }
-  .post h2,
-  .taxonomy h2 {
-    font-family: "MuseoModerno", "Righteous", "Futura", "Comic Sans MS", cursive; }
-  .post p,
-  .taxonomy p {
-    line-height: 1.375;
-    max-width: 80ch; }
-  .post ul li,
-  .post ol li,
-  .taxonomy ul li,
-  .taxonomy ol li {
-    line-height: 1.5; }
-  .post .title-main,
-  .taxonomy .title-main {
-    margin: 0.5em 0; }
-  .post .title-main,
-  .post .taxonomy-title,
-  .post .taxonomy-subtitle,
-  .post .title-lead,
-  .post .title-sub,
-  .taxonomy .title-main,
-  .taxonomy .taxonomy-title,
-  .taxonomy .taxonomy-subtitle,
-  .taxonomy .title-lead,
-  .taxonomy .title-sub {
-    line-height: 1.15;
-    margin: 0.5rem 0; }
-  .post .title-lead,
-  .post .title-sub,
-  .taxonomy .title-lead,
-  .taxonomy .title-sub {
-    color: #434b51;
-    font-weight: 500;
-    text-transform: capitalize; }
-  .post .title-lead,
-  .taxonomy .title-lead {
-    font-family: "Open Sans", system-ui, sans-serif;
-    font-style: italic;
-    margin-right: 1em;
-    text-align: right; }
-  .post .title-sub,
-  .taxonomy .title-sub {
-    font-size: 1rem; }
-  .post .post-date,
-  .taxonomy .post-date {
-    color: #434b51;
-    display: block;
-    margin: 0 0 0.5rem; }
+.post h2 {
+  font-family: "MuseoModerno", "Righteous", "Futura", "Comic Sans MS", cursive; }
+
+.post p {
+  line-height: 1.375;
+  max-width: 80ch; }
+
+.post ul li,
+.post ol li {
+  line-height: 1.5; }
+
+.title-main {
+  background-clip: text;
+  background-image: linear-gradient(-90deg, #038aa5, #0e2f49);
+  color: transparent;
+  margin: 0.5em 0; }
+
+.title-lead,
+.title-sub {
+  text-transform: capitalize; }
+
+.title-lead {
+  color: inherit;
+  font-weight: 700;
+  margin: 1em 0 1.5em;
+  text-align: center; }
+
+.title-lead,
+.post h3 {
+  background-clip: text;
+  background-image: linear-gradient(90deg, #0e2f49, #3386c1);
+  color: transparent; }
+
+.title-sub {
+  font-size: 1rem; }
+
+.title-sub,
+.post h2 {
+  background-clip: text;
+  background-image: linear-gradient(90deg, #0e2f49, #0773c0);
+  color: transparent;
+  font-weight: 700; }
+
+.title-main,
+.taxonomy-title,
+.taxonomy-subtitle,
+.title-lead,
+.title-sub {
+  line-height: 1.15;
+  margin: 0.5rem 0; }
+
+img + p {
+  color: #434b51;
+  font-size: 0.875em; }
+
+.post-date {
+  color: #434b51;
+  display: block;
+  margin: 0 0 0.5rem; }
 
 .post-summary {
   background-color: #cdd8e0;
@@ -549,13 +566,61 @@ footer a:visited:hover {
   .post.comments {
     margin-bottom: 4rem; } }
 
+.taxonomy .divider {
+  display: none; }
+
+.taxonomy a {
+  display: block;
+  text-decoration: none; }
+
+.taxonomy a + .divider {
+  background-image: linear-gradient(to right, transparent, rgba(6, 7, 10, 0.25), transparent);
+  border: 0;
+  border-radius: 100%;
+  display: block;
+  height: 2px;
+  margin: 2rem auto;
+  width: 77%; }
+
+.taxonomy dt {
+  background-clip: text;
+  background-image: linear-gradient(90deg, #038aa5, #0773c0);
+  color: transparent;
+  font-size: 1.5em;
+  font-weight: bolder;
+  text-decoration-color: transparent; }
+
+.taxonomy a:hover dt {
+  background-image: linear-gradient(180deg, #038aa5, #0e2f49);
+  text-decoration-color: #0e2f49; }
+
+.taxonomy dd {
+  border-left: 5px solid rgba(6, 7, 10, 0.25);
+  color: #191d1f;
+  margin-left: 1em;
+  padding-left: 1em;
+  transition: 555ms; }
+
+.taxonomy a:hover dd {
+  border-image-slice: 1;
+  border-image-source: linear-gradient(180deg, #0e2f49, #038aa5); }
+
+.taxonomy h1 {
+  font-size: 1.5em; }
+
+.taxonomy h2 {
+  font-size: 1.25em; }
+
+.taxonomy h3 {
+  font-size: 1em; }
+
 .taxonomy-term {
   font-size: 75%; }
 
 .taxonomy-term a {
   border-radius: 0.25em;
   color: #434b51;
-  font-family: "Open Sans", system-ui, sans-serif;
+  font-family: "Quicksand", "Open Sans", system-ui, sans-serif;
   font-weight: 300;
   padding: 0.25em 0.5em;
   text-decoration: none;
@@ -619,9 +684,9 @@ samp {
 h4 > code,
 p > code {
   background-color: #ecf0f3;
-  font-size: 1.25em;
-  margin: 0 0.125em;
-  padding: 0 0.25em; }
+  border-radius: 2px;
+  margin: 0 1px;
+  padding: 0 2px; }
 
 @media only screen and (max-width: 684px) {
   .highlight {
@@ -654,7 +719,7 @@ p > code {
   border-width: 1px;
   color: #cdd8e0;
   display: block;
-  font-family: "Kreon", "Aleo", "Georgia", serif;
+  font-family: "Quicksand", "Georgia", serif;
   font-size: 1.125rem;
   height: 2.25rem;
   line-height: 2.25rem;
