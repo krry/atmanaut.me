@@ -11,7 +11,6 @@ title_sub: or how to hold space for unusually magnificent creativity
 title_lead: Hormones are the new Xanax.
 categories:
 - stories
-draft: true
 
 ---
 > Dear Fili,
@@ -63,6 +62,6 @@ We don't often look at the portal as we pass through it. But this time the tunne
 
 I ended up where I started. Dad was anything but hip.
 
-Dad posed as though, played those roles, but once all the spaghetti had been thrown no one could suppose that our trusty Hippo was trendy. Dad was trendy like a river. As the fourth wall crumbles you may find yourself a pebble or a boulder. The boulder invites the hedgehog to perch. The fox follows the pebble.
+Dad posed as though, played those roles, but once all the spaghetti had hit the wall no one could suppose that our trusty Hippo was trendy. Yes, he was like a river: ever present, ever flowing, and never the same. As the fourth wall crumbles you may find yourself a pebble or a boulder. The boulder invites the hedgehog to perch. The fox follows the pebble.
 
 \[‡\]: Military-Industrial-Corporate-Penitentiary-Oligopolistic-Personage. Nonviolent defiance of MICPOP is like the PATRIOT act for pacifists.
