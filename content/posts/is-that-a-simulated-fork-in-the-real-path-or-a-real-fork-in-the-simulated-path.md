@@ -18,7 +18,9 @@ draft: true
 > "An institution is the lengthened shadow of one man."
 > — Ralph Waldo Emerson via Motherless Brooklyn by Jonathan Lethem interpreted by Edward Norton
 
-Also of interest, in an essay of RWE's called "Self Reliance" we are introduced to "\[t\]he power which resides in him \[that\] is new in nature, and none but he knows what that is which he can do, nor does he know until he has tried."
+Also of interest, in an essay of RWE's called "Self Reliance" we are introduced to 
+
+> \[t\]he power which resides in him \[that\] is new in nature, and none but he knows what that is which he can do, nor does he know until he has tried.
 
 Yesterday my imaginatronix were triggered when Elysa told North that she couldn't access VR because she doesn't have goggles.
 
