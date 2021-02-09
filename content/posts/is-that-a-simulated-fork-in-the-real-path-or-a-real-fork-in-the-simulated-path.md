@@ -12,7 +12,6 @@ title_sub: or how to tell that you and I are experiencing an abstracted layer ab
   base reality wherein the truth is shifty
 title_lead: A daydream about ziplines and zeppelins
 categories: []
-draft: true
 
 ---
 > "An institution is the lengthened shadow of one man."
