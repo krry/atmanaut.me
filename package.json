@@ -20,7 +20,7 @@
   "lint": "eslint --fix",
   "preview": "hugo -EFDb $DEPLOY_URL -d public",
   "release": "yarn build && ntl --prod",
-  "serve": "hugo server -wDF --baseUrl ${IP} --bind ${IP} --port 7231 --cleanDestinationDir --navigateToChanged",
+  "serve": "hugo server -wF --baseUrl ${IP} --bind ${IP} --port 7231 --cleanDestinationDir --navigateToChanged",
   "start": "hugo server -wD"
  }
 }

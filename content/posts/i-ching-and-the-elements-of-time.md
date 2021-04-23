@@ -2,7 +2,6 @@
 author: "Kerrbear"
 categories: []
 date: 2019-03-22T16:48:00-05:00
-title_sub: A first look at the Book of Changes
 tags:
 - Non-Occidental
 - spacetime
@@ -10,11 +9,12 @@ tags:
 - cleromancy
 - i ching
 title: I Ching and the Elements of Time
+title_sub: A first look at the Book of Changes
 title_lead: A headlong dive into the divine
 title_main: I Ching and the Elements of Time
-author: Kerrbear
-
+published: true
 ---
+
 This week was riddled with coincidence. I'll not bore you with the details. Like so many dreams told or acid trips recounted, the meaning is already lost even on me.
 
 You see, I have begun listening to Terence McKenna, that whirring dynamo of timewaves and historical embellishment through lateral induction. Initially I resisted his rather grating nasal tones. (I wasn't ready for the message, and I doubt anyone is ever truly ready to encounter Terence McKenna.)<!--more--> Timeless gratitude to those who record and publish the wanderings of the scrying minds of yesteryear to YouTube and otherwise. The recordings of McKenna, Alan Watts, and Joseph Campbell lie in wait, bobbing in a seemingly bottomless well of wisdom, insight, and wonderment freely available to all of us. It wasn't always this way. We used to have to learn Sanskrit and Mandarin, spend a decade in the Amazon, and decipher cuneiform and hieroglyphics to gain understanding of such magnitude and profundity. It's no wonder few did.
