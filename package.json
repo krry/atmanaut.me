@@ -12,7 +12,7 @@
  "scripts": {
   "build": "yarn clean && hugo",
   "clean": "rm -rf ./public",
-  "deploy": "yarn build && ntl",
+  "deploy": "yarn build && ntl deploy",
   "dev": "yarn serve",
   "lint": "eslint --fix",
   "preview": "hugo -EFDb $DEPLOY_URL -d public",
