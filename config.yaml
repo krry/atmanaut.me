@@ -2,7 +2,7 @@
 languageCode: en-us
 title: Atmanaut
 baseUrl: https://atmanaut.me
-theme: Chakra
+theme: github.com/krry/chakra-hugo-theme/
 author:
   name: Kerry Snyder
 params:
