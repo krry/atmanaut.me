@@ -2,7 +2,9 @@
  "dependencies": {
   "@fontsource/kreon": "^4.1.0",
   "@fontsource/museomoderno": "^4.1.0",
-  "fuse.js": "^6.4.3"
+  "autoprefixer": "^10.2.5",
+  "fuse.js": "^6.4.3",
+  "postcss": "^8.2.12"
  },
  "devDependencies": {
   "eslint": "^7.13.0",

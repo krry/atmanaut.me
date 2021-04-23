@@ -484,6 +484,7 @@ footer a:visited:hover {
   line-height: 1.5; }
 
 .title-main {
+  -webkit-background-clip: text;
   background-clip: text;
   background-image: linear-gradient(-90deg, #038aa5, #0e2f49);
   color: transparent;
@@ -501,6 +502,7 @@ footer a:visited:hover {
 
 .title-lead,
 .post h3 {
+  -webkit-background-clip: text;
   background-clip: text;
   background-image: linear-gradient(90deg, #0e2f49, #3386c1);
   color: transparent; }
@@ -510,6 +512,7 @@ footer a:visited:hover {
 
 .title-sub,
 .post h2 {
+  -webkit-background-clip: text;
   background-clip: text;
   background-image: linear-gradient(90deg, #0e2f49, #0773c0);
   color: transparent;
@@ -555,6 +558,9 @@ img + p {
   @media only screen and (min-width: 900px) and (min-height: 684px) {
     .post-summary {
       margin: 0 2em 2em; } }
+.post-summary .read-mode {
+  color: transparent; }
+
 .post.comments {
   background-color: #06070a;
   color: #cdd8e0;
@@ -583,6 +589,7 @@ img + p {
   width: 77%; }
 
 .taxonomy dt {
+  -webkit-background-clip: text;
   background-clip: text;
   background-image: linear-gradient(90deg, #038aa5, #0773c0);
   color: transparent;

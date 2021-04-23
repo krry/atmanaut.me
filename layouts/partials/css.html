@@ -4,7 +4,7 @@
 {{- $css := $styleSrc | resources.PostCSS -}}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" media="screen">
 {{- else }}
-{{- $css := $styleSrc | resources.PostCSS | minify | fingerprint -}}
+{{- $css := $styleSrc | postCSS (dict "use" "autoprefixer") | minify | fingerprint -}}
 <link rel="stylesheet" href="{{ $css.RelPermalink | absURL }}" integrity="{{ $css.Data.Integrity }}" media="screen">
 {{ end }}
 <link rel="stylesheet" media="screen" href="/css/app.css">
