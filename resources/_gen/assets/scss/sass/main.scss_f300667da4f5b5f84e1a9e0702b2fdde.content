@@ -558,7 +558,7 @@ img + p {
   @media only screen and (min-width: 900px) and (min-height: 684px) {
     .post-summary {
       margin: 0 2em 2em; } }
-.post-summary .read-mode {
+.post-summary .read-more {
   color: transparent; }
 
 .post.comments {
