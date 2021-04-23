@@ -1,0 +1,3 @@
+[submodule "themes/chakra"]
+	path = themes/chakra
+	url = https://github.com/krry/chakra-hugo-theme.git
