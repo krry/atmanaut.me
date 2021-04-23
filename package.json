@@ -12,11 +12,11 @@
  "scripts": {
   "build": "yarn clean && hugo",
   "clean": "rm -rf ./public",
-  "deploy": "yarn build && vercel",
+  "deploy": "yarn build && ntl",
   "dev": "yarn serve",
   "lint": "eslint --fix",
   "preview": "hugo -EFDb $DEPLOY_URL -d public",
-  "release": "yarn build && vercel --prod",
+  "release": "yarn build && ntl --prod",
   "serve": "hugo server -wDF --baseUrl ${IP} --bind ${IP} --port 7231 --cleanDestinationDir --navigateToChanged",
   "start": "hugo server -wD"
  }

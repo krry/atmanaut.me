@@ -7,3 +7,6 @@ yarn-error.log
 *.pem
 .now
 .vercel
+
+# Local Netlify folder
+.netlify
