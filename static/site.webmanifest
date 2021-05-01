@@ -14,7 +14,7 @@
     }
   ],
   "start_url": "https://atmanaut.me",
-  "theme_color": "#000000",
-  "background_color": "#000000",
+  "theme_color": "#0E2F49",
+  "background_color": "#0E2F49",
   "display": "standalone"
 }
