@@ -1,7 +1,7 @@
 ---
-author: "Kerrbear"
+author: Kerrbear
 categories: []
-date: 2019-03-22T16:48:00-05:00
+date: 2019-03-22T16:48:00.000-05:00
 tags:
 - Non-Occidental
 - spacetime
@@ -13,11 +13,11 @@ title_sub: A first look at the Book of Changes
 title_lead: A headlong dive into the divine
 title_main: I Ching and the Elements of Time
 published: true
----
 
+---
 This week was riddled with coincidence. I'll not bore you with the details. Like so many dreams told or acid trips recounted, the meaning is already lost even on me.
 
-You see, I have begun listening to Terence McKenna, that whirring dynamo of timewaves and historical embellishment through lateral induction. Initially I resisted his rather grating nasal tones. (I wasn't ready for the message, and I doubt anyone is ever truly ready to encounter Terence McKenna.)<!--more--> Timeless gratitude to those who record and publish the wanderings of the scrying minds of yesteryear to YouTube and otherwise. The recordings of McKenna, Alan Watts, and Joseph Campbell lie in wait, bobbing in a seemingly bottomless well of wisdom, insight, and wonderment freely available to all of us. It wasn't always this way. We used to have to learn Sanskrit and Mandarin, spend a decade in the Amazon, and decipher cuneiform and hieroglyphics to gain understanding of such magnitude and profundity. It's no wonder few did.
+You see, I have begun listening to Terence McKenna, that whirring dynamo of timewaves and historical embellishment through lateral induction. Initially I resisted his rather grating nasal tones. (I wasn't ready for the message, and I doubt if anyone is ever truly ready to encounter Terence McKenna.)<!--more--> Timeless gratitude to those who record and publish the wanderings of the scrying minds of yesteryear to YouTube and otherwise. The recordings of McKenna, Alan Watts, and Joseph Campbell lie in wait, bobbing in a seemingly bottomless well of wisdom, insight, and wonderment freely available to all of us. It wasn't always this way. We used to have to learn Sanskrit and Mandarin, spend a decade in the Amazon, and decipher cuneiform and hieroglyphics to gain understanding of such magnitude and profundity. It's no wonder few did.
 
 Returning to center, one of the innumerable of avenues of wonder I have skipped down briefly with Terence has been the [I Ching](https://www.wikiwand.com/en/I_Ching). As one of the oldest written works, if not the oldest, the I Ching holds an ancient message which the western world has only just begun to decipher. [Translations and commentaries vary greatly](https://www.biroco.com/yijing/survey.htm "A survey of I Ching translations") in approach, tone, and execution, some taking a succinct Taoist slant, others emphasizing Confucian politics, or even drawing on the Latin interpretations of the Jesuits. Indeed as texts have bobbed about in the waves of time, they have undergone both subtle and drastic transformations and recapitulations.
 
