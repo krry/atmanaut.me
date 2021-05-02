@@ -29,7 +29,11 @@ Within moments of deciding to research the I Ching, I have dug myself undergroun
 
 I love samples, especially at the grocery. If you want to sell me a beer, offer me a taste. If you want me to buy your book, let me read the first chapter. Freemium apps, somehow, have the opposite effect on me. Maybe it's the pestering. I hate pestering.
 
-All that aside, I am offering you a free sample of the I Ching. Or rather I am going to annotate a coin reading as I do it, and link you to [this lovely open source online I Ching from @ablwr](https://bits.ashleyblewer.com/i-ching/). With apps like this, you can bask in the glorious precognition of the I Ching without the intimidating cognitive overhead, and without coins or yarrow stalks, which I haven't tripped upon  yet, though ['tis nearly the season](https://www.wildflower.org/plants/result.php?id_plant=acmi2).
+All that aside, I am offering you a free sample of the I Ching. Or rather the whole thing, but carefully delivered in snackable, palatable bites, fresh from the Oracle's all-seeing through your third peeper, down the hatch, deeper and deeper until they find a seat in the gut of your soul to slosh about in the bottomless well of being.
+
+I call it [Nameless](https://nameless.quest "Nameless Quest")
+
+Edit: previously I had annotate a coin reading as I do it, and link you to [this lovely open source online I Ching from @ablwr](https://bits.ashleyblewer.com/i-ching/). With apps like this, you can bask in the glorious precognition of the I Ching without the intimidating cognitive overhead, and without coins or yarrow stalks, which I haven't tripped upon  yet, though ['tis nearly the season](https://www.wildflower.org/plants/result.php?id_plant=acmi2).
 
 Today I'll be using the 3-coin method, then requesting the corresponding hexagram from [@Velfi's command-line-accessible I Ching library written in Rust](https://github.com/Velfi/i-ching). But first I need a question. For two months I have been struggling to find the proper tone this new site, this supposed atlas for the Atman. Let's get that resolved so we can move forward!
 
