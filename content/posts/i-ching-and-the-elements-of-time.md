@@ -87,7 +87,7 @@ I, for one, keep my eyes peeled for yarrow stalks ([which have oodles of uses](h
 
 ***
 
-### Counting coins
+### On counting coins
 
 We assume a tossed coin has an equal chance of landing on either of its two sides. These US quarters have a head on one side, which we'll call yang, and assign a value of 1, while the other side will correspond to yin, with a value of 0. This way, each time I flip a coin, it will resolve to yin or yang, with a value of 0 or 1. Three two-sided coins flipped in succession can land 2 times 2 times 2 ways (which is to say 2 to the 3rd power or 8 ways).
 
@@ -104,4 +104,4 @@ To select one of 64 permutations with equal probability, we could flip six coins
 
 These days the only coins I carry are Bitcoins, so I keep my oracle with them as an app on my homescreen. [Nameless](https://nameless.quest) is also a fully functional progressive web app, so if you save it to your home screen, it's available offline, yours to keep.
 
-I wish the best of luck. May the oracle shine favor upon you.
+I wish you the best of luck. May the oracle shine favor upon you.
