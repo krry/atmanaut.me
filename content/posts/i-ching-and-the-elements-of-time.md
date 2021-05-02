@@ -8,8 +8,9 @@ tags:
 - buddy system
 - cleromancy
 - i ching
+- divination
 title: I Ching and the Elements of Time
-title_sub: A first look at the Book of Changes
+title_sub: A peek at the Book of Changes
 title_lead: A headlong dive into the divine
 title_main: I Ching and the Elements of Time
 published: true
