@@ -27,23 +27,29 @@ Within moments of deciding to research the I Ching, I have dug myself undergroun
 
 ## Cannonball into the Divine
 
-I love samples, especially at the grocery. If you want to sell me a beer, offer me a taste. If you want me to buy your book, let me read the first chapter. Freemium apps, somehow, have the opposite effect on me. Maybe it's the pestering. I hate pestering.
+To encounter the I Ching all at once, bound in a book, is a bit like trying to drink the ocean. You may want a straw, but it's not going to help much. (Little known fact, at time of writing, the ocean is 23.7% straws. End of days, jk. I refer you to Recapture the Rapture with Jamie Wheal.)
 
-All that aside, I am offering you a free sample of the I Ching. Or rather the whole thing, but carefully delivered in snackable, palatable bites, fresh from the Oracle's all-seeing through your third peeper, down the hatch, deeper and deeper until they find a seat in the gut of your soul to slosh about in the bottomless well of being.
+Anyway here's a spoon. I'd like to offer you a sample of the I Ching. Or rather the whole thing, but carefully delivered in snackable, palatable bites, fresh from the Oracle's all-seeing through your third peeper, down the hatch, deeper and deeper until they find a seat in the gut of your soul to slosh about in the bottomless well of being.
 
 I call it [Nameless](https://nameless.quest "Nameless Quest").
 
-Edit: previously I had annotate a coin reading as I do it, and link you to [this lovely open source online I Ching from @ablwr](https://bits.ashleyblewer.com/i-ching/). With apps like this, you can bask in the glorious precognition of the I Ching without the intimidating cognitive overhead, and without coins or yarrow stalks, which I haven't tripped upon  yet, though ['tis nearly the season](https://www.wildflower.org/plants/result.php?id_plant=acmi2).
+Edit: previously I had annotated a coin reading as I flipped, then linked you to [this lovely open source online I Ching from @ablwr](https://bits.ashleyblewer.com/i-ching/). You're welcome to continue down this now dusty path, but I think you'll find Nameless considerably more engaging.
 
-Today I'll be using the 3-coin method, then requesting the corresponding hexagram from [@Velfi's command-line-accessible I Ching library written in Rust](https://github.com/Velfi/i-ching). But first I need a question. For two months I have been struggling to find the proper tone this new site, this supposed atlas for the Atman. Let's get that resolved so we can move forward!
+With apps like this, you can bask in the glorious precognition of the I Ching without the intimidating cognitive overhead, and without coins or yarrow stalks, which I haven't tripped upon  yet, though ['tis nearly the season](https://www.wildflower.org/plants/result.php?id_plant=acmi2).
+
+Back in the day before Nameless I'd have been using the 3-coin method, then requesting the corresponding hexagram from [@Velfi's command-line-accessible I Ching library written in Rust](https://github.com/Velfi/i-ching). There was a subsequent span where I traveled with one bag and enjoyed an Android app called [Deepware Changes](https://cranf.com/wpen/android/deepware/changes/) for divination on the go. You may notice as I did that this is a rather robotic oracle.
+
+Back to the dusty path…
+
+First we need a question. For months, years even, I have been struggling to find the proper tone this new site, this supposed atlas for the Atman. Let's get that resolved so we can move forward!
 
 > How shall I approach writing for Atmanaut?
 
 Is this question open-ended? Pertinent to now? Worthy of fifteen minutes? Yes, yes, yes. Then it's ripe for the ancient cleromancy that is the I Ching.
 
-If you could ask [Fuxi](https://www.wikiwand.com/en/Fuxi) how this whole I Ching thing works, he might tell it something like this: 無極 (wuji, the Limitless) makes 太極 (taiji, the Absolute) and draws a ring around it, within which 太極 becomes a pair of opposites 陰陽 (yin and yang), which form eight trigrams 八卦 (bagua), which variously pair into 64 hexagrams, which are the permutations of being becoming itself.
+If you could ask [Fuxi](https://www.wikiwand.com/en/Fuxi) how this whole I Ching thing works, you might hear something like this: 無極 (wuji, the Limitless) which is also 太極 (taiji, the Absolute), draws a ring around itself, within which 太極 becomes a pair of opposites 陰陽 (yin and yang), each forming and consuming the other. These interpenetrating, co-defining lovers at war couple and recouple to form eight trigrams 八卦 (bagua). The bagua represent the seasons, the flavors, the colors, the directions, the numbers, the elements of being. The bagua variously pair into 64 hexagrams, which are the permutations of being becoming itself, the archetypal events that make up the process of awareness, aka the Changes.
 
-What I want to do is to divine which of these situations I find myself in and how it will develop with respect to the question I have raised. So I must open my mind to the realm of possibilities and manifest the answer, using some subtle medium to disguise the truth as random chance. Over the centuries a process of counting fifty yarrow stalks has been developed to divine the applicable hexagrams, which introduces a certain weighted probability to the array of possibilities. When fifty yarrow stalks are not available, [many practitioners flip coins](http://bhoffert.faculty.noctrl.edu/TEACHING/Castcoin.html), which yields different probabilities, while variations in the coin tossing process [weights the probabilities differently](http://the-iching.com/extra/divination_with_stalks). Here today, I'll follow a common coin process that yields values and probabilities close to the yarrow stalk process.
+What I want to do is to divine which of these situations I find myself in and how it will develop with respect to the question I have raised. So I must open my mind to the realm of possibilities and manifest the answer, using some subtle medium to disguise the truth as random chance. Over the centuries a process of counting fifty yarrow stalks has been developed to divine the applicable hexagrams, which introduces a certain weighted probability to the array of possibilities. When fifty yarrow stalks are not available, [many practitioners flip coins](http://bhoffert.faculty.noctrl.edu/TEACHING/Castcoin.html), which yields different probabilities, while variations in the coin tossing process [weights the probabilities differently](http://the-iching.com/extra/divination_with_stalks). Here today, I'll follow a common coin process that yields values and probabilities close to the yarrow stalk process. (Edit: there are coin flip methods that mirror the probability field of yarrow stalks with mathematical exactness. For more I refer you to [Stuart M Anderson's proof](http://www.russellcottrell.com/VirtualYarrowStalks/downloads/4coinmethod.pdf "Bringing the Yarrow and Coin Methods into Agreement"). [Nameless](https://nameless.quest) encodes the faithful 4-coin method algorithmically.)
 
 Tossing three coins six times I will generate six lines of a hexagram, starting at the bottom. Each coin is a binary system consisting of two opposites: heads and tails, yang and yin. We'll assign yang to heads and give it a value of 3. Tails is yin and is worth 2.
 
@@ -73,11 +79,11 @@ Relaying this to the Rust library via CLI yields:
 
 Looks like it might be time to chill on this post and do something else for a bit. "The leg of the bed is split." That doesn't bode well.
 
-You'll probably note as I have that many of the translations use an anonymous masculine subject. So far as I have seen, we could substitute "one" for "man" without issue.
+You'll probably note as I have that many of the translations use an anonymous masculine subject. So far as I have seen, we could substitute "one" for "man" without issue. (Edit: By default Nameless provides a genderless transmutation of the popular but dated Wilhelm-Barnes translation. You may also choose to reinstate the gendered language with the flip of a switch.)
 
 ### Denoue
 
-I, for one, will keep my eyes peeled for yarrow stalks ([which have oodles of uses](https://www.mommypotamus.com/yarrow/)) as I jog the creek amidst the rising spring. With stalks or coins in hand, I will direct my glowing orb of awareness over to the control panel at the uncertainty machine within the realm of possibilities. A question will arise. I will either intend to focus upon it or let it pass. With the coins or the stalks I will manifest one of the 64 _guaxiang,_ a hexagram, six lines, one at a time. Each line is broken or solid, yin or yang, old or young, changing or steady. As the lines stack up, so do two trigrams of the 八卦 ([_bagua_](http://www.wikiwand.com/en/Bagua)_)_, eight glyphs which, to my untrained eye, form the backbone of esoteric symbolism in Chinese philosophy. The _bagua_ map neatly to binary numbers, chakras, colors, planets, actions, body parts, qualities, images of nature, animals, artifacts, family members, and of course 汉字 (hànzì).
+I, for one, keep my eyes peeled for yarrow stalks ([which have oodles of uses](https://www.mommypotamus.com/yarrow/)) as I jog the creek amidst the fading spring. With stalks or coins in hand, I direct my glowing orb of awareness over to the control panel at the uncertainty machine within the realm of possibilities. A question arises. I either intend to focus upon it or let it pass. With the coins or the stalks I manifest one of the 64 _guaxiang,_ a hexagram, six lines, one at a time. Each line is active or receptive, strong or yielding, rigid or flexible, broken or solid, yin or yang, old or young, changing or steady. As the lines stack up, so do two trigrams of the 八卦 ([_bagua_](http://www.wikiwand.com/en/Bagua)_)_, eight glyphs which, to my untrained eye, form the backbone of esoteric symbolism in Chinese philosophy. As I partly mentioned, the _bagua_ map neatly to binary numbers, chakras, colors, planets, actions, body parts, qualities, images of nature, animals, artifacts, family members, and of course 汉字 (hànzì). This is a playful space rich with pseudoscience and superstition, but one that may bear a fundamental truth about the nature of duality, or rather about its artificiality.
 
 ***
 
@@ -94,4 +100,8 @@ We assume a tossed coin has an equal chance of landing on either of its two side
     110
     111
 
-To select one of 64 permutations with equal probability, we could flip six coins in succession, as 2 to the 6th power is 64. But in casting lots for the I Ching, we are not only manifesting one of 64 hexagrams, but an interwoven relationship between two of the 64. For this we need more computing power.
+To select one of 64 permutations with equal probability, we could flip six coins in succession, as 2 to the 6th power is 64. But in casting lots for the I Ching, we are not only manifesting one of 64 hexagrams, but an interwoven relationship between two of the 64. For this we need more computing power. Hence the extra coins.
+
+These days the only coins I carry are Bitcoins, so I keep my oracle with them as an app on my homescreen. [Nameless](https://nameless.quest) is also a fully functional progressive web app, so if you save it to your home screen, it's available offline, yours to keep.
+
+I wish the best of luck. May the oracle shine favor upon you.
