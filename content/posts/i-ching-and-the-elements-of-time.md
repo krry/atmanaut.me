@@ -31,7 +31,7 @@ I love samples, especially at the grocery. If you want to sell me a beer, offer 
 
 All that aside, I am offering you a free sample of the I Ching. Or rather the whole thing, but carefully delivered in snackable, palatable bites, fresh from the Oracle's all-seeing through your third peeper, down the hatch, deeper and deeper until they find a seat in the gut of your soul to slosh about in the bottomless well of being.
 
-I call it [Nameless](https://nameless.quest "Nameless Quest")
+I call it [Nameless](https://nameless.quest "Nameless Quest").
 
 Edit: previously I had annotate a coin reading as I do it, and link you to [this lovely open source online I Ching from @ablwr](https://bits.ashleyblewer.com/i-ching/). With apps like this, you can bask in the glorious precognition of the I Ching without the intimidating cognitive overhead, and without coins or yarrow stalks, which I haven't tripped upon  yet, though ['tis nearly the season](https://www.wildflower.org/plants/result.php?id_plant=acmi2).
 
