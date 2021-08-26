@@ -13,7 +13,6 @@ title_sub: Don't Climb the Rungs, Become the Rungs
 title_lead: or How Giants Got Such Stable Shoulders
 categories:
 - easeness
-draft: true
 
 ---
 This August, I [shifted my work into the realm of gift](https://krry.dev/gift "Working in the Gift • krry.dev") and set foot on [the Path of Laddership](https://pod.servicespace.org/apply/laddership "Laddership Pod at ServiceSpace"). I'll be sharing a series here of writings inspired and prompted by the Laddership Pod. This is a bit of preamble for context.
