@@ -1,6 +1,6 @@
 ---
 date: 2021-08-25T21:24:23-07:00
-title: The Path to Laddership
+title: The Path to Laddership and Living in the Gift
 author: Kerrbear
 tags:
 - easeness
@@ -8,7 +8,8 @@ tags:
 - leadership
 - circling
 - introspection
-title_main: The Path of Laddership
+- laddership
+title_main: The Path of Laddership and Living in the Gift
 title_sub: Don't Climb the Rungs, Become the Rungs
 title_lead: or How Giants Got Such Stable Shoulders
 categories:
