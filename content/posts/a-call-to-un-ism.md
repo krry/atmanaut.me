@@ -13,17 +13,16 @@ Dear Persons,
 
 This rising crisis is the shock we require to reach the next octave. Have courage. Keep calm and listen with your heart.
 
-This is an open letter to those who envision themselves to be identified <!--more-->as a member of a race, a generation, a political party, a gender, a nation, an orientation, a corporation, an ethnicity, a faith, a culture, a religion, a body, a family, a profession, and even moreso to those who attempt to generalize the identity of others or to classify individuals into taxonomies or categories.
-
-Identities aside, know first that black and brown and yellow and red lives matter. All. Life. And remember to breathe. Breath is life, and time is breath.
+This is an open letter to those who envision themselves to be identified <!--more-->as a member of a group, a class, an organization, a race, a generation, a political party, a gender, a nation, an orientation, a corporation, an ethnicity, a faith, a culture, a religion, a body, a family, a profession, and even moreso to those who attempt to generalize the identity of others or to classify individuals into taxonomies or categories.
 
 Here is the mindset I would take as a human being in these tumultuous times:
 
 > I wholly support the sovereignty of every conscious being, and I fervently call for the end of violence toward and oppression of anyone based on how they appear. I stand with everyone who has been mistreated or disrespected based on an attribute of their body or mind. I vow to be a pillar of compassion and equanimity, to listen to all perspectives with an open heart, to accept only what I need, and to give everything I can. I reject and contest preferential treatment based on appearance. I commit to sharing privilege evenly among all denizens of earth until it is no more. I devote myself to guiding us toward the awareness, acknowledgment, and acceptance of our sovereignty.
 
-> In kind I must request that no one refer to me as a skin color, or as a gender, or by any other label. For decades I have selected the Other bubbles. When required to say more, I have opted to be labeled North American, sometimes Terran, sometimes merely Human. Truth told, even these are unwanted and inaccurate. I do not expect to change anyone's mind but my own, but to my mind these classifications do not belong in my identity.
+> In kind I must request that no one refer to me as a gender, an age, a skin color, or by any other label. For decades I have selected the **Other** bubbles. When obliged to say more, I have opted to be labeled North American, sometimes Terran, sometimes merely Human. Truth told, even these are unwanted and inaccurate. I do not expect to change anyone's mind but my own, but to my mind these classifications do not belong in my identity.
 
-## I am, yes, but that is it. I am that I am.
+## I am, yes, but that is it.  
+I am that I am.
 
 To refer to me, please use my name, Kerry, or "you", "we", or "us". These represent the totality of the identifiers to which I consent. All of us, every conscious being, may exercise this option to self-identify, and we all must agree to hold these sovereign self-identifications sacred in mutual respect.
 
