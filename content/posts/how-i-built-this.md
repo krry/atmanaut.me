@@ -1,21 +1,21 @@
 ---
-title: 'Building Atmanaut: How This Happened'
+title: 'Building Atmanautica: How This Happened'
 date: 2019-02-20 12:06:00 +0000
 layout: code
 tags:
-- code
-- devsign
+  - code
+  - devsign
 title_lead: Oh yeah, well now this is happening…
-title_main: Building Atmanaut
+title_main: Building Atmanautica
 title_sub: Howsits and Whatsits
 draft: true
-
 ---
+
 A couple years back a message came through clear as a bell. "Love is the answer." An oft-repeated platitude, yes, but this time it stuck and took over, like an amorous prion.
 
-The next day this name came to me: "Atmanaut! Is that what we are?" I still don't know how to fully explain this transformation, but at least I have a word for it.<!--more--> Atmanaut: explorer of the farthest reaches of the soul we share. Anyone that understands and appreciates this occupation, this coinage, will be a compadre, comrade, y en mi cadre. There could be millions of practicing atmanauts and we wouldn't know unless they can self-identify.
+The next day this name came to me: "Atmanauts! Is that what we are?" I still don't know how to fully explain this transformation, but at least I have a word for it.<!--more--> Atmanaut: an explorer of the farthest reaches of the soul we share. Anyone that understands and appreciates this occupation, this coinage, will be a compadre, comrade, y en mi cadre. There could be millions of practicing atmanauts and we wouldn't know unless they can self-identify.
 
-So I reserved use some space. Atmanaut.me is for personal Atmanaut matters.  Atmanaut.us is for all of us to collaborate: this site here, which will become the Atlas. The Atlas is built on Hugo at the moment.
+So I reserved use some space. Atmanaut.me is for personal Atmanaut matters. Atmanaut.us is for all of us to collaborate: this site here, which will become the Atlas. The Atlas is built on Hugo at the moment.
 
 ## What are you, nuts and bolts?
 
@@ -27,11 +27,11 @@ In the present case, thanks to a hoard of wunderkinder that open sourced their b
 
 ## TL;DR: The Stack
 
-* [Hugo](https://gohugo.io/about/ "Hugo"), which generates a lightning-fast, theme-able static site with plenty of Go power, a thriving community, and a stellar dev team.
-* [Chakra](https://github.com/krry/chakra-hugo-theme/ "Chakra Hugo Theme"), my handrolled Hugo theme
-* [Forestry.io](https://forestry.io) for handling content. It's like Minecraft meets Wordpress with a woodsy musk.
-* [Now.sh](https://zeit.co/now), for no-frills, full-auto deployment/hosting/DNS from the terminal, or straight from the `master` branch to you
-* iA Writer - for hipster purity XP, LVL 99. I've been trying out Typora too, but ol' faithful iA really knows how to make me love to write.
+- [Hugo](https://gohugo.io/about/ 'Hugo'), which generates a lightning-fast, theme-able static site with plenty of Go power, a thriving community, and a stellar dev team.
+- [Chakra](https://github.com/krry/chakra-hugo-theme/ 'Chakra Hugo Theme'), my handrolled Hugo theme
+- [Forestry.io](https://forestry.io) for handling content. It's like Minecraft meets Wordpress with a woodsy musk.
+- [Now.sh](https://zeit.co/now), for no-frills, full-auto deployment/hosting/DNS from the terminal, or straight from the `master` branch to you
+- iA Writer - for hipster purity XP, LVL 99. I've been trying out Typora too, but ol' faithful iA really knows how to make me love to write.
 
 The squirrel gets it when we ships it.
 ![The ShipIt! squirrel gets it.](/img/ship-it-squirrel.jpg)
@@ -40,7 +40,7 @@ The squirrel gets it when we ships it.
 
 Hugo comes with all kinds of built-in goodies. Like syntax highlighting, powered by chromastyles and pygments.
 
-``` js
+```js
 !function (name, definition) {
 
   if (typeof module != 'undefined') module.exports = definition()
@@ -50,6 +50,6 @@ Hugo comes with all kinds of built-in goodies. Like syntax highlighting, powered
 }('domready', function () {}
 ```
 
-###### 
+### Moo-ve over Oracle
 
 If you pipe fortune into cowsay into lolcat and randomize the cows, you get a pretty amazing command line soothsayer I call [Kamadhenu](https://github.com/krry/kamadhenu). Next version will be AI-powered.

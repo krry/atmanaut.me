@@ -1,18 +1,18 @@
 ---
-author: "Kerrbear"
+author: Kerrbear
 categories: []
 date: 2019-03-24T10:46:00-05:00
 title_sub: Or where is it nice now?
 tags:
-- playwork
-- vacay
-- ideation
-- prediction
+  - playwork
+  - vacay
+  - ideation
+  - prediction
 title: How to Go Where It Is Nice
 title_lead: The All New Buenomadic 2020
 title_main: When is it nice here?
-
 ---
+
 This little diddy is perhaps moot following the Coronation. But assuming we
 someday resume travel, here's a way to make it more blissful.<!--more-->
 
@@ -32,20 +32,20 @@ Hold on, hold on. Let's look at a different scenario.
 
 The weather is perfect, Marklar levels just right. I didn't get lost on the way here, and it was easy to park (in fact we shared a ride so I didn't have to park). I found out yesterday that the Rainbow Hoosefarthings are in bloom this week and they're only 5 miles from my house. How come I never knew about this? It's so beautiful! Wish I'd had a $1500 SLR to capture this! But do I really need 25 bizzy-buzzy reasons and a $1500 SLR to enjoy a walk in the hills? No way Josie, I'm in the here and now, where I always am but sometimes I pretend not to be because I'm a time traveler stuck in an anal-cranial inversion loop. Whoa, are those dragonflies fighting...? Oh my, nope. Not fighting...
 
-## Vacation should be simple, cheap, frequent, and organic!
+## Vacation should be simple, cheap, frequent, and organic
 
 How do we fix this? Is there an app for that?
 
 A cursory survey of the area yields:
 
-* [The Best Time to Visit
+- [The Best Time to Visit
   Anywhere](https://decisiondata.org/the-best-time-to-visit-anywhere/) is the closest thing to a useful answer, and seems to be the
   foundation of [Champion Traveler](https://championtraveler.com/travel-weather-map/).
-* [Audley provides some weather data by location](https://www.audleytravel.com/us/new-zealand/best-time-to-visit) on the way to peddling tailor-made journeys via SEO.
-* [HipCamp](https://www.hipcamp.com/ "HipCamp") and [a few others](https://www.fatherly.com/gear/airbnb-for-campers/ "AirBnB for campers")
-* [Hiking Project](https://www.hikingproject.com/ "REI has a Hiking Project"), seemingly sponsored by REI
-* [Pleasant Places](https://kellegous.com/j/2014/02/03/pleasant-places/) by Kelly Norton
-* [A nice weather map from The Wash Po](https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/08/07/the-united-states-of-nice-days-heres-where-and-when-to-find-the-nations-most-frequent-ideal-weather/?noredirect=on&utm_term=.11029fac0d9e "WashPo NiceHere")
+- [Audley provides some weather data by location](https://www.audleytravel.com/us/new-zealand/best-time-to-visit) on the way to peddling tailor-made journeys via SEO.
+- [HipCamp](https://www.hipcamp.com/ 'HipCamp') and [a few others](https://www.fatherly.com/gear/airbnb-for-campers/ 'AirBnB for campers')
+- [Hiking Project](https://www.hikingproject.com/ 'REI has a Hiking Project'), seemingly sponsored by REI
+- [Pleasant Places](https://kellegous.com/j/2014/02/03/pleasant-places/) by Kelly Norton
+- [A nice weather map from The Wash Po](https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/08/07/the-united-states-of-nice-days-heres-where-and-when-to-find-the-nations-most-frequent-ideal-weather/?noredirect=on&utm_term=.11029fac0d9e 'WashPo NiceHere')
 
 ### Lt. Commander Data to the Bridge
 

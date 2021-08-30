@@ -1,17 +1,17 @@
 ---
 date: 2020-06-15T13:10:56.000-07:00
 title: How to Lose Our Minds
-author: Atmanaut
+author: Kerrbear
 tags:
-- mindlessness
-- hermetica
-- foam well
+  - mindlessness
+  - hermetica
+  - foam well
 title_main: Mindlessness Is Next to God-be-ness
 title_sub: or How to Lose Your Mind and Find Ourself
 title_lead: We are the space within the bubble, the water in the drop
 categories: []
-
 ---
+
 Is it okay to talk about this yet?
 When have our minds ever helped us?
 The royal "us", as in all of us.
@@ -26,7 +26,9 @@ I am willing.
 I am able.
 I am intent.
 I am grieving.
+
 <!--more-->
+
 I am. Yes, that is clear. We are. It's what a sneeze teaches us, or is made of, or what a blink would say. The rest is mental.
 
 Even the Thrice-Great Hermes may have had it twisted. Mind is all, the first principle goes. What does a mind swim in?
@@ -52,14 +54,14 @@ Can this bring us solace? Only if we can detach or disidentify from the claw mac
 
 More practically, I very much enjoy [José F. Mata's Quarantine Care Package](https://medium.com/@josefmata/quarantine-care-package-5a898ae0179a), which highlights practices that:
 
-* Center with kind touch
-* Stretch within your bubble
-* Hone your point of awareness
-* Do your abilities
-  * play/dance/sing
-  * eat/s(h)it/die
-  * think/see/know
-  * understand/listen/feel
-* Give what you have; ask for what you need.
+- Center with kind touch
+- Stretch within your bubble
+- Hone your point of awareness
+- Do your abilities
+  - play/dance/sing
+  - eat/s(h)it/die
+  - think/see/know
+  - understand/listen/feel
+- Give what you have; ask for what you need.
 
 Foam well, yall.
