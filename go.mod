@@ -1,7 +1,7 @@
-module git@github.com/krry/chakra-hugo-theme
+module github.com/krry/atmanaut.me
 
-go 1.16
+go 1.17
 
-replace git@github.com/krry/chakra-hugo-theme => ../chakra
+replace github.com/krry/chakra-hugo-theme => /Users/kerry/Code/krry/chakra-hugo-theme
 
-require github.com/krry/chakra-hugo-theme v0.0.0-20210423091754-d614de68391c // indirect
+require github.com/krry/chakra-hugo-theme v0.0.0-20211015053018-20dc2f619068 // indirect

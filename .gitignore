@@ -5,8 +5,5 @@ node_modules
 yarn-error.log
 .tags
 *.pem
-.now
-.vercel
-
-# Local Netlify folder
 .netlify
+_vendor

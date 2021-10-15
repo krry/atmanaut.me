@@ -1,0 +1,54 @@
+languageCode = 'en-us'
+title = 'Atmanautica'
+baseUrl = 'https://atmanaut.me'
+themesDir = '..'
+metaDataFormat = 'yaml'
+
+[module.imports]
+	path = 'github.com/krry/chakra-hugo-theme'
+	# site theme
+
+[params]
+  description = 'A place for explorers of the spirit we share, being knowing enjoying'
+  author = 'Kerry Snyder'
+  github = 'https://github.com/krry'
+  facebook = 'https://facebook.com/atmanaut'
+  og_image = 'https://og.easeness.biz/Atmanautica.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fatmanaut.sirv.com%2Flogos%2Fbloobicon.svg'
+  sitename = 'Atmanautica'
+  twitter = '@kerryourself'
+  instagram = '@kerryourself'
+  tagline = 'सच्चिदानन्द'
+  tagsLimit = 27
+  summaryLength = 50
+  preserveTaxonomyNames = true
+
+[params.colors]
+	base = '#280664'
+	purp = '#5d17d9'
+	blue = '#1695c5'
+
+[author]
+  name = 'Kerry Snyder'
+
+[outputs]
+  home = ['html', 'json', 'rss']
+
+[taxonomies]
+  author = 'authors'
+  tag = 'tags'
+  category = 'categories'
+
+[permalinks]
+  posts = '/:year/:month/:title'
+
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+# canonifyURLs = true # https://gohugo.io/content-management/urls/#canonicalization

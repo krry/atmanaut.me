@@ -278,14 +278,19 @@ function fluctuateSpinner(e) {
   // calculate distance between these points every interval
   var distanceFromCenter = measureDistance(bloob, mX, mY)
   bloob.style.animationDuration = distanceFromCenter + 'ms'
-  var liveColor = 'hsl(' + (distanceFromCenter % 360) + ', 82%, 82%)'
+  const hue = (distanceFromCenter * 100) % 360
+  const saturation = ((distanceFromCenter * 100) % 15) + 75
+  const lightness = ((distanceFromCenter * 100) % 15) + 75
+  var liveColor = `hsl(${hue}, ${saturation}%, ${lightness}%)`
   bloob.children[0].style.color = liveColor
   setScrollerColor(liveColor)
 }
 
 function setScrollerColor(color) {
   var scroller = document.getElementById('scrolliner')
-  scroller.style.backgroundColor = color
+  if (scroller) {
+    scroller.style.backgroundColor = color
+  }
 }
 
 function toggleSpins(e) {

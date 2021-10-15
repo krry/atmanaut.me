@@ -46,7 +46,7 @@ Rupert Spira advises us to ask, in times of quietude, "Am I aware?" This is perh
 - How did **π**, **ℯ**, **ɸ**, **G**, and the rest of the magic numbers arise?
 - Is everything made of maths? Quantum fields? Possibility? Information? Mind?
 - What tastes worse with bacon?
-- What do whales about?
+- What do whales sing about?
 - How do birds navigate the globe?
 - Can an AI learn what dogs and cats are saying?
 - Will I find true love?

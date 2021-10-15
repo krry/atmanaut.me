@@ -1,26 +1,24 @@
 {
- "dependencies": {
-  "@fontsource/kreon": "^4.1.0",
-  "@fontsource/museomoderno": "^4.1.0",
-  "autoprefixer": "^10.2.5",
-  "fuse.js": "^6.4.3",
-  "postcss": "^8.2.12",
-  "postcss-cli": "^8.3.1"
- },
- "devDependencies": {
-  "eslint": "^7.13.0",
-  "eslint-config-prettier": "^6.15.0",
-  "prettier": "2.1.2"
- },
- "scripts": {
-  "build": "yarn clean && hugo",
-  "clean": "rm -rf ./public",
-  "deploy": "yarn build && ntl deploy",
-  "dev": "yarn serve",
-  "lint": "eslint --fix",
-  "preview": "hugo -EFDb $DEPLOY_URL -d public",
-  "release": "yarn build && ntl --prod",
-  "serve": "hugo server -wF --baseUrl ${IP} --bind ${IP} --port 7231 --cleanDestinationDir --navigateToChanged",
-  "start": "hugo server -wD"
- }
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "fuse.js": "^6.4.3",
+    "postcss": "^8.2.12",
+    "postcss-cli": "^8.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-prettier": "^6.15.0",
+    "prettier": "2.1.2"
+  },
+  "scripts": {
+    "build": "yarn clean && hugo",
+    "clean": "rm -rf ./public",
+    "deploy": "yarn build && ntl deploy",
+    "dev": "yarn serve",
+    "lint": "eslint --fix",
+    "preview": "hugo -EFDb $DEPLOY_URL -d public",
+    "release": "yarn build && ntl --prod",
+    "serve": "hugo serve -wF --port 4481 --cleanDestinationDir --navigateToChanged",
+    "start": "hugo serve -wD"
+  }
 }

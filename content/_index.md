@@ -91,7 +91,7 @@ I just have so many questions.
 - How did π, [_e_](<https://www.wikiwand.com/en/E_(mathematical_constant)>), [φ](https://www.wikiwand.com/en/Golden_ratio), [G](https://www.wikiwand.com/en/Gravitational_constant), and the rest of the magic numbers arise?
 - Is it all maths? fields? possibilities? information? Mind?
 - What tastes worse with bacon?
-- Do whales sing birdsongs?
+- Do whales sing big, wet, birdsongs?
 - Can I train my AI to speak with my dogs and cats?
 - Will I find true love?
 - Who doesn't have cancer?
