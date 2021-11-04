@@ -16,8 +16,15 @@ Spelunk the essential.
 A hugo-powered static site using the chakra theme, ready to link up with a
 Forestry.io CMS, and auto-deployable on now.sh.
 
+## To dev
+
+The theme is chakra-hugo-theme, developed alongside this site. When devving locally, it is helpful to have both repos cloned, and the relative path to the theme mapped in [`go.mod`](/go.mod), where you will find an example of this `replace` operation.
+
+Then: `yarn dev`
+
 ## To Consider Doing
 
+- [ ] figure out a new source for bkgds or how to use the Unsplash API in Hugo
 - \[ \] es6 support, babel, webpack, etc.
 - \[ \] annotation lane for links and sidenotes (a la footnotes)
 - \[ \] make page styles respond to background image colors with [postcss-get-color](https://github.com/ismamz/postcss-get-color)
